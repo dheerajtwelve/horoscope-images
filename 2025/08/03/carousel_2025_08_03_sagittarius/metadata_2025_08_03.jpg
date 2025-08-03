@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-03T20:23:34.620849",
+  "date_folder": "carousel_2025_08_03_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is a great day to share your questions and ideas with others instead of keeping them to yourself.",
+      "• Engaging in discussions can help you gain new perspectives and enrich your understanding.",
+      "• Remember to take a moment to heal and let go of doubts; consider a quick reading for clarity.",
+      "• Stay optimistic and adventurous, but also focus on practical plans for your future."
+    ],
+    "love": [
+      "• Approach your partner with patience today, as they may be feeling distant or uncommunicative.",
+      "• Instead of reacting with frustration, take time to understand their feelings and what might be bothering them.",
+      "• Reflect on your recent actions; you may have unintentionally hurt them and should be open to listening.",
+      "• Remember to stay optimistic and adventurous in love, while also being practical about your relationship's future."
+    ],
+    "health": [
+      "• Use this energetic time to enhance your workout routine; consider trying new exercises at the gym to keep things exciting.",
+      "• Focus on building a positive relationship with your body; acknowledge any tensions and work through them with care.",
+      "• Channel your natural charisma to inspire others around you during workouts; your energy can motivate those in your community.",
+      "• Remember to stay present and make practical health plans for the future while embracing your adventurous spirit."
+    ],
+    "career": [
+      "• Trust your instincts and let your intuition guide you rather than getting caught up in details.",
+      "• Embrace your adventurous spirit while balancing it with practical plans for your future.",
+      "• Stay optimistic and be open to taking calculated risks in your career.",
+      "• Explore your talents and motivations to uncover new opportunities for growth."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
