@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-09T21:02:52.241554",
+  "date_folder": "carousel_2025_08_09_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your feelings are strong today; it's important to express them instead of holding back.",
+      "• Ignoring your emotions may cause more trouble than sharing them openly.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning.",
+      "• Stay present and enjoy your journey, while also exploring new ideas and experiences."
+    ],
+    "love": [
+      "• Open up to your partner about what’s been on your mind; honest communication can strengthen your bond.",
+      "• Don’t let unspoken concerns build up; addressing them can prevent misunderstandings.",
+      "• Embrace the playful and adventurous spirit within you to reignite passion in your relationship.",
+      "• Focus on the present while making practical plans for your future together to enhance your connection."
+    ],
+    "health": [
+      "• Enjoy the fun and energy you have right now, but remember to take care of your health.",
+      "• Pay special attention to your liver by including foods like blackberries, tomatoes, and beets in your diet.",
+      "• Stock up on healthy items at your local farmer's market or grocery store to support your well-being.",
+      "• Balance your adventurous spirit with practical plans for the future to maintain your overall health."
+    ],
+    "career": [
+      "• Take calculated risks in your career to open new opportunities and foster growth.",
+      "• Build a strong foundation, but don’t hesitate to venture into unfamiliar areas.",
+      "• Embrace your adventurous spirit and let your dreams guide your professional journey.",
+      "• Stay optimistic while balancing present responsibilities with future planning."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
