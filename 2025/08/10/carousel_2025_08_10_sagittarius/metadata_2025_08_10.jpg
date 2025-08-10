@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-10T09:23:24.465302",
+  "date_folder": "carousel_2025_08_10_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Avoid putting too much pressure on yourself today; remember that not every situation is life or death.",
+      "• Maintain an upbeat attitude to attract positive support from others around you.",
+      "• Simplify your approach to challenges; complexity can push away those who want to help you.",
+      "• Embrace your adventurous spirit and focus on living in the present while planning for the future."
+    ],
+    "love": [
+      "• A budding friendship may deepen into romance, especially in unexpected places like work.",
+      "• Take advantage of the astral climate to get to know someone on a more romantic level.",
+      "• Embrace your adventurous and optimistic spirit, but remember to stay grounded in the present.",
+      "• Focus on building real connections, as compatibility can lead to lasting love."
+    ],
+    "health": [
+      "• Focus on maintaining your health routine this month, especially if you're feeling out of sync.",
+      "• Nourish your body with healthy foods that are both delicious and packed with essential vitamins.",
+      "• Incorporate exercises like Bikram yoga to improve your strength, flexibility, and balance.",
+      "• Stay optimistic and adventurous, while also making practical plans for your health and well-being."
+    ],
+    "career": [
+      "• Share your ideas quickly, as they are very relevant right now; use emails and instant messages to spread the word.",
+      "• Expect fast responses when you reach out; this is a great time for progress in your career.",
+      "• Consider seeking guidance from a Keen Advisor to help you navigate workplace challenges effectively.",
+      "• Embrace your adventurous spirit while also making practical plans for a successful future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
