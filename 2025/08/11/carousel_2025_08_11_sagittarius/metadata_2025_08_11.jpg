@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-11T09:24:00.710983",
+  "date_folder": "carousel_2025_08_11_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Stay calm and don't force your opinions on others today; it's okay if they don't agree with you.",
+      "• Resist the urge to snap at those around you; holding back your words will be more beneficial.",
+      "• Allow your imagination to take you away from reality; your daydreams can be a source of comfort.",
+      "• Embrace your adventurous spirit, but remember to balance dreams with practical planning for your future."
+    ],
+    "love": [
+      "• An unexpected encounter today could lead to an exciting romance that surprises you in wonderful ways.",
+      "• Embrace the unique perspectives of others; someone very different from you may resonate deeply.",
+      "• Stay optimistic and open to new experiences, as today offers many chances for love and connection.",
+      "• While you love adventure, remember to balance your dreams with practical steps for a fulfilling future."
+    ],
+    "health": [
+      "• Focus on flexibility in your routine to improve both your health and relationships.",
+      "• Pay attention to your body’s needs, as neglecting them can affect your connections with others.",
+      "• Start by reducing greasy foods and caffeine in your diet, and remember to drink more water.",
+      "• Embrace your adventurous spirit while also making practical plans for your health and future."
+    ],
+    "career": [
+      "• Don't hesitate to take shortcuts; they can help you reach your career goals faster.",
+      "• Seek advice from those who have experience in your field to guide your decisions.",
+      "• Be open to unconventional methods; the best solutions may not always be obvious.",
+      "• Remember to balance your adventurous spirit with practical planning for a successful future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
