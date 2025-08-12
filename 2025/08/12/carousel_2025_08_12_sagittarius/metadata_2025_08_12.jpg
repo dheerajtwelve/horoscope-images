@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-12T09:08:06.283948",
+  "date_folder": "carousel_2025_08_12_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Take a step back to manage your emotions; this will help you see situations more clearly.",
+      "• Allow rational thoughts to surface instead of acting impulsively on your feelings.",
+      "• Embrace a stable mindset by viewing your emotions from a distance before responding.",
+      "• Remember to balance your adventurous spirit with practical planning for a brighter future."
+    ],
+    "love": [
+      "• You may discover something about a friend that could spark a new romantic possibility you've been dreaming about.",
+      "• Don't hesitate to act on this newfound information; it could lead to exciting changes in your love life.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your future relationships.",
+      "• Keep an optimistic outlook and be open to exploring new connections that could deepen your understanding of love."
+    ],
+    "health": [
+      "• Embrace transformation by focusing on emotional changes that enhance your life.",
+      "• Nurture relationships that uplift you and choose foods that strengthen your body.",
+      "• Prioritize getting enough rest to maintain your energy and vitality.",
+      "• Stay optimistic while making practical plans for your future adventures."
+    ],
+    "career": [
+      "• Expect heightened emotions at work today; be gentle with yourself and take breaks as needed.",
+      "• Avoid taking on extra responsibilities; you don't need to prove your worth to anyone.",
+      "• Embrace your natural optimism and adventurous spirit, but remember to focus on practical plans for your future.",
+      "• Consider seeking guidance for your financial decisions to help elevate your potential and career growth."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
