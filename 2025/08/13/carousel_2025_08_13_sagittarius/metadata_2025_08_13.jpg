@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-13T09:10:04.537282",
+  "date_folder": "carousel_2025_08_13_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Stand your ground in debates today; your strong observation skills give you an edge.",
+      "• Trust your instincts to gauge the energy around you and understand others' thoughts.",
+      "• If situations heat up, don't hesitate to take charge and assert yourself.",
+      "• Embrace your adventurous spirit while also making sure to plan for the future."
+    ],
+    "love": [
+      "• Embrace adventure in your relationships; seek out new experiences that excite you and your partner.",
+      "• Be open to conversations today that can lead to exciting places, both physically and emotionally.",
+      "• Focus on living in the moment while also planning for a bright future together.",
+      "• Remember to balance your adventurous spirit with practical steps to strengthen your love life."
+    ],
+    "health": [
+      "• If you're feeling unwell, consider increasing your water intake to stay hydrated.",
+      "• Make it a routine to drink a couple of glasses of warm water before your morning coffee or tea.",
+      "• Invest in a juicer to create healthy drinks using fresh fruits and vegetables for extra nourishment.",
+      "• Embrace your adventurous spirit while also staying grounded in practical health habits for a balanced lifestyle."
+    ],
+    "career": [
+      "• Prepare for an important job interview that may come your way soon, but be ready for potential communication mishaps.",
+      "• Stay optimistic and adventurous, as your charismatic nature will attract opportunities in your career.",
+      "• Focus on practical planning while balancing your work and personal life to make the most of your skills.",
+      "• Embrace your natural curiosity; exploring new ideas can lead to unexpected career growth."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
