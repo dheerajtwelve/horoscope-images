@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-14T09:10:30.220595",
+  "date_folder": "carousel_2025_08_14_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Stay focused on your goals today; slow and steady actions will lead to success.",
+      "• Don't let unexpected events distract you; keep your course and maintain your balance.",
+      "• Stick to tried-and-true methods and be cautious of offers that seem too good to be true.",
+      "• Embrace your adventurous spirit, but remember to plan wisely for the future."
+    ],
+    "love": [
+      "• Today is a great day to express your feelings; don’t hesitate to show someone how much they mean to you.",
+      "• Choose a special setting, whether it's a beach or your kitchen, to create a memorable moment together.",
+      "• Embrace your adventurous spirit, but remember to balance spontaneity with practical plans for the future.",
+      "• Stay optimistic and open-hearted as you explore the depths of love; your charisma will attract meaningful connections."
+    ],
+    "health": [
+      "• Focus on your flexibility by incorporating stretches for your hips and legs to enhance your physical strength.",
+      "• Reduce caffeine consumption and try peppermint or chamomile tea to support your nervous system.",
+      "• Embrace your adventurous spirit while staying grounded in the present and making practical plans for your future.",
+      "• Remember to celebrate your natural optimism and generosity, as they contribute to your overall well-being."
+    ],
+    "career": [
+      "• Avoid getting involved in workplace drama to maintain your focus and peace of mind.",
+      "• Asking too many questions can lead to confusion; choose your inquiries wisely.",
+      "• Embrace your adventurous spirit but remember to plan practically for your future.",
+      "• Consider seeking advice from a professional to navigate your career challenges effectively."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
