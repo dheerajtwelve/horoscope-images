@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-15T09:11:32.652766",
+  "date_folder": "carousel_2025_08_15_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Acknowledge your fears today, but remember that facing the outside world is often easier than confronting hidden worries.",
+      "• Don't isolate yourself during challenging times; seek support from friends and loved ones to help you through.",
+      "• Your thoughts and opinions are valuable—share them and contribute to discussions around you.",
+      "• Embrace your adventurous spirit by staying optimistic and planning for the future while enjoying the present moment."
+    ],
+    "love": [
+      "• Take time today to connect with your partner on a deeper level; focus on being present together.",
+      "• Avoid superficial conversations; instead, engage in meaningful discussions to strengthen your bond.",
+      "• Embrace your adventurous spirit, but remember to also make practical plans for your future together.",
+      "• Keep a positive outlook and continue exploring your relationship, as this will lead to growth and understanding."
+    ],
+    "health": [
+      "• Be patient with yourself and others today, as situations may become challenging.",
+      "• Trust your inner strength to navigate tough moments; remember, it’s okay to take a step back.",
+      "• Engage in activities that help you relax, like yoga, to manage stress effectively.",
+      "• Stay optimistic and focus on practical steps for your health and well-being in the present."
+    ],
+    "career": [
+      "• Take charge in your interactions to avoid being taken advantage of; your assertiveness is key to your success.",
+      "• Focus on your own goals and ambitions to ensure you don’t become a pawn in someone else’s plans.",
+      "• Consider getting a Financial Guidance Reading to help redefine and enhance your career path.",
+      "• Embrace your adventurous spirit, but also make sure to plan practically for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
