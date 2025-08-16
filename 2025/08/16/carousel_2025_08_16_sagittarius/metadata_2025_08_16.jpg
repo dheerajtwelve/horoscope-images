@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-16T09:04:30.080846",
+  "date_folder": "carousel_2025_08_16_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Now is the perfect time to take action on something you believe in; trust your instincts.",
+      "• You have a surge of energy and determination, so channel it into your goals.",
+      "• Remember to stay grounded as you embrace your adventurous spirit and make practical plans.",
+      "• Keep exploring and learning; your curiosity will lead you to new insights and opportunities."
+    ],
+    "love": [
+      "• Your closest relationship may feel a bit cold right now; it's time to dig deep to find the root of the issue.",
+      "• Reflect on past events that might be affecting your current feelings; understanding them can help you move forward.",
+      "• Use your natural warmth and positivity to break the chill and bring back the connection.",
+      "• If you're seeking love, take the leap and explore new opportunities; your adventurous spirit is ready for exciting possibilities!"
+    ],
+    "health": [
+      "• Make sure to drink plenty of water daily to stay hydrated and energized.",
+      "• Consider reducing your caffeine intake to just one cup a day for better health.",
+      "• Take some time to relax and have fun if you're feeling stressed or overwhelmed.",
+      "• Focus on living in the present and making practical plans for a healthier future."
+    ],
+    "career": [
+      "• Stand firm in your beliefs and don’t let others sway you, even if they come across as arrogant.",
+      "• You are in a great position to achieve your goals, so take advantage of the opportunities that come your way.",
+      "• Consider seeking financial guidance to ensure you are on the right career path and to help clarify your ambitions.",
+      "• Embrace your adventurous spirit, but remember to plan practically for the future while enjoying the present."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
