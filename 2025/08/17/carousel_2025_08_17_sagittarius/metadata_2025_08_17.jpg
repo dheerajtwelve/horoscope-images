@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-17T09:13:56.172433",
+  "date_folder": "carousel_2025_08_17_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is a great day to start a diet if you've been considering it, so take that first step!",
+      "• If diet isn't a concern for you, still be mindful and avoid rich foods and excessive alcohol.",
+      "• Embrace your adventurous and optimistic spirit, but remember to stay present and plan for the future.",
+      "• Take a moment to explore new ideas and philosophies, as they can enrich your understanding of the world."
+    ],
+    "love": [
+      "• Reflect on your current relationship and assess if it brings you joy or more challenges.",
+      "• Consider what initially drew you to this connection and if those reasons still apply.",
+      "• Open communication is key; talking can help resolve misunderstandings and strengthen your bond.",
+      "• Embrace your adventurous spirit while staying grounded in the present and planning for a loving future."
+    ],
+    "health": [
+      "• Focus on nurturing yourself today; prioritize your own well-being and self-care.",
+      "• Reflect on your health routine and think about what positive changes you can make.",
+      "• Embrace your adventurous spirit by trying new activities that enhance your health.",
+      "• Stay optimistic and present while planning practical steps for a healthier future."
+    ],
+    "career": [
+      "• Your plan is solid, but be patient with technology as it may not cooperate today.",
+      "• Avoid frustration; take a step-by-step approach to tackle any challenges you face.",
+      "• Remember, you are smarter than any gadget—trust your skills and knowledge.",
+      "• Stay optimistic and adventurous, but also focus on practical planning for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
