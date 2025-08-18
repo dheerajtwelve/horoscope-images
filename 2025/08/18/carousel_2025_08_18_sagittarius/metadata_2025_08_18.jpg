@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-18T09:20:28.936995",
+  "date_folder": "carousel_2025_08_18_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Embrace your altruistic side today by volunteering for a cause you believe in; it will bring you great joy.",
+      "• Take action and turn your lofty visions into reality by contributing directly, rather than just donating money.",
+      "• Enjoy the fulfilling experience of helping others, like chopping vegetables in a soup kitchen, to truly heal your heart.",
+      "• Remember to balance your adventurous spirit with practical plans for the future while living in the present."
+    ],
+    "love": [
+      "• Feeling bored with usual conversations? Seek out new experiences and discussions that excite you.",
+      "• Your partner may appreciate some time apart, so don’t hesitate to meet new people today.",
+      "• Embrace your adventurous spirit; it’s a great time to explore new ideas and perspectives.",
+      "• Remember to balance your love for adventure with practical planning for the future."
+    ],
+    "health": [
+      "• Embrace change and adapt to new challenges to reduce stress in your life.",
+      "• Prioritize rest and relaxation to avoid burnout and potential accidents.",
+      "• Engage in a new interest that excites you to provide a mental break from daily pressures.",
+      "• Stay optimistic, but remember to make practical plans for a balanced and healthy future."
+    ],
+    "career": [
+      "• Work will go smoothly today, so use this opportunity to boost your productivity and achieve more than you thought possible.",
+      "• Don’t get lazy; instead, stay focused and make the most of this positive flow in your career.",
+      "• Consider seeking a Financial Guidance Reading to help redefine your career path and explore new opportunities.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for a successful future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
