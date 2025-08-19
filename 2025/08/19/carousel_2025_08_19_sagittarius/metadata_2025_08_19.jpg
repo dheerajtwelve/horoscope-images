@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-19T09:01:06.222580",
+  "date_folder": "carousel_2025_08_19_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Enjoy a calm day filled with love and appreciation from family and friends, reminding you of your worth.",
+      "• Focus on being a good friend, as your subtle influence in relationships is important.",
+      "• Embrace your adventurous spirit while staying grounded and making practical plans for the future.",
+      "• Keep exploring life's mysteries, but remember to live in the present moment."
+    ],
+    "love": [
+      "• Express your feelings openly today; it's a great time to communicate with loved ones and clear up any misunderstandings.",
+      "• Focus on resolving past conflicts with kindness, as harmony surrounds you and can strengthen your connections.",
+      "• If you're seeking love, take the first step and explore new opportunities—you're ready for a meaningful relationship!",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your romantic future."
+    ],
+    "health": [
+      "• Stay committed to your health by making diet and exercise a priority in your life.",
+      "• Find a balance between work and play to listen to your body's needs better.",
+      "• Taking care of yourself will help you feel grounded and ready for life's challenges.",
+      "• Embrace your adventurous spirit while also making practical plans for a healthy future."
+    ],
+    "career": [
+      "• Review and update all your insurance policies, especially for your home, to ensure you are fully protected.",
+      "• If you don’t have insurance, now is a great time to find a suitable policy to secure your future.",
+      "• Consider getting a Financial Guidance Reading to boost your career potential and make informed decisions.",
+      "• Stay optimistic but also focus on practical plans to balance your adventurous spirit with your career goals."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
