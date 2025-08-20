@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-20T09:00:28.587695",
+  "date_folder": "carousel_2025_08_20_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Enjoy a calm and pleasant day, filled with expressions of love from family and friends.",
+      "• Appreciate the gifts and gestures, as they provide the reassurance you need.",
+      "• Focus on being a good friend and nurturing your relationships with others.",
+      "• Embrace your adventurous spirit while staying grounded in the present and planning for the future."
+    ],
+    "love": [
+      "• Use today's positive energy to express your true feelings to loved ones and mend any misunderstandings.",
+      "• Focus on winning them over with kindness and letting go of past disagreements.",
+      "• Embrace the harmony around you, as it can lead to deeper connections and real love.",
+      "• Remember to balance your adventurous spirit with practical plans for the future in your relationships."
+    ],
+    "health": [
+      "• Stay committed to your health by actively incorporating a balanced diet and regular exercise into your routine.",
+      "• Find a healthy balance between work and play to better listen to your body's needs.",
+      "• Taking care of yourself will help you feel grounded and ready to tackle life's challenges.",
+      "• Embrace your adventurous spirit while being mindful of living in the present and planning for the future."
+    ],
+    "career": [
+      "• Review and update your insurance policies today to protect your assets and ensure peace of mind.",
+      "• If you lack home insurance, consider getting a policy now; it's a smart move for your future.",
+      "• Explore your career options and seek a Financial Guidance Reading to gain valuable insights.",
+      "• Embrace your adventurous spirit while staying practical; balance your dreams with solid planning for success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
