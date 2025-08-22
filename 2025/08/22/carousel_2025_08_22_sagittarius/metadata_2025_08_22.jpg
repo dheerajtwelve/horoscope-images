@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-22T09:00:01.617818",
+  "date_folder": "carousel_2025_08_22_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Spend quality time with loved ones today, but keep the mood light and fun.",
+      "• Avoid deep conversations and don’t take it personally if others seem distracted.",
+      "• Remember that not everyone may reciprocate your feelings or attention.",
+      "• Focus on healing your heart and living in the moment for a brighter outlook."
+    ],
+    "love": [
+      "• Be open to honest conversations today; it’s a great time to clear up misunderstandings with someone important.",
+      "• If you're in a long-term relationship, addressing issues now can strengthen your bond for the future.",
+      "• For lighter connections, consider whether it's worth continuing or if it's time to move on to new experiences.",
+      "• Embrace your adventurous spirit, but remember to balance spontaneity with practical planning in love."
+    ],
+    "health": [
+      "• Focus on managing your health by eating well and exercising regularly to experience natural highs in life.",
+      "• Remember that while you can't meet all your needs alone, taking care of yourself is essential for overall well-being.",
+      "• Embrace your adventurous spirit, but stay grounded by making practical plans for your health and future.",
+      "• Use your natural curiosity to explore new ways to improve your health and happiness."
+    ],
+    "career": [
+      "• Trust your own ideas and plans instead of getting distracted by others’ opinions about your work.",
+      "• Listen to your inner voice to guide you on your career path.",
+      "• Embrace your adventurous spirit while also planning for the future.",
+      "• Consider seeking financial guidance to help you reach your full potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
