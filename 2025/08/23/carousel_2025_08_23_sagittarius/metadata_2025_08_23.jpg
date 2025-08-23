@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-23T08:54:03.744892",
+  "date_folder": "carousel_2025_08_23_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your subconscious is working hard today, bringing you unique insights and dreams that may hold important messages about your relationships.",
+      "• Take some time to write down the symbols from your dreams and reflect on what they personally mean to you.",
+      "• Embrace your adventurous spirit but remember to stay grounded and make practical plans for your future.",
+      "• If you're seeking to reignite passion in your love life, consider a short psychic reading for guidance and clarity."
+    ],
+    "love": [
+      "• Be honest with your feelings today; express what’s in your heart rather than what you think you should feel.",
+      "• Remember that sharing home truths can lead to deeper understanding, but be prepared to hear feedback about yourself.",
+      "• Your journey to find true love is getting easier, so stay open to new connections and opportunities.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for the future to make the most of your relationships."
+    ],
+    "health": [
+      "• Embrace healthy living as an exciting adventure, discovering new aspects of wellness at your own pace.",
+      "• Explore herbs and spices by visiting your local organic grocery store; you may find new favorites!",
+      "• Stay optimistic and adventurous, but remember to focus on the present and plan for a healthy future.",
+      "• Use your natural curiosity to learn about nutrition and wellness, turning exploration into a fulfilling experience."
+    ],
+    "career": [
+      "• Reflect on past experiences to avoid repeating mistakes; your wisdom will guide you.",
+      "• Adjust your approach in the workplace to steer clear of previous pitfalls.",
+      "• Seek advice from knowledgeable sources to enhance your career navigation skills.",
+      "• Embrace your adventurous spirit while balancing optimism with practical planning for the future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
