@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-24T09:06:44.968033",
+  "date_folder": "carousel_2025_08_24_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• A friend may seem distant today, but don’t worry; they might be preoccupied with work concerns.",
+      "• Avoid jumping to conclusions about their feelings; they're likely not upset with you.",
+      "• Stay friendly and patient; your friend will reach out when they’re ready to talk.",
+      "• Remember to enjoy the present while also making practical plans for your future adventures."
+    ],
+    "love": [
+      "• Plan a special trip with your loved one today; it will be a memorable experience that deepens your connection.",
+      "• Embrace the chance to discover new insights about love and relationships; today is perfect for exploring deeper meanings.",
+      "• Remember to stay present and enjoy the moment, while also considering your future plans together.",
+      "• Your adventurous spirit is a strength; use it to create a loving and enriching environment for your relationship."
+    ],
+    "health": [
+      "• Be adventurous with your diet, but always include familiar and nutritious foods to balance new experiences.",
+      "• Treat your dietary choices with care and love, just as you would for a child.",
+      "• Take time to explore ways to show kindness to yourself and prioritize your well-being.",
+      "• Stay optimistic while also focusing on practical plans for a healthy future."
+    ],
+    "career": [
+      "• You are in a strong position at work, with a good understanding of your tasks and sensitivity to your colleagues' feelings.",
+      "• Effective communication will lead to positive interactions, so continue to engage openly with others.",
+      "• Embrace your adventurous spirit but remember to focus on practical plans for your future.",
+      "• Consider seeking a Financial Guidance Reading to help elevate your career potential and explore new opportunities."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
