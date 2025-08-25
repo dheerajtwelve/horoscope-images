@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-25T09:05:50.396797",
+  "date_folder": "carousel_2025_08_25_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be clear when communicating with your partner to avoid misunderstandings.",
+      "• Always check if your partner understands your message before they act on it.",
+      "• Don't hesitate to ask questions if you're unsure; it's better than making a mistake.",
+      "• Embrace your adventurous spirit, but remember to focus on practical plans for the future."
+    ],
+    "love": [
+      "• Embrace the positive energy today, especially if you’re single and ready to meet someone special.",
+      "• Consider joining an app or group that aligns with your interests, like sports or philosophical discussions, to find like-minded people.",
+      "• Be yourself and have fun; the right person will come into your life when you least expect it.",
+      "• Remember to balance your adventurous spirit with practical plans for the future to nurture lasting connections."
+    ],
+    "health": [
+      "• Take a break from your usual adventures and embrace a quieter day for reflection.",
+      "• Use this time to think about your past and future; it's a valuable opportunity for growth.",
+      "• Consider trying yoga to support your journey inward and enhance your well-being.",
+      "• Stay optimistic while also making practical plans to ensure a balanced and fulfilling life."
+    ],
+    "career": [
+      "• Seek help from others when dealing with new technology; it’s often quicker than figuring it out alone.",
+      "• Don’t waste time reading manuals; practical advice from friends can provide faster solutions.",
+      "• Embrace your natural optimism, but remember to balance risks with practical planning for your future.",
+      "• Explore your talents and ambitions through a personalized career report for deeper insights into your potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
