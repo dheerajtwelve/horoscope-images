@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-26T09:00:36.357111",
+  "date_folder": "carousel_2025_08_26_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may feel a strong physical attraction to someone new today, even if you're in a relationship.",
+      "• An unexpected financial boost might come your way, like a bonus or a gift.",
+      "• If you have extra money, treat yourself—you deserve to enjoy it!",
+      "• Remember to balance your adventurous spirit with practical planning for the future."
+    ],
+    "love": [
+      "• If you're feeling down about your relationship, take the first step to understand what went wrong with your partner.",
+      "• Don't let fear hold you back; open communication can help clear misunderstandings and strengthen your bond.",
+      "• Embrace your adventurous spirit and be optimistic about love; the right connections are waiting for you.",
+      "• Focus on the present while planning for the future to create a fulfilling romantic life."
+    ],
+    "health": [
+      "• Pay attention to your body and its needs to avoid negative consequences on your health.",
+      "• Embrace the energy around you, but don’t ignore the subtle signs from your body.",
+      "• Stay grounded in the present while planning for your future to maintain overall well-being.",
+      "• Use your natural optimism to motivate healthy lifestyle choices and self-care practices."
+    ],
+    "career": [
+      "• Be confident in your words and actions; your self-assurance will inspire confidence in others.",
+      "• Trust that you are on the right path; avoid self-doubt and focus on your strengths.",
+      "• Seek guidance from a Keen Advisor to better navigate your workplace challenges.",
+      "• Embrace your adventurous spirit while making practical plans for your future success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
