@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-27T08:54:22.897012",
+  "date_folder": "carousel_2025_08_27_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You're likely to feel a boost of energy today, helping you regain your strength and confidence.",
+      "• Take this opportunity to tackle any unfinished tasks; you might be surprised by how much you accomplish.",
+      "• Remember to have fun and enjoy your newfound energy; balance work with play.",
+      "• Stay optimistic and make practical plans for the future while exploring new ideas and adventures."
+    ],
+    "love": [
+      "• Your partner is feeling adventurous today, making it a great time to explore new activities together.",
+      "• Take the opportunity to discover shared interests that can strengthen your bond.",
+      "• Enjoy moments whether you're alone together or with friends; it's sure to be a pleasant experience.",
+      "• Remember to balance your adventurous spirit with practical plans for the future to nurture real love."
+    ],
+    "health": [
+      "• Focus on understanding your true needs rather than just your desires; this will guide you to better health choices.",
+      "• Remember that aiming for what you need is more effective than forcing things to happen.",
+      "• Take time to reflect on what you truly need while you exercise; it can help clear your mind and boost your well-being.",
+      "• Stay optimistic and adventurous, but also make practical plans for your health to ensure a balanced life."
+    ],
+    "career": [
+      "• Take your time with current projects; rushing may ruin your hard work.",
+      "• Ensure all necessary details are in place before making any major decisions.",
+      "• Consider speaking with a career advisor for guidance on workplace navigation.",
+      "• Embrace your optimistic nature, but balance it with practical planning for the future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
