@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-28T08:54:25.250643",
+  "date_folder": "carousel_2025_08_28_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• If you're single, don't worry if your love interest seems distant; it's likely just your imagination.",
+      "• Relationships have their ups and downs, so stay positive and communicate openly with your partner if you have concerns.",
+      "• Embrace your adventurous spirit, but remember to focus on the present and make practical plans for your future.",
+      "• Your natural curiosity is a gift; keep exploring and seeking new experiences to enrich your life."
+    ],
+    "love": [
+      "• Be careful not to overcommit in your relationship; only promise what you can truly deliver.",
+      "• Avoid making half-hearted efforts in resolving issues with your partner; focus on quality over quantity.",
+      "• Embrace your adventurous spirit, but remember to enjoy the present and plan wisely for the future.",
+      "• Stay optimistic and explore new aspects of love, while being practical in your approach."
+    ],
+    "health": [
+      "• Use the current positive planetary energy to reflect on your health goals for the upcoming year.",
+      "• Assess your health regimen and consider making meaningful improvements rather than just increasing effort.",
+      "• Understand the reasons behind your health practices to identify areas for change and growth.",
+      "• Stay grounded and focus on practical steps to maintain balance while embracing your adventurous spirit."
+    ],
+    "career": [
+      "• Step out of your comfort zone and consider new opportunities that you might usually decline.",
+      "• Taking calculated risks today could lead to great rewards in your career.",
+      "• Trust in your decisions and replace any doubts with confidence for a brighter future.",
+      "• Embrace your adventurous spirit while balancing practical plans for long-term success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
