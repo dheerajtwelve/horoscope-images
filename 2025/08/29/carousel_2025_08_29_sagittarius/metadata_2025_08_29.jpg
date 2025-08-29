@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-29T08:53:57.407320",
+  "date_folder": "carousel_2025_08_29_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may be feeling low today without knowing why; it could be triggered by an unconscious memory.",
+      "• Take time to identify what’s bothering you and let it go for a lighter spirit.",
+      "• Engage in activities you love to uplift your mood and recharge your energy.",
+      "• Remember to stay present and make practical plans for your future, balancing your adventurous spirit with mindfulness."
+    ],
+    "love": [
+      "• Your love life is closely linked to your career, so consider how you and your partner can support each other's professional goals.",
+      "• Take some time away from work to connect and enjoy each other's company without distractions.",
+      "• Remember to embrace your adventurous spirit while also making practical plans for your future together.",
+      "• Stay optimistic and open-minded about love, as it can lead to wonderful discoveries in your relationship."
+    ],
+    "health": [
+      "• Your gut area is key to your instincts, so keep it healthy to make better life choices.",
+      "• Focus on maintaining a clear pathway to your instincts for balance and clarity.",
+      "• Pay special attention to your liver health; adding fresh tomatoes to your diet can help.",
+      "• Embrace your adventurous spirit but remember to stay grounded and make practical plans for the future."
+    ],
+    "career": [
+      "• Your good deeds will lead to great rewards today, so continue helping others as it may come back to benefit you.",
+      "• Expect support from someone you’ve helped; it’s a reminder that kindness pays off in unexpected ways.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for your career.",
+      "• Consider a Financial Guidance Reading to start manifesting abundance and better understand your career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
