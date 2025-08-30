@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-30T08:40:40.315365",
+  "date_folder": "carousel_2025_08_30_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Relationships are likely to be positive; focus on building trust for emotional stability.",
+      "• Don’t be discouraged by a friend's aloofness; they are giving you space to grow.",
+      "• Channel your energy outward to start manifesting your creative ideas.",
+      "• Embrace your adventurous spirit, but remember to stay present and plan for the future."
+    ],
+    "love": [
+      "• Your actions today can significantly impact someone you care about, so be mindful of your choices.",
+      "• Embrace the energy around you to move forward in your relationship, but be prepared to take steps alone if necessary.",
+      "• If you're seeking love, now is a great time to take the leap and explore new connections.",
+      "• Remember to balance your adventurous spirit with practical planning for a fulfilling future in love."
+    ],
+    "health": [
+      "• Don't be discouraged by obstacles when trying something new; it's a part of the journey.",
+      "• Acknowledge disappointments and adjust your intentions to stay positive.",
+      "• If you indulge in unhealthy food, treat yourself to a relaxing hot soak with lavender oil to uplift your mood.",
+      "• Keep lavender oil handy at home for those challenging days to help you unwind and reset."
+    ],
+    "career": [
+      "• Use your charming personality at work; a smile and witty conversation can open doors.",
+      "• Make important connections today by engaging in friendly chats, even over the phone.",
+      "• Embrace your adventurous spirit while balancing optimism with practical planning for the future.",
+      "• Explore your talents and motivations to enhance your career journey and personal growth."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
