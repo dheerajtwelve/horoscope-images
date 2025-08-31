@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-08-31T08:56:47.173349",
+  "date_folder": "carousel_2025_08_31_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Now is a good time to execute contracts and legal documents; consider starting a business, possibly with friends.",
+      "• Be aware that one friend may not be fully transparent, which could lead to frustration.",
+      "• Honest communication is essential for the success of any new venture you pursue.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for the future."
+    ],
+    "love": [
+      "• Expect a day filled with laughter and positivity, enhancing your social interactions.",
+      "• If you're single, stay open to meeting someone intriguing who shares your sense of humor and love for deep conversations.",
+      "• Embrace your adventurous spirit, but remember to balance fun with practical plans for your love life.",
+      "• Keep exploring new connections and ideas to enrich your romantic experiences and discover the love you truly deserve."
+    ],
+    "health": [
+      "• Try new relaxation methods like yoga and Pilates to strengthen your lower spine and improve your well-being.",
+      "• Consider meditation to help you reflect on past patterns and embrace new opportunities.",
+      "• Limit alcohol intake to support your overall health during this time.",
+      "• Stay present and make practical plans for the future while embracing your natural adventurous spirit."
+    ],
+    "career": [
+      "• Be prepared for mixed reactions to your ideas; not everyone may appreciate your suggestions right now.",
+      "• It might be wise to take a step back and observe before sharing your thoughts.",
+      "• Consider seeking financial guidance to help redefine your career path.",
+      "• Embrace your adventurous spirit while also focusing on practical plans for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
