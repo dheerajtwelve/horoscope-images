@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-01T09:10:40.040978",
+  "date_folder": "carousel_2025_09_01_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Focus your generous feelings on one special person today to strengthen your connection.",
+      "• Show appreciation to someone important in your life and make them feel valued.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for the future.",
+      "• Take a moment to reflect on your feelings and explore what truly matters to you."
+    ],
+    "love": [
+      "• Be yourself today—show your true colors and don't hold back. Your authenticity will truly impress someone special.",
+      "• Feel free to share your quirkiest jokes and thoughts; being genuine will help fulfill someone’s dreams.",
+      "• Embrace your adventurous spirit and optimism, as these traits make you lovable and attractive.",
+      "• Remember to stay present and make practical plans for the future while enjoying life's mysteries."
+    ],
+    "health": [
+      "• Take time to rest and reflect to clear your mind and focus on your goals.",
+      "• Incorporate cleansing foods like beets, tomatoes, and young dandelion into your diet for better liver health.",
+      "• Develop a mild exercise routine that you can easily stick to on a daily basis.",
+      "• Stay optimistic and adventurous, but remember to make practical plans for your health and future."
+    ],
+    "career": [
+      "• Be careful with your words today; they might be misunderstood and create tension.",
+      "• Prepare for an intense atmosphere at work, as emotions may run high among your colleagues.",
+      "• Consider seeking financial guidance to help redefine your career path effectively.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
