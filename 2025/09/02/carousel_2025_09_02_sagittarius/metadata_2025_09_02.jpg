@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-02T08:57:54.519580",
+  "date_folder": "carousel_2025_09_02_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your mind may feel scattered today, making it hard to focus on important responsibilities.",
+      "• Stay disciplined and try to ignore distractions that clutter your thoughts.",
+      "• Reach out to a trusted friend for support in organizing your feelings and ideas.",
+      "• Embrace your adventurous spirit, but remember to stay present and plan for the future."
+    ],
+    "love": [
+      "• Engage in deep conversations with your partner today to strengthen your bond and share your feelings.",
+      "• Address any past issues that may be affecting your relationship for a healthier connection.",
+      "• Embrace the deeper meaning of your discussions; they can lead to real love and understanding.",
+      "• Stay optimistic but remember to focus on the present and plan for a bright future together."
+    ],
+    "health": [
+      "• Take a moment to assess your current health habits and recognize that it's okay to feel overwhelmed.",
+      "• Don't be too hard on yourself; start today with small, achievable goals to improve your lifestyle.",
+      "• Focus on healing your heart and mind by addressing any doubts or anxieties you may have.",
+      "• Embrace your adventurous spirit, but remember to live in the present and make practical plans for your health."
+    ],
+    "career": [
+      "• Take time to reflect on your past experiences before moving forward in your career; this will help you make confident decisions.",
+      "• Trust that revisiting past moments is beneficial, even if it feels like a delay.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for your future.",
+      "• Consider seeking guidance, like a Financial Guidance Reading, to unlock your full potential and clarify your ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
