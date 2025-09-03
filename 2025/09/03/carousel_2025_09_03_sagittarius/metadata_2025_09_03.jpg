@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-03T08:37:54.552302",
+  "date_folder": "carousel_2025_09_03_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may face disapproval from someone in a position of authority today, like a parent or teacher.",
+      "• Listen to their feedback, but remember that your personal life choices are ultimately yours to make.",
+      "• Don't let criticism hold you back; someone will always have an opinion, so focus on what matters to you.",
+      "• Embrace your adventurous spirit and stay optimistic while making practical plans for your future."
+    ],
+    "love": [
+      "• You may find yourself deeply captivated by someone today, but be careful not to lose sight of who you are.",
+      "• Friends are noticing your distraction; try to reconnect with them and share your feelings.",
+      "• Focus on the balance between excitement and practicality in your love life for the best results.",
+      "• Remember to enjoy the present moment while exploring new connections; real love often comes from compatibility."
+    ],
+    "health": [
+      "• Pay attention to your liver, as it plays a crucial role in digestion and detoxification.",
+      "• Incorporate liver-friendly foods like beets into your diet for natural cleansing benefits.",
+      "• Use vinegar and lemon to stimulate liver function and support overall health.",
+      "• Be mindful of alcohol consumption to respect your body and maintain a healthy lifestyle."
+    ],
+    "career": [
+      "• Expect improved relationships at work over the next three weeks, leading to better teamwork and understanding.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for your career goals.",
+      "• Consider seeking financial guidance to help enhance your potential and make informed decisions.",
+      "• Use your natural curiosity and philosophical mindset to explore new opportunities and expand your career horizons."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
