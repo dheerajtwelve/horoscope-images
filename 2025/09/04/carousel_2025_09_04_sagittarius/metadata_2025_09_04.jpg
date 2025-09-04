@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-04T08:38:59.811044",
+  "date_folder": "carousel_2025_09_04_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Take time today to explore topics that truly interest you, whether it's cooking, science, or family history.",
+      "• Balance your learning with your responsibilities at work and home to maintain a healthy schedule.",
+      "• Embrace your love for knowledge and allow yourself to discover new things that spark your curiosity.",
+      "• Remember to stay grounded and make practical plans for the future while enjoying your adventurous spirit."
+    ],
+    "love": [
+      "• Enjoy a day filled with laughter, as the positive energy can uplift your spirits and strengthen your bonds.",
+      "• If you're facing challenges in your relationship, use this time to have fun and openly discuss any issues to promote healing.",
+      "• Embrace your optimistic nature and remember to focus on the present while making plans for a brighter future together.",
+      "• Keep exploring and nurturing your adventurous spirit, as it brings joy and depth to your love life."
+    ],
+    "health": [
+      "• Take time today to reflect on your feelings and share them with loved ones to strengthen your relationships.",
+      "• Ask yourself what you truly desire for a healthier lifestyle, whether it's more fun or less work.",
+      "• Engaging in this honest self-talk can lead to positive changes faster than you expect.",
+      "• Embrace your adventurous spirit while staying present and making practical plans for your well-being."
+    ],
+    "career": [
+      "• Be cautious about joining others on their career paths; what works for them may not be right for you.",
+      "• Consider seeking professional advice, such as a Financial Guidance Reading, to help you redefine your career.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for your future.",
+      "• Use your natural curiosity and philosophical mindset to explore new career opportunities and grow your talents."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
