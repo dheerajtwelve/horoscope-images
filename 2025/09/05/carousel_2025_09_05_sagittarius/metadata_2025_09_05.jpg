@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-05T08:49:18.878214",
+  "date_folder": "carousel_2025_09_05_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be aware that your mood can affect those around you; try not to let negativity spoil your day.",
+      "• Recognize that your feelings may not reflect reality; take a step back to gain perspective.",
+      "• Embrace your natural optimism and adventurous spirit, but remember to stay grounded in the present.",
+      "• Focus on making practical plans for the future while exploring the mysteries that intrigue you."
+    ],
+    "love": [
+      "• Be honest in your communication; expressing your true feelings will lead to a more romantic evening.",
+      "• Embrace your natural charm and generosity to attract love into your life.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and plan for the future.",
+      "• Explore the deeper aspects of love and relationships, as your philosophical side can enrich your connections."
+    ],
+    "health": [
+      "• Take time to evaluate your current health and fitness levels; ask yourself if you are where you want to be.",
+      "• Improve your dietary knowledge by reading books on holistic health or checking out health magazines.",
+      "• Explore reliable websites for accessible information on health and wellness.",
+      "• Embrace this opportunity to clear doubts and focus on practical plans for a healthier future."
+    ],
+    "career": [
+      "• Your hard work is being recognized by others, and it’s important to celebrate this positive feedback.",
+      "• Feel encouraged to go beyond your usual efforts today; your motivation is high.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for the future.",
+      "• Consider exploring your talents and ambitions further; it can lead to exciting new opportunities in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
