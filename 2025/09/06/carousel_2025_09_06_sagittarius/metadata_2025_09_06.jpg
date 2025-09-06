@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-06T08:37:55.652717",
+  "date_folder": "carousel_2025_09_06_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Face any recent disappointments with courage; everyone experiences setbacks, and it's part of the journey to success.",
+      "• Remember, you are not alone in your feelings; even the most accomplished people have faced failures.",
+      "• Don't hesitate to give your goals another try; with perseverance, things can turn in your favor.",
+      "• Embrace your adventurous spirit while staying grounded; focus on practical plans to make your dreams a reality."
+    ],
+    "love": [
+      "• Embrace the excitement today as someone special is ready to surprise you with their interest.",
+      "• Don’t shy away from this opportunity; it’s a chance to deepen your connection.",
+      "• Stay present and enjoy the moment, even if things feel a bit overwhelming.",
+      "• Remember, your adventurous spirit is your strength—use it to explore this new relationship."
+    ],
+    "health": [
+      "• Reflect on your true feelings about your health and wellness; don’t just assume everything is fine.",
+      "• Pay attention to the energy you get from your food; make sure it supports your well-being.",
+      "• Prioritize getting enough sleep; it’s essential for your overall health and happiness.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for your future health."
+    ],
+    "career": [
+      "• Trust your ability to make clear and rational decisions in your career.",
+      "• Stay focused on your own path and don’t let others distract you from your goals.",
+      "• Embrace your adventurous spirit while ensuring you have practical plans for the future.",
+      "• Consider seeking guidance to explore your talents and ambitions more deeply."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
