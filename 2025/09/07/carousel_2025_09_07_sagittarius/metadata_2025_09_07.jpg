@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-07T08:53:19.422449",
+  "date_folder": "carousel_2025_09_07_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be cautious of an income opportunity that seems too good to be true; take time to investigate the details before committing.",
+      "• Today is not the best day for making any investments; hold off on decisions until you can reassess.",
+      "• Embrace your adventurous spirit but balance it with practical planning for your future.",
+      "• Remember to stay grounded and live in the present while exploring new ideas and opportunities."
+    ],
+    "love": [
+      "• Take time to address any issues in your close relationship to improve communication and resolve distance.",
+      "• Focus on finding a resolution today to help restore harmony at home.",
+      "• Remember, love is waiting for you—consider exploring new connections or platforms like eHarmony.",
+      "• Embrace your adventurous spirit while also being practical about your future relationships."
+    ],
+    "health": [
+      "• Today's energy boosts your spirit, making you feel like you can achieve anything. Embrace this motivation!",
+      "• Regular exercise will channel your energy into building strong muscles, so stay active.",
+      "• Remember to hydrate after workouts to keep your body replenished and energized.",
+      "• Stay grounded and mindful; balance your adventurous nature with practical planning for a healthier lifestyle."
+    ],
+    "career": [
+      "• Expect a boost in mental clarity today, helping you see your career path more clearly.",
+      "• Consider seeking a Financial Guidance Reading to redefine your career goals effectively.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for the future.",
+      "• Use your natural curiosity and philosophical mindset to explore new opportunities in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
