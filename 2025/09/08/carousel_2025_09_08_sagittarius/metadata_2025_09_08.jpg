@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-08T08:58:22.469494",
+  "date_folder": "carousel_2025_09_08_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may feel unmotivated today; try to find your own path instead of following others.",
+      "• Share your ideas clearly to avoid frustration; staying calm will help you communicate better.",
+      "• Leaving emotions out of discussions can lead to better outcomes and appreciation from others.",
+      "• Remember to balance your adventurous spirit with practical planning for a brighter future."
+    ],
+    "love": [
+      "• Enjoy the peace and harmony in your relationships today; it’s a great time to relax and appreciate the love around you.",
+      "• Embrace the attention from your loved ones and let them show their devotion without feeling the need to take action.",
+      "• If you're looking for real love, consider exploring new avenues; it’s an easier journey now.",
+      "• Remember to balance your adventurous spirit with practical planning for the future while living in the moment."
+    ],
+    "health": [
+      "• Explore the nutritional value of foods to stay motivated on your health journey. Understanding what you eat can make a big difference.",
+      "• Keep your diet interesting by seeking out foods with complex benefits that intrigue you. This keeps your enthusiasm alive!",
+      "• Stay optimistic and adventurous in your approach to health, but remember to ground yourself with practical plans.",
+      "• Embrace your natural curiosity and use it to explore new healthy habits that enrich your life."
+    ],
+    "career": [
+      "• Embrace the upcoming challenges in your career over the next four weeks as opportunities for growth and learning.",
+      "• Be prepared to adjust your plans and strategies to navigate any obstacles you may encounter.",
+      "• Remember to balance your adventurous spirit with practical steps to ensure future success.",
+      "• Use your natural curiosity and philosophical mindset to explore new solutions and ideas in your work."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
