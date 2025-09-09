@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-09T08:52:20.487314",
+  "date_folder": "carousel_2025_09_09_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be there for friends in need; your support and advice will be greatly appreciated.",
+      "• Your caring nature has earned you respect, so remember that good friendships are mutual.",
+      "• Embrace your adventurous spirit, but also focus on practical plans for your future.",
+      "• Keep exploring life's mysteries and stay positive; your optimism is a source of strength."
+    ],
+    "love": [
+      "• Today’s conversations are lively and exciting, making it a great time to connect with someone special.",
+      "• Discussing a shared interest that you've avoided can help create a deeper bond.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future.",
+      "• Your natural charisma shines today, so don’t hesitate to take a chance in love!"
+    ],
+    "health": [
+      "• Trust your intuition during this time; it may guide you to important insights about your health.",
+      "• Prioritize your well-being alongside your desire to help others; pay attention to what your body needs.",
+      "• Stay grounded in the present while making practical plans for your future health goals.",
+      "• Embrace your adventurous spirit, but remember to balance risks with thoughtful decisions for your health."
+    ],
+    "career": [
+      "• Focus on your natural desire to help others, but avoid getting involved in gossip or judgment.",
+      "• Embrace your adventurous spirit and be open to exploring new career opportunities.",
+      "• Stay optimistic, but remember to make practical plans for your career future.",
+      "• Consider seeking financial guidance to help manifest abundance in your professional life."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
