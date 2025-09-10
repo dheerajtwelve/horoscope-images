@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-10T08:38:22.690446",
+  "date_folder": "carousel_2025_09_10_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be cautious with financial transactions today, as technology may not work in your favor.",
+      "• Consider using cash or checks for purchases instead of relying on cards or digital payments.",
+      "• It's not a good day to start or finish major financial deals; wait a few days for clarity.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for the future."
+    ],
+    "love": [
+      "• Be aware of your emotions today; they may feel more intense than usual.",
+      "• Consider taking some time apart to focus on what you enjoy; it can help both of you recharge.",
+      "• Reconnecting after some personal time can strengthen your relationship and lead to deeper conversations.",
+      "• Stay optimistic and adventurous, but remember to balance your free spirit with practical plans for the future."
+    ],
+    "health": [
+      "• Prioritize your health by maintaining a balanced diet and regular exercise; it's a lifelong commitment.",
+      "• Engage your mind by reading or exploring creative activities that inspire your imagination.",
+      "• Stay informed about how different foods affect your well-being and consider natural substances that can enhance your health.",
+      "• Embrace your adventurous spirit while also focusing on living in the present and planning for a healthy future."
+    ],
+    "career": [
+      "• Trust your instincts as they are guiding you toward a great new opportunity.",
+      "• Don't let small obstacles discourage you; stay optimistic and keep pushing forward.",
+      "• Consider seeking a Financial Guidance Reading to enhance your potential.",
+      "• Remember to balance your adventurous spirit with practical planning for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
