@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-12T08:37:47.427075",
+  "date_folder": "carousel_2025_09_12_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be prepared for a busy day filled with errands, but don't let delays frustrate you.",
+      "• Accept that you may not accomplish everything today, and that's okay.",
+      "• Treat yourself to a peaceful evening to unwind and recharge.",
+      "• Focus on living in the present while making practical plans for the future."
+    ],
+    "love": [
+      "• Share your thoughts and feelings openly today; you will attract attention, even if your ideal partner takes their time to respond.",
+      "• Look for someone who appreciates your intellect; their interest in your ideas can lead to a deeper connection.",
+      "• Keep an optimistic outlook on love; your adventurous spirit will draw positive experiences your way.",
+      "• Remember to balance your dreams with practical plans for the future to build a lasting relationship."
+    ],
+    "health": [
+      "• Embrace feedback positively; it can help you grow and improve your health awareness.",
+      "• Check in with your diet habits to ensure you’re focusing on overall health, not just weight management.",
+      "• Stay open to learning new things about health and wellness to keep your energy levels high.",
+      "• Cultivate a balance between your adventurous spirit and practical health planning for a brighter future."
+    ],
+    "career": [
+      "• Take a moment to reflect and meditate to find clarity in your career choices and direction.",
+      "• Consider seeking advice from a professional to help you navigate your workplace challenges.",
+      "• Embrace your natural optimism and adventurous spirit while being mindful of practical planning for your future.",
+      "• Remember to focus on the present and balance your ambitions with realistic goals."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
