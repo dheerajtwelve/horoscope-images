@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-13T08:32:17.100516",
+  "date_folder": "carousel_2025_09_13_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Focus on enjoying life today instead of stressing about finances; put money matters aside for now.",
+      "• Spend quality time with family or friends outdoors, like at a park or zoo, to share laughs and strengthen bonds.",
+      "• Don't worry about serious issues; they can wait until tomorrow.",
+      "• Embrace your adventurous spirit, but remember to balance fun with practical planning for the future."
+    ],
+    "love": [
+      "• You value your freedom, but be prepared to negotiate some space in your relationship today.",
+      "• Your partner may be feeling insecure, so offer them reassurance to strengthen your connection.",
+      "• If you’re open to love, take the next step and explore new opportunities, like joining a dating platform.",
+      "• Remember to balance your adventurous spirit with practical plans for the future to create a fulfilling relationship."
+    ],
+    "health": [
+      "• Focus on your diet, exercise, and sleep to maintain your health and well-being.",
+      "• It's a great time to set new health goals and add to your wish list.",
+      "• Remember to balance your adventurous spirit with practical health plans.",
+      "• Stay optimistic and embrace the positive changes you can make in your lifestyle!"
+    ],
+    "career": [
+      "• Focus on balancing your efforts by ensuring you also meet your own needs while helping others.",
+      "• Consider seeking financial guidance to help you manifest abundance in your career.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for your future.",
+      "• Utilize your natural curiosity to explore new opportunities that align with your talents and ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
