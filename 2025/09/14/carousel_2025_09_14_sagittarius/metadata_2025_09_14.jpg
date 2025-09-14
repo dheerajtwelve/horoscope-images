@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-14T08:52:32.149937",
+  "date_folder": "carousel_2025_09_14_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Don’t feel pressured to join others in their pursuits; only engage in what truly excites you.",
+      "• It's okay to take your time; you don’t have to rush into decisions that don’t feel right.",
+      "• Embrace your adventurous spirit, but also focus on practical plans for your future.",
+      "• Stay optimistic and explore what truly matters to you; your unique perspective is valuable."
+    ],
+    "love": [
+      "• Today is a pivotal moment for love; it's time to make a decision about your relationship.",
+      "• Take a moment to consider where you both might be in a year before making any promises.",
+      "• If the future looks bright and passionate, feel free to take the leap!",
+      "• Remember to balance your adventurous spirit with practical planning for lasting happiness."
+    ],
+    "health": [
+      "• Prioritize your health by getting enough rest and engaging in regular exercise to maintain your energy levels.",
+      "• Reflect on whether you may be self-sabotaging your efforts and adjust your approach accordingly.",
+      "• Start your day with oatmeal for breakfast to help ground yourself and maintain balance in your life.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and make practical plans for your future."
+    ],
+    "career": [
+      "• Focus on protecting and developing what you already have instead of chasing new opportunities.",
+      "• Prioritize security and stability in your career during this period.",
+      "• Consider seeking financial guidance to help redefine your career path.",
+      "• Embrace your adventurous spirit while balancing it with practical planning for the future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
