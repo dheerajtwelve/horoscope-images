@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-15T08:59:18.875805",
+  "date_folder": "carousel_2025_09_15_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Don't feel discouraged if it seems like others are succeeding more than you; your time will come soon.",
+      "• Allow yourself some time to escape into your own thoughts and dreams, but remember others may not share your depth.",
+      "• Focus on the present and make practical plans for your future instead of getting lost in fantasies.",
+      "• Embrace your adventurous spirit, and continue to explore life's mysteries while staying grounded."
+    ],
+    "love": [
+      "• Expect an exciting surprise from your partner today that could deepen your relationship.",
+      "• This moment will likely happen in a unique setting, making it feel like a dream come true.",
+      "• Be open to the idea of commitment and consider saying yes if you feel ready for love.",
+      "• Remember to balance your adventurous spirit with practical plans for a happy future together."
+    ],
+    "health": [
+      "• Monitor your dairy intake, as it can slow down your metabolism and affect your energy levels.",
+      "• Incorporate walking and running into your routine to help release stagnant energy, but remember to stretch your hips and thighs beforehand.",
+      "• Support your liver health by adding Milk Thistle tincture to your tea; about 15 drops per cup can aid in cleansing.",
+      "• Stay optimistic and adventurous, but also focus on being practical and present in your daily health choices."
+    ],
+    "career": [
+      "• Take advantage of the slower work atmosphere to catch up on your to-do lists and prioritize your tasks.",
+      "• Tackle challenges one step at a time; you have the ability to overcome any obstacles in your way.",
+      "• Seek guidance from a Keen Advisor to help you navigate your workplace more effectively.",
+      "• Embrace your natural optimism and adventurous spirit while also making practical plans for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
