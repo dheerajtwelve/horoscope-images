@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-16T08:39:49.421400",
+  "date_folder": "carousel_2025_09_16_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be prepared for some extra tasks today as someone may not fulfill their responsibilities, leading to added stress.",
+      "• Try to delegate tasks to lighten your load and focus on what truly needs your attention.",
+      "• Prioritize your responsibilities by urgency, tackling them one at a time to maintain your peace of mind.",
+      "• Remember to stay optimistic and adventurous, but balance it with practical planning for your future."
+    ],
+    "love": [
+      "• Be bold and share your feelings today to attract that special someone; your plan may just work!",
+      "• Expect honesty in conversations; their directness could surprise you in a good way.",
+      "• Embrace the chance for meaningful dialogue; it might be the best chat you've had in a while.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and plan for the future."
+    ],
+    "health": [
+      "• Partner with a friend for meal-planning to add fun and variety to your diet.",
+      "• Explore healthy recipes together and take turns cooking to keep things interesting.",
+      "• Make your health goals a shared adventure, which can lead to unexpected joys.",
+      "• Stay mindful and balance your adventurous spirit with practical health plans for the future."
+    ],
+    "career": [
+      "• Embrace a cautious approach today; being careful in your decisions will help you navigate workplace challenges.",
+      "• Think of yourself as a \"defensive driver\" at work to avoid unexpected surprises from others.",
+      "• Consider seeking a Financial Guidance Reading to help redefine and enhance your career path.",
+      "• Remember to balance your adventurous spirit with practical planning for a successful future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
