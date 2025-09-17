@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-17T08:38:52.246396",
+  "date_folder": "carousel_2025_09_17_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• If you're feeling unmotivated about work, it may be time to consider new job opportunities in the future.",
+      "• Treat yourself kindly today; indulge in a small gift or activity that brings you joy.",
+      "• If you're feeling off balance, take a moment to reconnect with your inner self through reflection or a reading.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your future."
+    ],
+    "love": [
+      "• You may reconnect with someone from your past who had a significant impact on your life; this could spark new romantic feelings.",
+      "• Focus on having a conversation rather than lecturing, as this could strengthen your connection with them.",
+      "• Embrace your adventurous spirit and stay optimistic about love; it can lead to exciting opportunities.",
+      "• Remember to balance your philosophical nature with practical plans for your future love life."
+    ],
+    "health": [
+      "• Embrace positive thinking to harness the uplifting energy surrounding you and make meaningful changes in your life.",
+      "• Don't hesitate to express your feelings; speaking your truth is essential for personal growth.",
+      "• Focus on living consciously and visualize the person you aspire to be, as this will help you achieve your dreams.",
+      "• Consider incorporating purifying herbs like Borage, Vervain, and Sage into your routine for added wellness benefits."
+    ],
+    "career": [
+      "• Trust yourself: Stop asking for too many opinions and listen to your own instincts regarding your career decisions.",
+      "• Reflect on your path: Take time to evaluate if you are on the right career path for you.",
+      "• Embrace your strengths: Utilize your adventurous spirit and optimism to take calculated risks in your career.",
+      "• Plan for the future: Balance your love for exploration with practical planning to secure your success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
