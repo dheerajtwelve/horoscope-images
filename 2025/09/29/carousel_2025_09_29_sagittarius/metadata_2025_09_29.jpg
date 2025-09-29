@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-29T09:20:03.391778",
+  "date_folder": "carousel_2025_09_29_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Embrace your strong creative urge today and let your intuition guide your work.",
+      "• Stay focused on finishing your project, even if others may not understand your drive.",
+      "• Trust that your hard work will be appreciated by friends when you share the results.",
+      "• Remember to balance your creativity with practical plans for the future."
+    ],
+    "love": [
+      "• Today is a great day to connect with that special someone you've been wanting to get closer to.",
+      "• Embrace your passionate and adventurous side—let your true self shine through!",
+      "• You may receive multiple romantic offers after showcasing your dynamic personality this evening.",
+      "• Stay optimistic but remember to focus on the present and make practical plans for your love life."
+    ],
+    "health": [
+      "• Get creative with social activities, like virtual karaoke or dance parties, to stay connected with friends while having fun.",
+      "• Remember to drink plenty of water to keep your body relaxed and release built-up tension.",
+      "• Focus on the little things that enhance your health and well-being for a more balanced life.",
+      "• Embrace your adventurous spirit, but also take time to make practical plans for your future."
+    ],
+    "career": [
+      "• Be aware of the stress around you; it can affect your mindset more than you think.",
+      "• Don’t take on the negative energy from work; focus on what you can control.",
+      "• Consider a Financial Guidance Reading to help you redefine your career path positively.",
+      "• Embrace your adventurous spirit while making practical plans for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
