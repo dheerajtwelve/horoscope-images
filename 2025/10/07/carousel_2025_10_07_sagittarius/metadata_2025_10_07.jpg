@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-07T09:00:52.243790",
+  "date_folder": "carousel_2025_10_07_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• If you're learning something new, like a computer program, it's normal to feel a bit obsessed; use that energy to your advantage.",
+      "• Pay attention to your dreams; they may offer insights about your current challenges or choices.",
+      "• Balance your adventurous spirit with practical planning to ensure you're living in the moment and preparing for the future.",
+      "• Embrace your natural curiosity and philosophical side; exploring new ideas can lead to personal growth and understanding."
+    ],
+    "love": [
+      "• Lighten up and bring more fun into your relationship; your partner will appreciate the change.",
+      "• Balance your deep thoughts with lighter conversations to keep the spark alive.",
+      "• Embrace your adventurous spirit and share joyful experiences with your loved one.",
+      "• Remember to stay present while planning for the future; a mix of fun and practicality is key."
+    ],
+    "health": [
+      "• You may feel a bit off today, but remember this feeling is temporary and will pass.",
+      "• Communication could be tricky, so stay patient and don’t hesitate to ask for help if needed.",
+      "• Stick to your regular exercise routine, as it will help you feel more balanced and comfortable.",
+      "• Embrace the present moment and continue to make practical plans for your health and well-being."
+    ],
+    "career": [
+      "• Focus on your priorities before starting any task to avoid distractions and wasted time.",
+      "• Stay committed to important projects to maximize your productivity throughout the day.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for your future.",
+      "• Explore your talents and motivations to better understand your career path and potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
