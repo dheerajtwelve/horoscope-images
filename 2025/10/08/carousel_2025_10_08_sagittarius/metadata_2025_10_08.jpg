@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-08T08:40:51.352926",
+  "date_folder": "carousel_2025_10_08_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect some tension in your love life today; stay aware of any power struggles that may arise.",
+      "• Keep your emotions in check to avoid getting overwhelmed by negative feelings.",
+      "• Stay grounded and focus on the present; making practical plans will help you feel more balanced.",
+      "• Embrace your adventurous spirit, but remember to approach risks with caution and optimism."
+    ],
+    "love": [
+      "• Embrace your attraction to someone who breaks the rules; their uniqueness will spark your interest.",
+      "• Look beyond physical appearances; their intriguing restlessness may lead to deeper connections.",
+      "• Remember to balance your adventurous spirit with practical plans for the future in relationships.",
+      "• Stay open to exploring new experiences; your natural curiosity can lead to meaningful love."
+    ],
+    "health": [
+      "• The current planetary alignments are positive, but be cautious as your focus may be unclear.",
+      "• Take time to connect with yourself and listen to your body for important health signals.",
+      "• Aim for at least three workouts a week to help tune into your physical needs.",
+      "• Embrace your adventurous spirit while also making practical plans for your health and well-being."
+    ],
+    "career": [
+      "• Stay calm if things aren't going as planned; take a moment to relax and clear your mind.",
+      "• Enjoy a break with a soothing drink and some uplifting music to improve your day.",
+      "• Consider seeking guidance from a professional to help you navigate workplace challenges.",
+      "• Embrace your adventurous spirit but remember to balance optimism with practical planning for the future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
