@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-09T08:51:33.022210",
+  "date_folder": "carousel_2025_10_09_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Consider forming a business partnership with friends, as your communication skills are strong right now.",
+      "• Clarify each person’s role in the partnership to ensure smooth collaboration.",
+      "• Put in the effort needed, as success is likely for any goal you pursue today.",
+      "• Stay present and make practical plans for the future while embracing your adventurous spirit."
+    ],
+    "love": [
+      "• Be careful not to let your imagination run wild; check your facts before acting on your feelings.",
+      "• Your optimism is a strength, but it can also lead to misunderstandings in your love life.",
+      "• Focus on the present and make practical plans for your romantic future to avoid potential mistakes.",
+      "• Embrace your adventurous spirit, but balance it with realistic expectations for lasting love."
+    ],
+    "health": [
+      "• Health brings positive energy for Sagittarius today",
+      "• Focus on your goals and stay optimistic",
+      "• Trust your instincts and embrace new opportunities",
+      "• Good vibes and positive changes are coming your way"
+    ],
+    "career": [
+      "• Now is the perfect time to enjoy the rewards of your hard work from the past ten months.",
+      "• Focus on wrapping up any unfinished tasks over the next four weeks.",
+      "• Consider seeking guidance from a Keen Advisor to improve your workplace navigation skills.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
