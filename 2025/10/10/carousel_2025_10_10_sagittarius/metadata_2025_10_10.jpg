@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-10T08:52:14.256662",
+  "date_folder": "carousel_2025_10_10_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Team up with others today to take action that feels right for you and aligns with your true self.",
+      "• Stay alert for unexpected events that could guide you towards new opportunities in your life.",
+      "• Take a step back from your daily routine to gain clarity on your path and direction.",
+      "• Embrace your adventurous spirit while balancing optimism with practical planning for the future."
+    ],
+    "love": [
+      "• Today, you might realize that your ideal view of a relationship doesn't match reality, but that's okay—it's a chance to see things more clearly.",
+      "• Remember, even those you admire have flaws; embrace their humanity and be open to growth together.",
+      "• Keep your natural optimism, but balance it with practical plans for the future in your love life.",
+      "• Continue to explore love with your adventurous spirit, as every experience can teach you something valuable."
+    ],
+    "health": [
+      "• Be aware that current energies may increase your anxiety, especially affecting your digestion.",
+      "• Stay active by exercising regularly and drinking plenty of water to support your well-being.",
+      "• Incorporate yoga, deep breathing, and lower abdominal stretches into your routine for relaxation.",
+      "• Remember that small daily efforts contribute to your overall health; take time to care for your heart and mind."
+    ],
+    "career": [
+      "• Focus on your own tasks and avoid taking on responsibilities for others.",
+      "• Use your free time to think about how you and your team can improve your work.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for the future.",
+      "• Explore your talents and motivations to unlock your full potential in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
