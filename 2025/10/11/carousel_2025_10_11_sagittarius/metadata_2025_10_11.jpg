@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-11T08:37:43.079890",
+  "date_folder": "carousel_2025_10_11_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• A change in your routine may be coming, bringing opportunities for extra income or fulfilling volunteer work.",
+      "• Embrace new tasks and collaborations, as they are likely to lead to positive experiences and connections.",
+      "• Stay optimistic, but remember to focus on the present and make practical plans for your future.",
+      "• Your adventurous spirit can lead to great discoveries, so keep exploring and stay curious about the world around you."
+    ],
+    "love": [
+      "• Today may be challenging for romance, as your partner might not be in a playful mood.",
+      "• Stay strong and brush off any negativity; this mood will likely pass soon.",
+      "• Remember that real love thrives on both compatibility and connection, so nurture your bond.",
+      "• Embrace your adventurous spirit, but also focus on practical plans for your future together."
+    ],
+    "health": [
+      "• Embrace your downtime; it's a great opportunity to reflect on what truly matters to you.",
+      "• Consider incorporating a regular exercise routine to benefit both your body and mind.",
+      "• Stay present and focus on practical plans for your future to enhance your well-being.",
+      "• Remember that your adventurous spirit can be balanced with mindfulness and self-care."
+    ],
+    "career": [
+      "• Job tension will decrease as you find common ground with a difficult co-worker, helping to ease workplace challenges.",
+      "• Building connections can help you navigate social distances and improve your work environment.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for your career.",
+      "• Consider seeking guidance from a Keen Advisor to explore your unique talents and career ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
