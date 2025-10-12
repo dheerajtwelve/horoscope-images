@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-12T08:53:43.502661",
+  "date_folder": "carousel_2025_10_12_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• If you overindulged recently, today is the time to focus on simple, healthy meals to feel better.",
+      "• Consider a brisk walk or yoga to boost your mood and clear your mind.",
+      "• By midafternoon, you'll start feeling like yourself again, so hang in there!",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for the future."
+    ],
+    "love": [
+      "• Enjoy the passionate energy today by spending quality time with your partner, engaging in activities you both love.",
+      "• Dive into deep conversations about life’s big questions, as it will strengthen your bond and spark joy.",
+      "• Embrace laughter and fun; don’t hesitate to indulge a little and make the most of your moments together.",
+      "• Remember to balance your adventurous spirit with practical planning for the future to keep your relationship thriving."
+    ],
+    "health": [
+      "• Take time to face your emotions instead of avoiding them; this will lead to positive changes ahead.",
+      "• Manage your time wisely to balance work and exercise for better physical and mental health.",
+      "• Regular workouts can help you understand your feelings better and reveal hidden truths.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and plan for a healthy future."
+    ],
+    "career": [
+      "• Your creativity is at its peak, so take advantage of it in your work. Trust in your artistic abilities to shine through every task.",
+      "• Focus on your own projects by minimizing distractions; it’s okay to ignore non-urgent emails and calls.",
+      "• Consider seeking financial guidance to help elevate your potential and make the most of your skills.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future while pursuing your ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
