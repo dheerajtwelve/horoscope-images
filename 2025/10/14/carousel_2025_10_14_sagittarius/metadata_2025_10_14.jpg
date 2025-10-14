@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-14T08:52:47.961742",
+  "date_folder": "carousel_2025_10_14_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect heavy traffic in your area today; it may be wise to avoid driving if possible.",
+      "• Consider walking or biking to your destination to save time and reduce frustration.",
+      "• If you can, staying home might be the best option to relax and avoid the chaos.",
+      "• Embrace your adventurous spirit, but remember to focus on practical plans for the future."
+    ],
+    "love": [
+      "• A hidden issue in your relationship may come to light today; consider how you want to handle it.",
+      "• You can either ignore the problem or take responsibility and work towards a positive change.",
+      "• Embrace your adventurous spirit, but remember to focus on the present and plan for the future.",
+      "• Keep exploring love with an open heart; your charisma attracts meaningful connections."
+    ],
+    "health": [
+      "• Stay active to keep your energy levels balanced; opt for walking instead of driving whenever possible.",
+      "• Make healthy food choices; focus on light and nutritious meals that benefit your body.",
+      "• Avoid self-sabotage by staying positive and mindful in your daily decisions.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for your health and future."
+    ],
+    "career": [
+      "• Expect some extra travel in your work, which will bring fresh experiences and opportunities.",
+      "• Embrace the change of scenery as it will benefit your career growth.",
+      "• Consider a Financial Guidance Reading to help redefine your professional path.",
+      "• Stay optimistic and adventurous, but remember to plan practically for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
