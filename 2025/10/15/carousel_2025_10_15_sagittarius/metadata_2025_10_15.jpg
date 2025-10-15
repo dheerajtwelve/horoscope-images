@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-15T08:56:41.694189",
+  "date_folder": "carousel_2025_10_15_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your romantic feelings are strong today, so take the chance to connect with someone you love.",
+      "• If you can’t meet in person, consider planning a romantic date soon to keep the spark alive.",
+      "• If romance isn’t in the cards, escape into a good love story to satisfy your heart’s desires.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for the future."
+    ],
+    "love": [
+      "• Enjoy playful banter with your partner today; it brings you closer and adds fun to your relationship.",
+      "• Appreciate your partner's unique sense of humor; it's a valuable quality that can deepen your connection.",
+      "• Remember that love is about recognizing the treasures in each other, even if they seem ordinary at first.",
+      "• Stay optimistic about love, but also focus on making practical plans for your future together."
+    ],
+    "health": [
+      "• Focus on your inner feelings and prioritize what truly matters to you over external opinions.",
+      "• Take steps to maintain your awareness and commit to healthy habits for the next month.",
+      "• Challenge yourself to break free from self-sabotage and take control of your health journey.",
+      "• Embrace your adventurous spirit while also making practical plans for a healthier future."
+    ],
+    "career": [
+      "• Focus on your own work instead of cleaning others' spaces to avoid distractions and miss important information.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for your career goals.",
+      "• Use your natural curiosity and philosophical mindset to explore new opportunities and ideas in your field.",
+      "• Consider seeking financial guidance to help elevate your career potential and make informed decisions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
