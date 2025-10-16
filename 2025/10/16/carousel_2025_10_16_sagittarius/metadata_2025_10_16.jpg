@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-16T08:56:05.325140",
+  "date_folder": "carousel_2025_10_16_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Express your love with simple, heartfelt gestures rather than extravagant gifts; quality time is what matters most.",
+      "• Embrace your romantic side today and share your true feelings with someone special; it will strengthen your bond.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and make practical plans for your future.",
+      "• Keep exploring new ideas and philosophies; your natural curiosity is a wonderful gift that enriches your life."
+    ],
+    "love": [
+      "• If your partner seems distant today, stay positive; this mood will pass as they sort through their thoughts.",
+      "• Be patient and give them the space they need to express themselves when they're ready.",
+      "• Remember, not everyone speaks their mind as openly as you do; understanding this can strengthen your bond.",
+      "• Embrace your adventurous spirit while also focusing on practical plans for the future together."
+    ],
+    "health": [
+      "• Take a moment to reflect on your recent habits; consider if you're eating well and getting enough rest.",
+      "• Make sure to prioritize exercise to help manage work-related stress and improve your overall well-being.",
+      "• Be mindful of how your words affect others; take care to communicate thoughtfully.",
+      "• Embrace your adventurous spirit by seeking answers to your health questions and making plans for a balanced future."
+    ],
+    "career": [
+      "• Take time to quiet your mind and reduce any work-related anxieties before the week starts.",
+      "• Consider talking to a career advisor for guidance on navigating workplace dynamics.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your career.",
+      "• Use your natural curiosity and philosophical outlook to explore new opportunities and enhance your professional growth."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
