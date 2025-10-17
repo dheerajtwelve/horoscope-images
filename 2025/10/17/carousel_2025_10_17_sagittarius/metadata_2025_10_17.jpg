@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-17T08:53:26.187212",
+  "date_folder": "carousel_2025_10_17_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• If you’re single, today is a great day to think about finding a romantic partner. Look your best to attract positive attention!",
+      "• For those in a relationship, consider deepening your commitment and discussing future plans together.",
+      "• If you’re married, thoughts of starting a family may be on your mind, which can lead to meaningful conversations.",
+      "• Embrace your adventurous spirit and stay optimistic, but remember to focus on practical steps for your future as well."
+    ],
+    "love": [
+      "• Embrace a more subtle approach today to connect better with someone special.",
+      "• Focus on appealing to your crush's hidden dreams and desires for a stronger bond.",
+      "• Remember to balance your adventurous spirit with practical plans for lasting love.",
+      "• Stay optimistic and open-minded; your charismatic nature will attract the right person."
+    ],
+    "health": [
+      "• Prioritize your health by balancing exercise, rest, and healthy eating, especially with an emphasis on salads.",
+      "• The current energy supports you in making positive health changes without impacting your work life.",
+      "• Stay optimistic and adventurous, but remember to focus on practical plans for your well-being.",
+      "• Embrace your natural curiosity and explore new ways to enhance your health journey."
+    ],
+    "career": [
+      "• Expect to feel more emotional at work over the next few weeks; it’s important to acknowledge these feelings.",
+      "• Be kind to yourself and others, showing sensitivity to the concerns of your colleagues.",
+      "• Reflect on whether you are on the right career path and consider seeking guidance for clarity.",
+      "• Embrace your adventurous spirit, but also focus on making practical plans for a successful future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
