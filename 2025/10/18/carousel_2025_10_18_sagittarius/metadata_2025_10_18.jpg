@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-18T08:39:05.134374",
+  "date_folder": "carousel_2025_10_18_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may feel torn between your career ambitions and the desire to spend time with loved ones today.",
+      "• Consider options like telecommuting to balance work and family time effectively.",
+      "• Embrace your optimistic and adventurous spirit, but remember to stay grounded in the present.",
+      "• Make practical plans for the future while exploring new ideas and experiences."
+    ],
+    "love": [
+      "• Today is perfect for talking and sharing ideas with others, especially if you're seeking a new relationship.",
+      "• Look for opportunities to meet people who may be different from you but still make you feel secure and valued.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your love life.",
+      "• If you're ready for love, take the leap and explore new connections that could enrich your life."
+    ],
+    "health": [
+      "• Listen to your body today; it has important messages for you. Take a moment to pause and reflect on how you feel.",
+      "• Stay hydrated by drinking plenty of water, even if you’re not feeling thirsty. This will help you stay in tune with your body's needs.",
+      "• Incorporate regular exercise into your routine to enhance your well-being and improve communication with loved ones.",
+      "• Embrace your adventurous spirit, but remember to plan for the future and stay grounded in the present."
+    ],
+    "career": [
+      "• Focus on clear and direct communication at work to achieve important goals, even if the atmosphere feels serious.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for your career.",
+      "• Use your natural curiosity to explore new ideas and opportunities that can enhance your professional life.",
+      "• Consider seeking insights into work-life balance to help navigate challenges and maintain positivity in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
