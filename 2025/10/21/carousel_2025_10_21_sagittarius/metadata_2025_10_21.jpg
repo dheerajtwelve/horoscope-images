@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-21T09:36:18.954994",
+  "date_folder": "carousel_2025_10_21_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Don't feel pressured to join social activities if you're not interested; it's okay to take a step back.",
+      "• Be true to yourself and avoid pretending to enjoy something that doesn't resonate with you.",
+      "• Embrace your adventurous spirit, but remember to balance fun with practical planning for your future.",
+      "• Keep exploring new ideas and philosophies, as your natural curiosity is a great strength."
+    ],
+    "love": [
+      "• Take your time in love today; clarity will come with patience, so don’t rush your decisions.",
+      "• Stay focused on what you truly want romantically, and try to avoid distractions that cause confusion.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for your future.",
+      "• Trust that real love comes from a mix of compatibility and connection; keep your heart open to possibilities."
+    ],
+    "health": [
+      "• Embrace all your emotions, both good and bad, to support your overall well-being.",
+      "• Maintain a balanced diet and regular exercise, even if you're feeling low.",
+      "• Stay hydrated by drinking plenty of water to keep your body healthy.",
+      "• Focus on living in the present while planning for the future to enhance your emotional health."
+    ],
+    "career": [
+      "• Stay grounded by surrounding yourself with reliable people who support your goals instead of those who may distract you.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for your future.",
+      "• Consider seeking financial guidance to help manifest abundance in your career.",
+      "• Remember to explore your talents and motivations, as they can lead you to fulfilling opportunities."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
