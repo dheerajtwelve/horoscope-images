@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-22T09:02:38.160145",
+  "date_folder": "carousel_2025_10_22_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your communication skills are strong today; consider writing or speaking to share your ideas.",
+      "• Start jotting down your thoughts, even if they're not perfect, to set yourself up for success.",
+      "• Be aware of potential stress from all the excitement; take time to relax and recharge.",
+      "• Embrace your adventurous spirit but remember to balance your dreams with practical planning for the future."
+    ],
+    "love": [
+      "• Enjoy a fun and carefree day with your loved one, embracing activities you both love.",
+      "• Take the opportunity to bond and share experiences that bring you joy together.",
+      "• Remember to balance your adventurous spirit with practical planning for the future.",
+      "• Stay optimistic and open-minded, as this will strengthen your connection and deepen your love."
+    ],
+    "health": [
+      "• Pay attention to how your diet impacts your body, especially your digestion.",
+      "• Opt for whole grains and leafy greens to support your intestinal health.",
+      "• Incorporate more legumes into your meals for a healthier protein source.",
+      "• Embrace the day's energy to explore new healthy eating habits!"
+    ],
+    "career": [
+      "• Focus on understanding your coworkers during the next three weeks, as relationships may feel strained.",
+      "• Your usual charm might not have the same effect, so be patient and empathetic with others.",
+      "• Consider consulting a Keen Advisor to help you navigate workplace challenges effectively.",
+      "• Stay optimistic and adventurous, but remember to make practical plans for your career growth."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
