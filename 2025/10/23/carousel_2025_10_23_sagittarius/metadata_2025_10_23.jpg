@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-23T08:55:48.941734",
+  "date_folder": "carousel_2025_10_23_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be cautious with your words today; stretching the truth can lead to trouble.",
+      "• Avoid situations where you feel pressured to lie; honesty is key to staying grounded.",
+      "• Embrace your adventurous spirit, but remember to focus on practical plans for the future.",
+      "• Stay optimistic and explore new ideas, but remain mindful of the present moment."
+    ],
+    "love": [
+      "• Be ready for unexpected changes today; they could lead to exciting new experiences in your love life.",
+      "• Embrace the adventure that comes your way; it may transform your circumstances for the better.",
+      "• Stay optimistic and open-minded, but remember to balance your adventurous spirit with practical plans for the future.",
+      "• Connect with high-quality singles around you; love is all about making meaningful connections."
+    ],
+    "health": [
+      "• You have plenty of energy today, so use it to focus on your well-being and personal growth.",
+      "• Reflect on your past year and appreciate the progress you've made for a sense of satisfaction.",
+      "• Take a moment to listen to your body and prioritize healing your heart and mind.",
+      "• Embrace your adventurous spirit but remember to stay grounded and make sensible plans for the future."
+    ],
+    "career": [
+      "• Your mood is improving, so focus on enjoying the present instead of regretting the past.",
+      "• Consider seeking guidance from a Keen Advisor to help you navigate your workplace challenges.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for your future.",
+      "• Use your natural curiosity and philosophical mindset to explore new career opportunities."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
