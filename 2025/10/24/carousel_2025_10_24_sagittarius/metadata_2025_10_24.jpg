@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-24T08:52:43.301020",
+  "date_folder": "carousel_2025_10_24_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today's energy boosts your ability to make progress toward your goals, so seize the moment.",
+      "• Your communication skills are sharp—use them to your advantage in writing and speaking.",
+      "• Now is a great time to start new projects; success is likely if you take action.",
+      "• Remember to stay present and plan for the future while enjoying your adventurous spirit."
+    ],
+    "love": [
+      "• Be serious about your commitment, even if your partner thinks you're joking; your determination will shine through.",
+      "• Don't be discouraged by their initial reaction; persistence will help them understand your true feelings.",
+      "• Embrace the connection you have with your partner; this could lead to real love and deeper compatibility.",
+      "• Balance your adventurous spirit with practical planning for the future to strengthen your relationship."
+    ],
+    "health": [
+      "• Take the time to reflect on your current situation for a clearer perspective. This can lead to better understanding in communications.",
+      "• Use any misunderstandings as a chance to grow and learn, whether you are giving or receiving feedback.",
+      "• Incorporate breathing exercises and running into your routine to help clear your mind and overcome narrow-mindedness.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and plan for your future wisely."
+    ],
+    "career": [
+      "• Be cautious about opportunities that seem too good to be true; always read the fine print before committing.",
+      "• Take time to assess if you're on the right career path and consider seeking professional guidance.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for your future.",
+      "• Use your natural curiosity and philosophical nature to explore new avenues in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
