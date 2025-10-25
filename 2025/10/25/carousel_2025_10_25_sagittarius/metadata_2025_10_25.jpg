@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-25T08:54:43.827733",
+  "date_folder": "carousel_2025_10_25_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• A romantic meeting you were excited about may not go as planned, so stay open to changes.",
+      "• It's normal to have doubts about your relationship; take your time to process these feelings.",
+      "• Avoid making big decisions today; give yourself a few days to gain confidence before moving forward.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your future."
+    ],
+    "love": [
+      "• It's time to be honest about a secret you've been keeping; your partner can sense when something is off.",
+      "• Sharing the truth will strengthen your relationship and foster trust.",
+      "• Embrace your adventurous spirit and optimism as you navigate love; it's an exciting time for you.",
+      "• Remember to stay grounded in the present and make practical plans for a fulfilling future together."
+    ],
+    "health": [
+      "• Take time to connect with your true feelings; slowing down can help you gain clarity.",
+      "• Trust your own judgment instead of relying on others' advice regarding your personal life.",
+      "• Incorporate a balanced health routine that includes exercise, healthy eating, and relaxation techniques like yoga or meditation.",
+      "• Embrace your optimistic nature while making practical plans for your health and well-being."
+    ],
+    "career": [
+      "• You have strong support from those around you; lean on them to help you move forward in your career.",
+      "• Clear your workspace and get ready to start fresh on new projects.",
+      "• Consider a Financial Guidance Reading to help you manifest abundance in your life.",
+      "• Stay optimistic but remember to make practical plans for your future as you explore new opportunities."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
