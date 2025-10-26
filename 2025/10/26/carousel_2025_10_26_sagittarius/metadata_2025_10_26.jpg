@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-26T09:00:55.496288",
+  "date_folder": "carousel_2025_10_26_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Feeling lonely? Reach out to a close friend or partner; they may be busy and will appreciate your call.",
+      "• Your feelings of insecurity might not reflect reality, so don't jump to conclusions about being forgotten.",
+      "• Remember to focus on the present while also making practical plans for your future adventures.",
+      "• Embrace your natural curiosity and optimistic spirit; it can lead you to exciting new experiences!"
+    ],
+    "love": [
+      "• Embrace conflicts as a way to energize your relationship; they can help keep the connection alive.",
+      "• Be thankful for your differences; they can bring new life to your partnership.",
+      "• If you're looking for real love, consider using platforms like eharmony to simplify your search.",
+      "• Remember to balance your adventurous spirit with practical planning for the future."
+    ],
+    "health": [
+      "• You may feel a boost in physical energy this month, so take advantage of it with fun activities and exercise.",
+      "• Remember to balance your energy with plenty of rest and a healthy diet for overall well-being.",
+      "• Avoid caffeine to maintain your energy levels and stay focused on your health goals.",
+      "• Embrace your adventurous spirit, but also make sure to stay grounded and plan for the future."
+    ],
+    "career": [
+      "• Embrace extremes in your work relationships to find balance and harmony with colleagues.",
+      "• Understanding different perspectives will help you create a more collaborative environment.",
+      "• Stay optimistic and adventurous, but remember to plan practically for your future.",
+      "• Use your natural curiosity to explore new opportunities and enhance your career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
