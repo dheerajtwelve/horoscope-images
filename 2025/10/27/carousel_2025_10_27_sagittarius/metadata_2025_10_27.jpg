@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-27T09:11:05.904611",
+  "date_folder": "carousel_2025_10_27_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Spend time today focusing on financial matters, whether for work or personal reasons, and you'll find success in your efforts.",
+      "• Expect positive outcomes in your career; your hard work will pay off.",
+      "• If you're feeling unbalanced, consider seeking guidance to help restore your focus.",
+      "• Embrace your adventurous spirit while being mindful of practical plans for your future."
+    ],
+    "love": [
+      "• Explore your relationships with a fresh perspective today; it’s a great time for new experiences.",
+      "• If you're searching for love, avoid ordinary places and seek out alternative environments for better chances.",
+      "• Consider joining groups focused on spiritual or philosophical pursuits to meet like-minded people.",
+      "• Embrace your adventurous spirit, but remember to stay present and make practical plans for the future."
+    ],
+    "health": [
+      "• Be mindful of your words this week; think before you speak to avoid misunderstandings.",
+      "• Embrace your creativity by writing down your thoughts and feelings for future reflection.",
+      "• Regular exercise can help you stay calm and balanced, reducing impulsive reactions.",
+      "• Stay optimistic and adventurous, but remember to plan practically for a healthy future."
+    ],
+    "career": [
+      "• Work with passion and dedication; avoid wasting time on indecision.",
+      "• Make choices confidently and commit to them for better results.",
+      "• Embrace your tasks wholeheartedly, and you will gain the respect of others.",
+      "• Stay optimistic, but remember to balance your adventurous spirit with practical planning for the future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
