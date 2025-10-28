@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-28T09:00:44.658945",
+  "date_folder": "carousel_2025_10_28_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Reflect on your self-image and be honest about how you see yourself compared to how others see you.",
+      "• Don’t let insecurities prevent you from expressing your true feelings to those around you.",
+      "• Embrace your adventurous spirit and focus on living in the present while planning for the future.",
+      "• Remember to take time to explore and understand the mysteries of life; your natural curiosity is a strength."
+    ],
+    "love": [
+      "• Experiment with new ways of connecting with your partner to deepen your relationship.",
+      "• See your partner in a fresh light and give them the freedom to express themselves.",
+      "• Embrace mistakes as part of growth, allowing both you and your partner to learn and triumph together.",
+      "• Stay optimistic and adventurous, but remember to balance exploration with practical planning for your future."
+    ],
+    "health": [
+      "• Today brings a strong sense of wellbeing, so focus on this positive energy for your health.",
+      "• Pay attention to your body and give it what it truly needs to feel good.",
+      "• You can experience this sense of wellness every day with a little care and attention.",
+      "• Stay optimistic and make practical plans to support your health and happiness."
+    ],
+    "career": [
+      "• Reflect on your own attitude; a positive outlook can change how you perceive others and your work environment.",
+      "• Embrace your adventurous spirit while also focusing on practical plans for your future success.",
+      "• Consider seeking financial guidance to help elevate your career potential and make informed decisions.",
+      "• Use your natural curiosity and philosophical mindset to explore new opportunities and expand your horizons."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
