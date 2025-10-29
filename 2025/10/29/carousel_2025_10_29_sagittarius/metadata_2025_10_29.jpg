@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-29T09:07:02.831579",
+  "date_folder": "carousel_2025_10_29_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today, you'll feel a bit shy but curious, like a snail peeking out of its shell. Take your time to assess your surroundings before fully engaging.",
+      "• When you find someone relatable, it will help you feel more at ease and ready to connect.",
+      "• Stay mindful about letting your guard down too much; not everyone has good intentions.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for the future."
+    ],
+    "love": [
+      "• Open up emotionally to others; this is a great time to connect and share your feelings.",
+      "• Consider hosting a virtual party or gathering with friends to strengthen your bonds.",
+      "• Embrace new connections with original people; love flourishes in fresh, exciting environments.",
+      "• Balance your adventurous spirit with practical planning for the future to enhance your relationships."
+    ],
+    "health": [
+      "• Take time to reflect on your feelings before addressing any conflicts with others. Clarity is key to successful communication.",
+      "• Focus on self-care today; prioritize activities that promote your well-being, like exercise and restful sleep.",
+      "• Consider seeking guidance through a psychic reading to reignite passion and gain insights into your relationships.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your health and future."
+    ],
+    "career": [
+      "• You may feel undervalued at work and limited in your current role; it’s time to seek opportunities that allow you to grow and express your full potential.",
+      "• Embrace your adventurous spirit and look for new challenges that excite you and align with your ambitions.",
+      "• Stay optimistic but remember to make practical plans for your career to ensure your long-term success.",
+      "• Use your natural curiosity to explore new paths and opportunities that resonate with your talents and passions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
