@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-30T09:02:17.927496",
+  "date_folder": "carousel_2025_10_30_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• If your romantic relationship feels stale or restrictive, consider making a change to bring back excitement.",
+      "• Today's energy encourages you to act on your wild ideas and turn them into reality.",
+      "• Focus on being decisive and trust your instincts as you navigate your choices today.",
+      "• Embrace your adventurous spirit, but remember to balance your dreams with practical planning for the future."
+    ],
+    "love": [
+      "• Be open to unexpected experiences in love today; they may lead to exciting new ideas and connections.",
+      "• Embrace the unconventional aspects of romance; they can bring a refreshing appeal to your love life.",
+      "• Stay optimistic and adventurous, but remember to balance your dreams with practical plans for the future.",
+      "• Keep exploring and discovering; your philosophical nature can enhance your understanding of love and relationships."
+    ],
+    "health": [
+      "• Reflect on your reactions to others today; it's important to understand your feelings separately from their actions.",
+      "• Use this time to draw strength from your emotions and recognize their validity.",
+      "• Consider lifting weights as a beneficial exercise to boost your physical health.",
+      "• Stay optimistic and adventurous, but remember to live in the present and plan for your future well-being."
+    ],
+    "career": [
+      "• Reflect on your career path to ensure it aligns with your heart’s desires and ambitions.",
+      "• Balance your love for connection with practical planning to avoid negatively impacting your work life.",
+      "• Embrace your adventurous spirit, but remember to focus on the present while planning for the future.",
+      "• Consider getting a Financial Guidance reading for deeper insights into your career and potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
