@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-31T09:03:06.003725",
+  "date_folder": "carousel_2025_10_31_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Pay attention to your dreams tonight; they may offer valuable insights into your business concerns.",
+      "• Don't get lost in confusing symbols; write them down to better understand their meaning.",
+      "• Trust your instincts and act on the insights you gain from your dreams if they feel right.",
+      "• Stay optimistic and adventurous, but remember to balance your dreams with practical plans for the future."
+    ],
+    "love": [
+      "• Be a supportive listener today, as friends may share their deepest feelings with you. Your patience will strengthen your connections.",
+      "• Embrace the intimacy that comes from these heartfelt conversations; it can enhance your relationships.",
+      "• Remember to balance your adventurous spirit with practical planning for the future in your love life.",
+      "• Stay optimistic and open to exploring new romantic possibilities; your charismatic nature attracts love easily."
+    ],
+    "health": [
+      "• Embrace the strong sexual energy you have today; it's a great time to express yourself.",
+      "• Find ways to release this energy, whether through intimacy with others or self-exploration.",
+      "• Explore your sensual side beyond just sex; there are many ways to connect with your desires.",
+      "• Stay grounded in the present while planning for the future, balancing adventure with practicality."
+    ],
+    "career": [
+      "• Career uncertainties may be confusing right now, but trust your instincts and inner wisdom.",
+      "• Take time to reflect on your true feelings about your career path and summon your courage.",
+      "• Consider seeking guidance or insights to help clarify your career direction.",
+      "• Embrace your adventurous spirit, but remember to focus on practical steps for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
