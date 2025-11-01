@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-01T09:02:03.424972",
+  "date_folder": "carousel_2025_11_01_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your curiosity is heightened today, making it a great time to explore new ideas and topics.",
+      "• Engage in group activities to connect with others who share your interests and passions.",
+      "• Be open to new friendships and opportunities that may arise from your discussions.",
+      "• Remember to balance your adventurous spirit with practical plans for the future."
+    ],
+    "love": [
+      "• Host a small party or social gathering to enjoy a fun and harmonious atmosphere with friends.",
+      "• Expand your social circle by going out and meeting new people; humor will attract potential partners.",
+      "• Avoid staying indoors; seek activities that allow you to relax and laugh, enhancing your chances of love.",
+      "• Embrace your adventurous spirit but remember to focus on the present and make practical plans for the future."
+    ],
+    "health": [
+      "• If you're feeling lonely, remember that it's okay to reach out and connect with others for support.",
+      "• Consider watching a movie recommended by a friend to lift your spirits if you prefer some alone time.",
+      "• If you're up for it, invite someone for takeout or take them on your favorite walk to foster connection.",
+      "• Prioritize getting a good night's sleep to recharge and rejuvenate your energy for the next day."
+    ],
+    "career": [
+      "• Don't let fear hold you back; embrace change with confidence and trust that the universe supports you.",
+      "• If a job is no longer fulfilling, consider letting it go to make room for new opportunities.",
+      "• Use your adventurous spirit to take calculated risks while staying grounded in practical planning.",
+      "• Explore your talents and ambitions to find a career path that truly resonates with your values."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
