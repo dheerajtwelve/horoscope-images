@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-02T09:05:04.628642",
+  "date_folder": "carousel_2025_11_02_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your plans with friends might be delayed due to responsibilities, but don’t let it discourage you; you can still enjoy your time together later.",
+      "• Be there for someone close who is feeling down; listen and help them see things more clearly.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for the future.",
+      "• Your natural curiosity is a strength; keep exploring and learning about the world around you."
+    ],
+    "love": [
+      "• Open up about your true feelings in your relationship, even if it’s difficult. Honesty can lead to positive changes.",
+      "• Avoid saying what your partner wants to hear; focus on what you genuinely need. This will strengthen your bond.",
+      "• Embrace your adventurous spirit and optimism while staying grounded in the present. Balance is key for a healthy love life.",
+      "• Remember to explore your own needs and desires in love; understanding yourself can lead to finding real connections."
+    ],
+    "health": [
+      "• Be mindful of your sensitivity today; pay attention to how you react to your surroundings.",
+      "• Maintain a balanced diet by eating nutritious meals and avoiding processed sugar.",
+      "• Stay hydrated by drinking plenty of water to help keep your energy grounded.",
+      "• Avoid mindless snacking; focus on being present and making healthier choices."
+    ],
+    "career": [
+      "• A mentor will support you in your career; embrace this help as it can lead you to success.",
+      "• Accept the assistance you receive; it is the key to unlocking your potential.",
+      "• Stay optimistic and adventurous, but remember to make practical plans for your future.",
+      "• Explore your talents and ambitions; understanding yourself will guide you on your career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
