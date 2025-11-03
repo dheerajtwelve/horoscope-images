@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-03T09:09:32.756157",
+  "date_folder": "carousel_2025_11_03_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect good news from a close friend or partner that will brighten your day.",
+      "• Celebrate this positive development, whether it's about romance or a creative project.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans.",
+      "• Keep exploring and seeking clarity in your life; it will lead to valuable insights."
+    ],
+    "love": [
+      "• Feel inspired to socialize more and connect with others, especially someone you've admired.",
+      "• Use your newfound boldness to express your feelings honestly and openly.",
+      "• Remember, your search for true love is easier than ever—embrace the opportunities.",
+      "• Stay optimistic and adventurous, but also focus on making practical plans for lasting relationships."
+    ],
+    "health": [
+      "• Treat your body with care today by giving it some extra attention and love.",
+      "• Focus on stretching and deep massages to support your joints and overall flexibility.",
+      "• Consider joining a virtual fitness class to keep your body active and engaged.",
+      "• Embrace warmth in your life, whether through meditation or visualizing a tropical getaway."
+    ],
+    "career": [
+      "• It's normal to feel less motivated at work, but remember that putting in only minimal effort can only last for so long.",
+      "• Consider exploring new job opportunities if your current role no longer excites you.",
+      "• Seek guidance from a Keen Advisor to help you navigate workplace challenges effectively.",
+      "• Embrace your adventurous spirit and use it to make practical plans for your future career success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
