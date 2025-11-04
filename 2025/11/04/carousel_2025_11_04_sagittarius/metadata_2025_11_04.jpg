@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-04T09:01:42.609272",
+  "date_folder": "carousel_2025_11_04_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Now is the perfect time to start writing; let your imagination flow without overthinking it.",
+      "• Don't be afraid to share your work; consider joining a writer's group for support and encouragement.",
+      "• Embrace your optimistic and adventurous spirit while staying grounded in the present.",
+      "• Keep exploring life's mysteries, but remember to make practical plans for the future."
+    ],
+    "love": [
+      "• Today may feel overwhelming in love, but remember that you can handle the passion and intensity.",
+      "• If you're single, be ready for unexpected romantic surprises that may sweep you off your feet.",
+      "• Embrace the idea that real love comes from a mix of compatibility and connection.",
+      "• Stay optimistic and adventurous, but also focus on living in the present and planning for a fulfilling future."
+    ],
+    "health": [
+      "• Take a moment to pause and recognize your feelings instead of pushing yourself too hard today.",
+      "• Enjoy a soothing cup of tea or engage in refreshing exercise to help clear your mind.",
+      "• Make sure to prioritize rest, as it’s essential for your emotional well-being.",
+      "• Embrace your adventurous spirit while also focusing on living in the present and planning for the future."
+    ],
+    "career": [
+      "• Be clear in your communication; avoid sarcasm as it may lead to misunderstandings with others.",
+      "• Focus on being straightforward to ensure your message is understood.",
+      "• Embrace your adventurous spirit but remember to make practical plans for your career.",
+      "• Consider a Financial Guidance Reading to help you manifest abundance in your professional life."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
