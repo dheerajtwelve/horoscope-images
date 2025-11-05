@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-05T09:03:11.084196",
+  "date_folder": "carousel_2025_11_05_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Take care of yourself today by drinking plenty of water and getting some moderate exercise and rest.",
+      "• Avoid very spicy foods to keep your digestive system happy.",
+      "• Use this time to catch up on reading or studying, as your mind is sharp and ready to learn.",
+      "• Remember to stay grounded and make practical plans for the future while enjoying your adventurous spirit."
+    ],
+    "love": [
+      "• Explore new possibilities in your personal relationships to break free from old patterns.",
+      "• Consider making changes that could lead to a more fulfilling connection with your partner.",
+      "• Embrace your adventurous spirit and be open to love when you are ready.",
+      "• Stay optimistic, but remember to focus on practical plans for a successful future together."
+    ],
+    "health": [
+      "• Pay attention to your cravings as they can indicate what your body needs right now.",
+      "• Focus on incorporating iron, calcium, and Vitamin A into your diet for better health.",
+      "• Listen to your body’s signals and stop guessing about what it needs; trust your instincts.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for your well-being."
+    ],
+    "career": [
+      "• Embrace your daydreams, as they can provide valuable insights for your career path.",
+      "• Allow your imagination to flow freely; it may lead you to new opportunities.",
+      "• Stay optimistic and adventurous, but remember to make practical plans for your future.",
+      "• Consider a Financial Guidance Reading to help manifest abundance in your career journey."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
