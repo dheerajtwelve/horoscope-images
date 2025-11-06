@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-06T09:06:47.556027",
+  "date_folder": "carousel_2025_11_06_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Stay active today and keep moving; changing locations will help you progress towards your goals.",
+      "• Focus on your direction and avoid getting stuck; stagnation can lead to confusion.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for the future.",
+      "• If you're feeling uncertain, consider seeking guidance for clarity; it can provide valuable insights."
+    ],
+    "love": [
+      "• Today is a great day to express your caring and deep feelings to someone special you've noticed.",
+      "• Take your time and don't reveal everything at once; let the excitement build to keep their interest.",
+      "• Keeping a little mystery can make you more appealing, so allow some anticipation in your interactions.",
+      "• Remember to balance your adventurous nature with practical plans for the future in your love life."
+    ],
+    "health": [
+      "• Your hard work in maintaining your fitness routine is starting to show positive results, bringing you inner satisfaction.",
+      "• Stay disciplined, as it keeps you inspired and ready for new opportunities.",
+      "• Embrace the positive energy around you today and keep moving forward instead of taking a break.",
+      "• Remember to balance your adventurous spirit with practical planning for your health and well-being."
+    ],
+    "career": [
+      "• Address any work-related issues that are on your mind today to clear your path and reduce stress.",
+      "• Take action now to resolve these matters so you can focus on other important tasks.",
+      "• Remember to balance your adventurous spirit with practical planning for your career and future.",
+      "• Embrace your natural curiosity and explore opportunities that align with your talents and ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
