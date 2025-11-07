@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-07T09:02:02.526183",
+  "date_folder": "carousel_2025_11_07_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect some tension in your romantic life; be prepared to address it directly.",
+      "• Don’t hesitate to take action in your important relationship; being proactive is key.",
+      "• Remember, trying and failing is better than not trying at all, so go for it!",
+      "• Stay optimistic and adventurous, but balance that with practical plans for your future."
+    ],
+    "love": [
+      "• Small gatherings with friends and family could lead to a special romantic connection.",
+      "• Be open to serious conversations during your first meeting; they may feel intense but can lead to something positive.",
+      "• Don't let initial discomfort discourage you; the journey may bring unexpected joy.",
+      "• Embrace your adventurous spirit while staying grounded in the present and planning for a loving future."
+    ],
+    "health": [
+      "• Embrace challenges as opportunities; you thrive under pressure and can make progress in your health goals.",
+      "• It's a great day to focus on your diet or exercise routine, so take steps towards healthier choices.",
+      "• Set aside time for reading tonight; it can provide valuable insights and relaxation.",
+      "• Stay optimistic and adventurous, but remember to create practical plans for your well-being."
+    ],
+    "career": [
+      "• If work is on your mind today, try to set it aside and focus on relaxing to ease your anxiety.",
+      "• Reflect on your career path; consider whether it aligns with your true passions and goals.",
+      "• Embrace your adventurous spirit, but remember to balance risk-taking with practical planning for the future.",
+      "• Explore your talents and ambitions further with a career report to gain deeper insights into your potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
