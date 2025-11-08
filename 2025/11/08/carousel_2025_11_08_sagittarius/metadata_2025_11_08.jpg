@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-08T08:54:50.944062",
+  "date_folder": "carousel_2025_11_08_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be prepared for emotional challenges today; misunderstandings may arise that could impact you.",
+      "• Stay strong and protect your feelings from any heated debates or conflicts that surround you.",
+      "• Focus on staying present and making practical plans; don’t let negativity distract you from your goals.",
+      "• Embrace your adventurous spirit and curiosity, as they will help you navigate today’s emotional landscape."
+    ],
+    "love": [
+      "• Explore new opportunities in love by stepping out of your comfort zone and trying something educational today.",
+      "• Look for classes or workshops online where you might meet someone intriguing and like-minded.",
+      "• Don't hesitate to approach new people; your adventurous spirit can lead to meaningful connections.",
+      "• Embrace the present while planning for the future to find a balanced and fulfilling love life."
+    ],
+    "health": [
+      "• Take good care of your skin by drinking plenty of water and keeping it moisturized.",
+      "• Always use SPF to protect your skin from the sun, even in cooler months.",
+      "• Consider indulging in deep tissue massages or hot baths to relax and rejuvenate your body.",
+      "• Stay positive and grounded by focusing on practical health habits while enjoying life’s adventures."
+    ],
+    "career": [
+      "• Employers will be paying close attention to your work, so focus on being efficient and productive.",
+      "• Ensure the quality of your work is high; putting your best effort forward is crucial.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for your career future.",
+      "• Consider a Financial Guidance Reading to help elevate your potential and explore your talents."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
