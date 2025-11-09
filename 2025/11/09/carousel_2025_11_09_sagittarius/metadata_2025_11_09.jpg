@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-09T09:03:06.103708",
+  "date_folder": "carousel_2025_11_09_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Pay attention to your dreams today; they may hold important messages for you. Write them down for reflection.",
+      "• Consider any new ideas for increasing your income, but evaluate them carefully before taking action.",
+      "• Be open to adjusting your plans; they might work out differently than you initially thought.",
+      "• Embrace your adventurous spirit while staying grounded in reality; balance optimism with practical steps for the future."
+    ],
+    "love": [
+      "• Have an open discussion about an important issue in your relationship to create positive change.",
+      "• Avoiding tough conversations won't help; addressing them is essential for healing.",
+      "• Take the time needed to work through your feelings together for a stronger bond.",
+      "• Embrace your adventurous spirit but remember to stay grounded and make practical plans for the future."
+    ],
+    "health": [
+      "• Health horoscope data not available today",
+      "• Please check back later for updates",
+      "• Focus on positive energy and good vibes",
+      "• Trust your intuition and stay optimistic"
+    ],
+    "career": [
+      "• Don't rush to buy expensive gadgets; they may complicate your work rather than simplify it.",
+      "• Stick to methods that work for you instead of following trends without thinking.",
+      "• Consider seeking a Financial Guidance Reading to gain clarity in your career path.",
+      "• Embrace your adventurous spirit while also making practical plans for the future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
