@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-10T09:10:26.498076",
+  "date_folder": "carousel_2025_11_10_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Focus on romance today; it may inspire your thoughts and creativity.",
+      "• Pay attention to your dreams tonight and write them down, as they might reveal important insights about yourself.",
+      "• Be mindful of your financial feelings; try to stay grounded between confidence and worry.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for the future."
+    ],
+    "love": [
+      "• Your partner may seem argumentative due to stress; they might just need an outlet for their feelings.",
+      "• Encourage your partner to engage in physical activities like going to the gym to release tension in a healthy way.",
+      "• Remember that as a Sagittarius, your adventurous and optimistic spirit can help bring lightness to any situation.",
+      "• Stay present and make practical plans for the future to strengthen your relationship and avoid misunderstandings."
+    ],
+    "health": [
+      "• Pay close attention to your emotional needs and the feelings of loved ones today; communication is key.",
+      "• Ensure your words reflect your true intentions to avoid misunderstandings.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your health.",
+      "• Take time to explore your thoughts and feelings; this will help you connect better with others."
+    ],
+    "career": [
+      "• A significant shift in energy begins, marking a great time to make that final effort toward your yearly goals.",
+      "• Collaborate with others to wrap up important projects you've started—teamwork will lead to success.",
+      "• Embrace your adventurous spirit, but remember to stay grounded with practical plans for the future.",
+      "• Explore your talents and motivations to navigate your career path effectively and confidently."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
