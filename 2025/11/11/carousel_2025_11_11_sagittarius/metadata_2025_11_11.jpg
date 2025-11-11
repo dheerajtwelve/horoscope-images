@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-11T09:05:30.589717",
+  "date_folder": "carousel_2025_11_11_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is a great day to embrace your sensual side; indulge in activities that please your senses.",
+      "• Take a long walk with someone special or enjoy a relaxing bath to enhance your connection.",
+      "• Savor delicious food and scents, and consider a romantic dinner to deepen your bond.",
+      "• Remember to balance your thoughts with experiences; enjoy the present while planning for the future."
+    ],
+    "love": [
+      "• Embrace your feelings and fantasies about someone special, but be mindful of what is real in your relationship.",
+      "• Focus on genuine connections to avoid disappointment; wishful thinking can lead to trouble.",
+      "• Stay optimistic and adventurous, but remember to balance your dreams with practical plans for the future.",
+      "• Use your natural curiosity to explore love deeply, ensuring you remain grounded in reality."
+    ],
+    "health": [
+      "• Trust your instincts when interacting with others; your intuition will guide you in making the right choices.",
+      "• Stick to a regular exercise routine to strengthen your body and mind while focusing on your health goals.",
+      "• Remember to live in the present and make practical plans for your future wellbeing.",
+      "• Embrace your adventurous spirit, but balance it with mindful choices to maintain a healthy lifestyle."
+    ],
+    "career": [
+      "• Enjoy the smooth flow of your career; your wit and charm are making a positive impact on those around you.",
+      "• Continue to share your jokes and stories, as they brighten the day for your colleagues and strengthen relationships.",
+      "• Consider seeking advice from a Keen Advisor to help navigate your workplace effectively and maximize your potential.",
+      "• Embrace your optimistic and adventurous spirit, but remember to focus on practical planning for your future career goals."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
