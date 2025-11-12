@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-12T09:03:33.030520",
+  "date_folder": "carousel_2025_11_12_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is a great day for attending lectures or workshops, as your mind and emotions are in sync for gaining new insights.",
+      "• Trust your high level of common sense to make practical decisions effectively.",
+      "• Engage in conversations with like-minded people; it will be both rewarding and eye-opening.",
+      "• Remember to stay present while planning for the future, balancing your adventurous spirit with practical steps."
+    ],
+    "love": [
+      "• Open and honest communication is essential today; don't avoid tough topics in your relationship.",
+      "• Addressing the core issues will take courage but will lead to a stronger connection in the long run.",
+      "• Embrace your adventurous spirit while also making practical plans for your love life.",
+      "• Stay optimistic and be willing to explore new depths in your relationship for lasting happiness."
+    ],
+    "health": [
+      "• Focus on eating healthy foods that benefit both your mind and body to enhance your overall well-being.",
+      "• Limit processed foods and consider clearing out unhealthy items from your home to avoid temptation.",
+      "• Explore joining a local \"farmer's club\" for affordable access to fresh organic produce.",
+      "• Embrace your adventurous spirit while making practical health plans for a bright future."
+    ],
+    "career": [
+      "• You will be very productive today, quickly handling all your tasks with ease.",
+      "• Trust your quick mind; it’s working at top speed to help you succeed.",
+      "• Embrace your adventurous spirit, but remember to balance risk-taking with practical planning.",
+      "• Explore your talents and ambitions to uncover your true potential in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
