@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-13T09:06:16.748777",
+  "date_folder": "carousel_2025_11_13_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Take time to ground yourself, as your thoughts may feel scattered or dreamy today.",
+      "• Avoid rushing into decisions; focus on being present and aware of your surroundings.",
+      "• Allow your imagination to roam, but do so in a safe and controlled environment.",
+      "• Embrace your adventurous spirit, but remember to balance exploration with practical planning for the future."
+    ],
+    "love": [
+      "• Take some time for yourself today to reflect on recent events and gain clarity. It’s okay to feel distant; use this time for personal growth.",
+      "• Embrace the opportunity to seek a new perspective on what’s been troubling you. This will help restore your inner balance.",
+      "• Remember to focus on the present while also planning for the future. Balance your adventurous spirit with practical steps in love.",
+      "• Stay open to connecting with others; your charismatic nature will attract high-quality individuals into your life."
+    ],
+    "health": [
+      "• Regular exercise is essential for your overall well-being and helps improve your perspective on life.",
+      "• Drinking plenty of fresh water and eating foods rich in Vitamin C will enhance your skin quality.",
+      "• Taking care of your skin will boost your self-esteem and positively influence how you see the world.",
+      "• Stay grounded by living in the present while planning for the future, balancing your adventurous spirit with practical steps."
+    ],
+    "career": [
+      "• You have an important role to play in your career; trust your instincts to guide you toward your true path.",
+      "• Take time to reflect and ensure you are aligned with your career goals for greater fulfillment.",
+      "• Embrace your adventurous spirit, but remember to balance risk-taking with practical planning for your future.",
+      "• Use your natural curiosity to explore new opportunities and develop your talents in your professional life."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
