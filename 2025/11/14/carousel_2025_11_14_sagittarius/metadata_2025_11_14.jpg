@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-14T09:04:55.735109",
+  "date_folder": "carousel_2025_11_14_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Embrace your emotional side, but remember that not everyone may understand your sensitivity.",
+      "• Don't let criticism silence you; your experiences are valuable lessons for others.",
+      "• Focus on the present and make practical plans for your future adventures.",
+      "• Keep your optimistic spirit alive, as your generosity and charisma are your strengths."
+    ],
+    "love": [
+      "• Be prepared for unexpected feelings today; it’s important to acknowledge them instead of pushing them aside.",
+      "• Consider having an open conversation to address any issues, paving the way for a romantic evening later.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical plans for your relationships.",
+      "• Stay optimistic and enjoy the journey of love, as it can lead to exciting new connections."
+    ],
+    "health": [
+      "• Embrace your passionate side today, as your energy is high and ready for positive expression.",
+      "• Focus on taking great care of yourself; it's not only healthy but also attractive!",
+      "• Make sure to stick to your daily workout routine to maintain your high energy levels.",
+      "• Stay optimistic and adventurous, but also remember to live in the moment and plan for the future."
+    ],
+    "career": [
+      "• You have a clear vision of your career goals; focus on where you want to go.",
+      "• Surround yourself with supportive people who believe in your dreams.",
+      "• Consider getting a Financial Guidance Reading to help redefine your career path.",
+      "• Embrace your adventurous spirit while staying practical and making solid plans for the future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
