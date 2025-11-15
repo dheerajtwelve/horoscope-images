@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-15T08:59:00.155811",
+  "date_folder": "carousel_2025_11_15_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Embrace change by being adaptable and going with the flow; trust the foundation you've built.",
+      "• Let go of things that hold you back; it's time to release your security blanket for greater peace.",
+      "• Make confident decisions today; trust your adventurous spirit to guide you forward.",
+      "• Focus on living in the present while planning for the future; balance optimism with practicality."
+    ],
+    "love": [
+      "• If you feel awkward in your relationships today, don’t panic; it’s a chance to recognize and change old patterns.",
+      "• Take this opportunity to become more aware of how you might unintentionally sabotage your connections.",
+      "• Remember, this moment of awareness is a positive step towards deeper, more meaningful love.",
+      "• Stay optimistic and adventurous, but also focus on making practical plans for your romantic future."
+    ],
+    "health": [
+      "• Take a break and focus on yourself when feeling cranky—listen to your favorite music and freshen up your space.",
+      "• Surround yourself with beauty, like fresh flowers, to lift your mood and create a positive environment.",
+      "• Reflect on what isn’t working in your life and use this time to plan for a brighter future.",
+      "• Remember, every day is an opportunity for a fresh start—breathe deeply and embrace new beginnings."
+    ],
+    "career": [
+      "• Embrace your independence today; find strength within yourself instead of relying on others for support.",
+      "• Cultivate a mindset of abundance and consider seeking financial guidance to enhance your career prospects.",
+      "• Balance your adventurous spirit with practical planning to ensure a stable future.",
+      "• Use your natural curiosity and philosophical outlook to explore new opportunities in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
