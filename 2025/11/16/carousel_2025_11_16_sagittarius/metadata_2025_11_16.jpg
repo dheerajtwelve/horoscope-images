@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-16T09:08:11.293954",
+  "date_folder": "carousel_2025_11_16_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your hard work in your career may finally pay off with recognition and success.",
+      "• Expect a potential raise and increased respect from friends and co-workers.",
+      "• Celebrate your achievements, but be careful not to overindulge.",
+      "• Stay grounded and focus on practical plans for your future while embracing your adventurous spirit."
+    ],
+    "love": [
+      "• Take this opportunity to show your partner how much you care; small gestures can make a big impact.",
+      "• If you want to improve your relationship, now is a great time to prove your commitment.",
+      "• Remember, you don’t need to do anything extravagant—just communicate your feelings clearly.",
+      "• Embrace your adventurous spirit, but also focus on making practical plans for love in the future."
+    ],
+    "health": [
+      "• Embrace your intensity by engaging in solo activities like skydiving or other adventures that excite you.",
+      "• Remember to exercise daily to maintain your physical health and boost your mood.",
+      "• Stay mindful of how your words and actions affect others, ensuring clarity in your communication.",
+      "• Focus on living in the present while also making practical plans for your future health and well-being."
+    ],
+    "career": [
+      "• This is your moment to shine in your career; your ideas are respected and valued by others.",
+      "• Don't hesitate to push your agenda forward; it will be recognized and lead to success.",
+      "• Embrace your adventurous spirit while also making practical plans for the future.",
+      "• Consider a Financial Guidance Reading to enhance your potential and achieve your goals."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
