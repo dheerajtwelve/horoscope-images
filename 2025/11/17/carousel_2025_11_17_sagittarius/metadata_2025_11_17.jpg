@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-17T09:08:23.525293",
+  "date_folder": "carousel_2025_11_17_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect sudden insights today that can help you make meaningful changes in your life.",
+      "• A lucky financial surprise might come your way, so stay open to new opportunities.",
+      "• Pay attention to your dreams tonight; they could hold valuable messages for you.",
+      "• Embrace this day filled with positive developments and remember to plan for the future."
+    ],
+    "love": [
+      "• Your unique qualities in relationships shine bright right now, making you very appealing to others.",
+      "• Expect to be the center of attention; enjoy the admiration and connect with those around you.",
+      "• If you want to impress someone special, flash your best smile and let your charm work its magic.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and plan for a fulfilling future."
+    ],
+    "health": [
+      "• Stay active to maintain your well-being; choose activities that excite your adventurous spirit.",
+      "• Embrace your love for travel and adventure, as they contribute positively to your health.",
+      "• Keep a balanced approach by making practical plans while enjoying the present moment.",
+      "• Remember to prioritize fitness; it enhances your ability to explore and enjoy life fully."
+    ],
+    "career": [
+      "• Communicate with honesty and passion to foster better connections in your work environment.",
+      "• Avoid negative emotions like anger or frustration, as they can hinder support from others.",
+      "• Reflect on your career path and consider seeking guidance to ensure you're on the right track.",
+      "• Embrace your adventurous spirit while also focusing on practical planning for future success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
