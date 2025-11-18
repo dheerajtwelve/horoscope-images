@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-18T09:04:12.556158",
+  "date_folder": "carousel_2025_11_18_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Enjoy a day filled with love and warmth from friends, family, and your partner; cherish these connections.",
+      "• Embrace your creativity today, as inspiration may come from the support of those you care about.",
+      "• Any new relationships you form now are likely to be strong and lasting, so invest your time in them.",
+      "• Stay optimistic and adventurous, but remember to plan for your future while appreciating the present moment."
+    ],
+    "love": [
+      "• Today brings a chance for a deep and romantic connection, so be open to love and enjoy the moments.",
+      "• While indulging in nice outings, remember that there may be expectations, so clarify any terms early on.",
+      "• Embrace your adventurous and generous spirit, but also focus on living in the present and planning for the future.",
+      "• Use your natural curiosity to explore new aspects of love and relationships, keeping an optimistic outlook."
+    ],
+    "health": [
+      "• Reflect on your health journey over the past year and recognize what has worked well for you.",
+      "• Focus on incorporating fresh foods, regular exercise, and relaxation into your daily routine.",
+      "• Strive to increase the number of self-care days in the coming month for better well-being.",
+      "• Embrace your adventurous spirit while balancing optimism with practical health plans for the future."
+    ],
+    "career": [
+      "• Avoid getting caught up in small details; it can waste your valuable time.",
+      "• Balance your attention to details with a focus on the bigger picture in your career.",
+      "• Embrace your adventurous spirit and optimism, but also plan practically for the future.",
+      "• Consider exploring your talents and motivations further with a career guidance reading."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
