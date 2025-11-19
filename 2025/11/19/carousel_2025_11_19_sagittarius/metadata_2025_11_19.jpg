@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-19T09:03:46.741500",
+  "date_folder": "carousel_2025_11_19_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Enjoy a day of short trips and meaningful conversations with your special someone.",
+      "• Consider exploring the countryside, visiting charming shops and cozy restaurants.",
+      "• Be open to a confusing call from an acquaintance this evening; asking for clarification can help.",
+      "• Embrace your adventurous spirit, but remember to focus on the present and plan for the future."
+    ],
+    "love": [
+      "• Expect a lively day filled with virtual meetings and small social gatherings that could enhance your love life.",
+      "• Focus your energy on a promising relationship, but remember to assess if the feelings are mutual.",
+      "• Being in love is wonderful, but it’s important to ensure you’re both on the same page emotionally.",
+      "• Embrace your adventurous spirit while also making practical plans for your future together."
+    ],
+    "health": [
+      "• Take time today to reflect on what makes you happy and write down your favorite foods and activities.",
+      "• Remember to appreciate your body and how it supports you; it's your most valuable asset.",
+      "• Consider ways you may have neglected your health and think about how to honor your body better.",
+      "• Stay present and make practical plans for your well-being while embracing your adventurous spirit."
+    ],
+    "career": [
+      "• Strong communication with co-workers today can help strengthen your work relationships. Engage in casual settings to share ideas and collaborate.",
+      "• Take advantage of this opportunity to brainstorm and align your career goals with your team.",
+      "• Stay optimistic and adventurous, but remember to make practical plans for the future to ensure success.",
+      "• Consider a Financial Guidance Reading to help manifest abundance in your career and finances."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
