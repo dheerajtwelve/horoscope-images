@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-20T09:02:08.456028",
+  "date_folder": "carousel_2025_11_20_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Don't lose hope in finding your ideal partner; now is a great time to take action in your love life.",
+      "• Be prepared for some challenges, but don't let them stop you from exploring new connections.",
+      "• Look deeper to discover the true qualities of the person you’re interested in; there’s more than meets the eye.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your future."
+    ],
+    "love": [
+      "• Embrace a soft romantic outlook in your love life, but be open to new experiences and friendships.",
+      "• Meeting others with an experimental approach to love can bring warmth and joy, even if it doesn’t lead to deep connections.",
+      "• Use platforms like eharmony to make your search for real love easier and more effective.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and make practical plans for your future."
+    ],
+    "health": [
+      "• Explore what healthy eating means for you today and set personal limits on your diet.",
+      "• Incorporate nutrient-rich sea vegetables like kelp to support your skeletal system and skin health.",
+      "• Educate yourself about healthy diet specifics; making this knowledge fun can enhance your experience.",
+      "• Balance your adventurous spirit with practical planning to maintain your overall well-being."
+    ],
+    "career": [
+      "• Take time to reflect on your past career choices before making your next big move.",
+      "• Learn from your previous mistakes to avoid repeating them in the future.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for your career.",
+      "• Consider a Financial Guidance Reading to help you start manifesting abundance today."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
