@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-21T09:02:38.508567",
+  "date_folder": "carousel_2025_11_21_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is a great day to get organized, so take advantage of your high-tech tools and ask friends for support.",
+      "• Keep a positive and enthusiastic mindset to help you tackle your tasks effectively.",
+      "• By the end of the day, you'll feel proud of your accomplishments, so remember to celebrate your efforts.",
+      "• Embrace your adventurous spirit, but also focus on making practical plans for the future."
+    ],
+    "love": [
+      "• Share your wisdom with those who seek your support; your words can bring comfort and connection.",
+      "• Spend quality time with your loved one, enjoying peaceful moments together to strengthen your bond.",
+      "• Plan a romantic dinner to celebrate your relationship and create lasting memories.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and make thoughtful plans for the future."
+    ],
+    "health": [
+      "• Consider buying a book on health and nutrition to expand your knowledge and discover what works for you.",
+      "• Explore herbal and holistic practices that may benefit your individual health journey.",
+      "• Take some time to investigate vegetarianism if it's a new concept for you; it could offer valuable insights.",
+      "• Stay optimistic and adventurous, but remember to make practical health plans for a balanced future."
+    ],
+    "career": [
+      "• Take a step back today and focus on planning instead of rushing into action.",
+      "• Show your coworkers that you value careful consideration before making decisions.",
+      "• Consider talking to a Keen Advisor for guidance on navigating your career path.",
+      "• Embrace your natural optimism, but remember to balance adventure with practical planning for the future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
