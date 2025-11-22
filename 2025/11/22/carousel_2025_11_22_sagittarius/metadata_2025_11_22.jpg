@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-22T08:56:58.284063",
+  "date_folder": "carousel_2025_11_22_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your group connections can help you grow spiritually today, so engage with others positively.",
+      "• Don't worry if past emotional issues resurface; see them as a chance to let go of old traumas.",
+      "• Focus on overcoming limitations in your life, whether they are emotional, spiritual, or physical.",
+      "• Embrace this experience to gain new clarity and direction for your future plans."
+    ],
+    "love": [
+      "• Now is a great time to broaden your social circle and make new connections.",
+      "• An old friend from college might re-enter your life unexpectedly, bringing fresh opportunities.",
+      "• You may discover that you have more in common with this person now, leading to deeper connections.",
+      "• Stay open to love and adventure, but remember to balance your excitement with practical planning for the future."
+    ],
+    "health": [
+      "• Embrace the harmony of the day by engaging in yoga or a personal tantric practice to enhance your well-being.",
+      "• Regular yoga practice is key to calming your mind and toning your body, so try to include it in your routine.",
+      "• Focus on living in the present while also making practical plans for your future health.",
+      "• Keep your adventurous spirit alive, but remember to balance it with mindful choices for your physical well-being."
+    ],
+    "career": [
+      "• Be careful with what you share at work; think before you hit send on emails to avoid misunderstandings.",
+      "• Your words can impact others more than you realize, so practice discretion in your communications.",
+      "• Embrace your adventurous spirit, but also focus on making practical plans for your career future.",
+      "• Consider a Financial Guidance Reading to help elevate your potential and clarify your ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
