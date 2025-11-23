@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-23T09:16:55.001136",
+  "date_folder": "carousel_2025_11_23_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You might feel a bit lost today, but take this time to reflect on important decisions coming your way.",
+      "• Consider whether to follow your desires or take a more practical approach in your life.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future.",
+      "• Use your natural curiosity to explore new ideas, but find balance in the present moment."
+    ],
+    "love": [
+      "• Expect a spark of real passion today, especially if you seek romance. Be open to surprises!",
+      "• People around you may be hiding their true feelings; look closely to discover who wants to connect.",
+      "• By day’s end, you’ll need to make an important decision about love—trust your instincts to guide you.",
+      "• Embrace your adventurous spirit, but remember to balance fun with practical plans for your future in love."
+    ],
+    "health": [
+      "• If you're feeling overwhelmed, embrace your nurturing side to protect your well-being.",
+      "• Balance is key: make time for both exercise and rest to support your health.",
+      "• Treat yourself to a soothing hot bath with lavender oil for relaxation and self-care.",
+      "• Take a moment to journal or listen to music, as how you treat yourself affects your overall health."
+    ],
+    "career": [
+      "• You are in a great position to advance your career; embrace new opportunities that come your way.",
+      "• If your current job feels unfulfilling, consider moving on to something more exciting.",
+      "• Stay optimistic and adventurous, but also focus on making practical plans for your future.",
+      "• Explore your talents and ambitions to discover what truly motivates you in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
