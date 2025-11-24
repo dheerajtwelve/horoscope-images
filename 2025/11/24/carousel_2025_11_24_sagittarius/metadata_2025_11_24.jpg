@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-24T09:16:01.621971",
+  "date_folder": "carousel_2025_11_24_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Enjoy a pleasant day as you connect more deeply with caring people around you.",
+      "• Take this opportunity to express your feelings to someone special; the moment is right!",
+      "• Remember, this supportive atmosphere will only last for a few days, so act while you can.",
+      "• Stay optimistic and adventurous, but also focus on practical plans for your future."
+    ],
+    "love": [
+      "• Plan an exciting outing with your loved one today, like a camping trip or fishing in a beautiful spot.",
+      "• Embrace the adventurous spirit in your relationship to create special memories together.",
+      "• Focus on making your time cozy and romantic to deepen your connection.",
+      "• Remember to balance your adventurous side with practical plans for the future."
+    ],
+    "health": [
+      "• Prioritize your well-being by ensuring you get enough sleep and eat regular meals to avoid saying things you might regret.",
+      "• Take time to enjoy your own company; it's okay to isolate yourself when you need space.",
+      "• Listen to your feelings of irritability as they may indicate deeper thoughts that need attention.",
+      "• Consider practicing yoga or deep breathing at home to help manage stress and calm your mind."
+    ],
+    "career": [
+      "• Embrace the energy of the day to think big and pursue new opportunities, such as applying for a promotion or raise.",
+      "• Don't hesitate to submit your resume to companies you admire, even if you think they wouldn't hire you.",
+      "• Trust in your natural charisma and adventurous spirit to help you stand out in your career pursuits.",
+      "• Consider getting a Financial Guidance reading to ensure you are on the right career path and making practical plans for the future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
