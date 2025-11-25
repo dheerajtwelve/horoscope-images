@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-25T09:07:36.627453",
+  "date_folder": "carousel_2025_11_25_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect exciting news today that could lead to a promotion, raise, or new project – your hard work is paying off!",
+      "• You may also receive positive developments in your love life, so stay open to possibilities.",
+      "• Embrace any gifts or rewards that come your way with your usual charm and grace.",
+      "• Remember to balance your adventurous spirit with practical planning for the future."
+    ],
+    "love": [
+      "• Focus on what you have now and think about your dreams for the future. It's time to let go of the past and embrace new beginnings.",
+      "• Take this chance to start fresh in your love life; you have so much to give and share with others.",
+      "• Remember to enjoy the present moment while also making practical plans for your romantic future.",
+      "• Embrace your adventurous spirit and be open to meeting new people who could bring love into your life."
+    ],
+    "health": [
+      "• Consider adding yoga to your health routine to help calm your mind and body.",
+      "• There are many styles of yoga; explore different options to find the one that suits you best.",
+      "• Look for introductory yoga videos online to start your practice easily and conveniently.",
+      "• Embrace this opportunity for a new experience that can bring joy and mindfulness into your life."
+    ],
+    "career": [
+      "• Write down your ideas today to ensure they don’t get forgotten; they are valuable and worth organizing.",
+      "• Avoid using random scrap paper; keep your notes in a safe place where they won’t get lost.",
+      "• Consider getting a Financial Guidance Reading to help redefine and enhance your career path.",
+      "• Stay optimistic and adventurous, but also focus on making practical plans for your future success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
