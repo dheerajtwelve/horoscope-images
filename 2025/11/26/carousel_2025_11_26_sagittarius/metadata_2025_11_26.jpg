@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-26T09:07:18.909297",
+  "date_folder": "carousel_2025_11_26_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You're likely experiencing better financial stability, but keep working towards your monetary goals.",
+      "• Avoid stressing over your finances; instead, focus on calm and productive progress.",
+      "• If you're feeling unbalanced, take a moment to reconnect with what grounds you.",
+      "• Embrace your adventurous spirit while also making practical plans for the future."
+    ],
+    "love": [
+      "• Seek a relationship that nourishes your mind, spirit, and body, moving away from past unsuitable partners.",
+      "• Explore new social circles to find someone who truly aligns with your desires for a deeper connection.",
+      "• Embrace your adventurous and optimistic nature while staying grounded in the present and planning for the future.",
+      "• Remember, real love comes from compatibility and connection—stay open to the possibilities!"
+    ],
+    "health": [
+      "• Acknowledge your anxiety instead of brushing it off; it's important to understand your feelings.",
+      "• Develop habits that help you relax and relieve tension, making self-care a priority.",
+      "• Set aside time for pampering yourself regularly; this can help prevent anxiety from building up.",
+      "• Stay grounded by focusing on the present and making practical plans for your future adventures."
+    ],
+    "career": [
+      "• Stay focused on your current tasks to maximize productivity and avoid distractions.",
+      "• You have the potential to achieve more than you realize, so trust in your abilities.",
+      "• Consider seeking a Financial Guidance Reading to help redefine your career path.",
+      "• Embrace your adventurous spirit while making practical plans for your future success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
