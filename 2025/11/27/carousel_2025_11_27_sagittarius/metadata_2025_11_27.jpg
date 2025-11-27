@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-27T09:03:56.642215",
+  "date_folder": "carousel_2025_11_27_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be attentive to your friends' feelings today, as your ability to empathize is strong.",
+      "• Listen to a friend who may need to share their burdens, but remember to set healthy boundaries.",
+      "• Offer advice, but don't take on more responsibility than you can handle.",
+      "• Embrace your adventurous spirit, but stay grounded by making practical plans for the future."
+    ],
+    "love": [
+      "• Take this opportunity to share your feelings with your partner and reignite the passion in your relationship.",
+      "• Spend quality time together to strengthen your bond and commitment.",
+      "• Allow each other some space to grow individually while still supporting one another.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and plan for your future together."
+    ],
+    "health": [
+      "• Share your goals with those around you to gain valuable support and build stronger connections.",
+      "• Consider cooking a homemade meal to express yourself and invite others into your life.",
+      "• Embrace vulnerability; it may feel scary, but it will bring warmth and closeness to your relationships.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and make practical plans for the future."
+    ],
+    "career": [
+      "• Today, your ideas are especially innovative, so stay alert for flashes of inspiration during your workday.",
+      "• Taking initiative to implement your creative thoughts can lead to significant progress in your career.",
+      "• Reflect on your current career path and consider seeking guidance to ensure you are heading in the right direction.",
+      "• Embrace your adventurous spirit but remember to balance it with practical planning for a successful future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
