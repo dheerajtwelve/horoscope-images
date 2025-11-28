@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-28T09:03:51.809607",
+  "date_folder": "carousel_2025_11_28_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be cautious about financial worries; information from friends may not be accurate.",
+      "• Before reacting to news, take time to verify the facts and avoid unnecessary panic.",
+      "• Embrace your optimistic and adventurous spirit, but remember to stay grounded in reality.",
+      "• Focus on making practical plans for the future while enjoying the present moment."
+    ],
+    "love": [
+      "• Expect meaningful conversations with your loved one today; they can help clear up any misunderstandings.",
+      "• Open your heart and be honest about your feelings to explore new possibilities in your relationship.",
+      "• Persevere through challenges, as working through issues can strengthen your bond.",
+      "• Remember to live in the present while also planning for a bright future together."
+    ],
+    "health": [
+      "• Don't be afraid to share your feelings of uncertainty; others will appreciate your honesty and offer support.",
+      "• Consider trying new workouts with a friend to make the experience more enjoyable and less daunting.",
+      "• Use fitness apps to connect with trainers who can guide you through exercises and help build your confidence.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your health and well-being."
+    ],
+    "career": [
+      "• Your communication skills are strong today, so express yourself clearly and confidently at work.",
+      "• Be cautious about what you say; information can spread quickly and may reach your boss.",
+      "• Embrace your adventurous spirit, but remember to focus on practical planning for your career.",
+      "• Consider seeking financial guidance to help elevate your professional potential and achieve your goals."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
