@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-29T09:04:00.098915",
+  "date_folder": "carousel_2025_11_29_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Embrace change in your home today; your high energy makes it a great time for redecoration.",
+      "• Remember to ask for help when lifting heavy items; teamwork is important to avoid injury.",
+      "• If you're feeling uncertain about the future, consider a psychic reading for clarity and guidance.",
+      "• Stay optimistic and adventurous, but also focus on practical plans to ensure a balanced approach to life."
+    ],
+    "love": [
+      "• Enjoy light moments and laughter in your relationship today to strengthen your bond.",
+      "• Take time to reconnect and have fun together, like watching a funny movie.",
+      "• Remember that your search for true love is easier than ever—stay open to possibilities.",
+      "• Embrace your adventurous spirit while also making practical plans for the future."
+    ],
+    "health": [
+      "• Focus on your diet and exercise to enhance your quality of life; small changes can lead to big improvements.",
+      "• Incorporate regular yoga workouts and stay hydrated to boost your overall well-being.",
+      "• Listen to your body’s needs; it will guide you in making healthier food choices.",
+      "• Embrace your adventurous spirit while remaining mindful of your health and future plans."
+    ],
+    "career": [
+      "• Today is a great day to blend old and new ideas for your next career move, helping you make informed decisions.",
+      "• Embrace fresh concepts while respecting traditional methods to enhance your work strategy.",
+      "• Keep your adventurous spirit alive, but remember to stay grounded and plan for the future.",
+      "• Explore your unique talents and ambitions to unlock new opportunities in your career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
