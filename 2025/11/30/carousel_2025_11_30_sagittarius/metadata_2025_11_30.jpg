@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-11-30T09:17:13.771474",
+  "date_folder": "carousel_2025_11_30_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Lighten up! If you're feeling serious, take the opportunity to go out and have some fun, like visiting a comedy club.",
+      "• Laughter is on the horizon; it could be the highlight of your month, so embrace it.",
+      "• Trust your instincts and avoid second-guessing yourself; confidence will lead to better choices.",
+      "• Stay optimistic and adventurous, but remember to balance your dreams with practical planning for the future."
+    ],
+    "love": [
+      "• Attend a small social gathering today to meet new people and expand your connections.",
+      "• Engage with those you wouldn't normally talk to; this could lead to exciting new interests.",
+      "• Be open to taking risks in love; opening your heart can lead to meaningful progress in your relationships.",
+      "• Remember to balance your adventurous spirit with practical plans for the future."
+    ],
+    "health": [
+      "• Listen to your body to gain better control over your appetite and emotions, leading to improved self-awareness.",
+      "• Prioritize getting enough rest, especially on busy days, to support your overall well-being.",
+      "• Calm your mind before bed to ensure better sleep; try a hot bath with lavender oil for relaxation.",
+      "• Embrace your adventurous spirit while staying grounded by making practical plans for your health and future."
+    ],
+    "career": [
+      "• Expect lively discussions at work, and don’t shy away from engaging in them; they could lead to improved relationships.",
+      "• Embrace any verbal conflicts as opportunities for clarity and growth in your professional environment.",
+      "• Take a moment to reflect on your career path and consider seeking guidance to ensure you’re on the right track.",
+      "• Use your natural optimism and adventurous spirit to drive your career forward, but remember to plan practically for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
