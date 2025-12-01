@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-01T09:33:20.248030",
+  "date_folder": "carousel_2025_12_01_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your emotions may fluctuate today, so stay flexible and open to change.",
+      "• Enjoy the strong connections you have with those around you; they bring joy and support.",
+      "• Be cautious as the day progresses; not everyone may be as genuine as they appear.",
+      "• Embrace your adventurous spirit, but remember to plan for the future while staying present."
+    ],
+    "love": [
+      "• Take time to reflect on your relationship for better clarity and understanding.",
+      "• If you've been spending too much time together, consider giving each other some space.",
+      "• Avoid potential friction by ensuring you both have time for family and friends.",
+      "• Stay optimistic and adventurous, but remember to plan practically for the future."
+    ],
+    "health": [
+      "• Embrace change by clearing out old items in your space to make room for new energy and opportunities.",
+      "• Remember that a clean environment can lead to a clearer mind and better health.",
+      "• Practice deep breathing as a way to refresh and cleanse your body; long exhales can be very beneficial.",
+      "• Stay optimistic and adventurous, but also focus on practical steps for a healthier future."
+    ],
+    "career": [
+      "• Today may be challenging as co-workers are likely to be moody, so avoid discussing important issues for now.",
+      "• Focus on your natural optimism and charisma to navigate difficult interactions with ease.",
+      "• Take time to plan for the future while staying grounded in the present moment.",
+      "• Consider exploring your talents and ambitions to enhance your work-life balance and career satisfaction."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
