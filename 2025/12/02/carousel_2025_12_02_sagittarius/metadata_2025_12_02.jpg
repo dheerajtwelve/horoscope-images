@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-02T09:11:42.705509",
+  "date_folder": "carousel_2025_12_02_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your relationships may feel intense right now, but remember to stay calm and grounded.",
+      "• Take time for self-care activities like meditation or yoga to ease your mind.",
+      "• Trust that the current challenges will pass, and soon you'll find joy again.",
+      "• Embrace your adventurous spirit, but also focus on making practical plans for the future."
+    ],
+    "love": [
+      "• Enjoy a romantic day by communicating your feelings to someone special who could transform your life.",
+      "• Take your time and ensure you’re clear about your emotions before diving into any new relationship.",
+      "• Use this moment to search for true love, as finding it has never been easier.",
+      "• Embrace your adventurous spirit but remember to stay grounded and plan for a positive future."
+    ],
+    "health": [
+      "• Focus on finding balance between your work and private life to improve your overall well-being.",
+      "• Be clear about your goals and set boundaries that support your health and happiness.",
+      "• Stick to your exercise routine but push yourself to work at your full potential for better results.",
+      "• Stay present and make practical plans for your future to maintain a positive outlook on life."
+    ],
+    "career": [
+      "• Today, it may be hard to concentrate on your work, so consider wrapping things up early.",
+      "• Avoid forcing yourself to be productive; instead, give yourself a break to recharge.",
+      "• Embrace your adventurous spirit, but remember to focus on practical plans for your future.",
+      "• Use your natural curiosity to explore new opportunities that align with your passions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
