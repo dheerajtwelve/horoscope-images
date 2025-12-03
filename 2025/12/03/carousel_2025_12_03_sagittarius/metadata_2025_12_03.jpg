@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-03T09:10:33.975703",
+  "date_folder": "carousel_2025_12_03_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Feeling a bit down due to a disagreement with someone special? It’s okay to take time to process your feelings.",
+      "• You might receive an invitation today, but don’t feel pressured to attend if you’re not up for it.",
+      "• Spending time with others could help lift your spirits, so consider joining friends to distract yourself.",
+      "• Remember to balance your adventurous spirit with practical plans for the future; it’s all about enjoying the present!"
+    ],
+    "love": [
+      "• A conversation with someone special could deepen your connection and uncover shared interests.",
+      "• Address any important issues upfront to ensure a smooth relationship moving forward.",
+      "• Keep an open heart and be ready to embrace love; opportunities are on the horizon.",
+      "• Stay optimistic and adventurous, but remember to balance exploration with practical planning for the future."
+    ],
+    "health": [
+      "• Remember to enjoy the journey and not just focus on your ambitions; take time to appreciate life's simple pleasures.",
+      "• Create a \"Creature Comfort Quiz\" to check in on your well-being and ensure you have things that make you happy.",
+      "• Consider your needs—do you have enough essentials like bubble bath or flattering clothes? It can boost your mood!",
+      "• Stay present and make practical plans for the future while embracing your adventurous spirit."
+    ],
+    "career": [
+      "• Take charge today and don’t wait for others to give you permission; your initiative can lead to success.",
+      "• Seize the opportunity to advance in your career and show your leadership skills.",
+      "• Embrace your adventurous spirit and optimism, but remember to plan practically for your future.",
+      "• Consider seeking guidance to explore your talents and ambitions for a more fulfilling career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
