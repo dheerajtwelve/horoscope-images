@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-04T09:12:20.819193",
+  "date_folder": "carousel_2025_12_04_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Reflect on your past through dreams and meditation; it may help you release emotions that are holding you back.",
+      "• Forgiveness, both given and received, can become an important theme today—embrace it for personal growth.",
+      "• Your romantic feelings are strong now, so enjoy the passion and connection with your partner.",
+      "• Use your inspired emotions to enhance your home decor and create a space that reflects your artistic side."
+    ],
+    "love": [
+      "• Your partner may seem distant right now, but don’t panic; give them some space to think things through.",
+      "• Use this time to focus on yourself and reflect on your own feelings and future.",
+      "• Trust that with patience, your partner will return with renewed love and affection.",
+      "• Embrace your adventurous spirit while also making practical plans for your relationship’s future."
+    ],
+    "health": [
+      "• Balance your need for solitude with the importance of connecting with friends and family to avoid feelings of isolation.",
+      "• Seek feedback from loved ones about your well-being, as their perspective can provide valuable insights.",
+      "• Stay open to love and support; cutting yourself off from others can happen unconsciously, so be mindful of your connections.",
+      "• Embrace your adventurous spirit while also making practical plans for your health and future."
+    ],
+    "career": [
+      "• Your diplomatic skills will be in high demand today; stay calm and help resolve conflicts around you.",
+      "• Trust in your ability to create peace and manage difficult situations effectively.",
+      "• Consider seeking guidance from a Keen Advisor to enhance your workplace navigation skills.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
