@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-05T09:11:09.605637",
+  "date_folder": "carousel_2025_12_05_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your long-term dream may finally start to come true, so keep pushing forward with enthusiasm.",
+      "• Use your current energy to take meaningful steps toward making your dream a reality.",
+      "• Enjoy time with friends tonight and celebrate your progress together.",
+      "• Remember to balance your adventurous spirit with practical planning for the future."
+    ],
+    "love": [
+      "• Embrace change in your relationship; it’s essential for keeping the love fresh and vibrant.",
+      "• Take the opportunity for open conversations that can deepen trust and understanding between you and your partner.",
+      "• Remember that real love blossoms when compatibility meets connection; cherish and nurture this bond.",
+      "• Stay optimistic and adventurous, but also focus on living in the moment and planning for a bright future together."
+    ],
+    "health": [
+      "• You may experience sudden bursts of energy or unexpected changes in your mood, so be prepared for fluctuations.",
+      "• Keep an eye on your skin, as it may react unexpectedly; staying hydrated can help manage these issues.",
+      "• Consider investing in a water service to ensure you drink plenty of water throughout the day.",
+      "• Embrace your adventurous spirit, but remember to focus on the present and make practical plans for your health."
+    ],
+    "career": [
+      "• Keep an eye out for unexpected opportunities; a casual comment could lead to something great.",
+      "• Write down any ideas or contacts that inspire you to ensure you don’t forget them.",
+      "• Consider seeking guidance from a professional to help you navigate your career path effectively.",
+      "• Embrace your natural optimism and adventurous spirit, but remember to make practical plans for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
