@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-06T09:01:45.500780",
+  "date_folder": "carousel_2025_12_06_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be open to changes in your perspective today; it could lead to positive emotional growth.",
+      "• Trust your intuition to help you navigate any confusion or mental overwhelm you may feel.",
+      "• Stay grounded in the present while making practical plans for your future adventures.",
+      "• Embrace your natural curiosity and philosophical nature to explore new ideas and experiences."
+    ],
+    "love": [
+      "• If you're struggling to attract someone, don't worry—it's just a temporary phase. Take a break from your efforts for a day or two.",
+      "• Focus on recognizing what you truly have to offer in a relationship; understanding your motives can boost your confidence.",
+      "• Your search for real love is becoming easier, so embrace the journey and stay positive about your prospects.",
+      "• Remember to balance your adventurous spirit with practical planning for the future to create lasting connections."
+    ],
+    "health": [
+      "• Consider using a Stairmaster in your workouts to mimic climbing and enhance your fitness routine.",
+      "• Visualize the physical and mental benefits of your exercises to boost your motivation and self-esteem.",
+      "• Remember that the time spent on your health is valuable for both your body and mind.",
+      "• Stay present in your fitness journey while planning for a healthy future; balance adventure with practical goals."
+    ],
+    "career": [
+      "• Organize your workspace today to boost your efficiency and productivity. A neat environment helps you focus better.",
+      "• Invest time in creating a clutter-free workspace for long-term benefits in your career.",
+      "• Embrace your adventurous spirit by taking calculated risks, but remember to make practical plans for the future.",
+      "• Consider a Financial Guidance Reading to help manifest abundance and clarify your career goals."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
