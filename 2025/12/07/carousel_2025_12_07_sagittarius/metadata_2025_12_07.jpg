@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-07T09:17:06.300576",
+  "date_folder": "carousel_2025_12_07_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is a great day to start projects you've been putting off; use your newfound energy to make progress.",
+      "• You'll feel more energetic, so whether working or playing, expect positive outcomes in whatever you do.",
+      "• Tackle tasks with confidence and focus your energy to be as productive as possible.",
+      "• Remember to balance your adventurous spirit with practical planning for the future; it's all about living in the moment!"
+    ],
+    "love": [
+      "• Be open to new experiences this evening; interesting social combinations may surprise you.",
+      "• Enjoy the company around you, but remember that some connections may be temporary.",
+      "• If you're seeking love, take action and explore options, like joining a dating platform.",
+      "• Embrace your adventurous spirit, but balance it with practical plans for the future."
+    ],
+    "health": [
+      "• Consider joining group activities like charity walks or athletic events to connect your desire to help others with your personal interests.",
+      "• Remember that your serious nature comes from a place of dedication; it's okay to focus on understanding yourself and others.",
+      "• Embrace your optimistic and adventurous spirit, but also find a balance by making practical plans for your health.",
+      "• Take time to explore your thoughts and feelings, as this will help you find peace and clarity in your life."
+    ],
+    "career": [
+      "• Use your quick thinking and communication skills today to seize opportunities that arise unexpectedly.",
+      "• Trust your instincts to make decisions swiftly instead of overthinking.",
+      "• Consider seeking professional advice to help redefine your career path and financial goals.",
+      "• Stay optimistic and adventurous, but remember to create practical plans for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
