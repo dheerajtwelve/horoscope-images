@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-08T09:14:38.781677",
+  "date_folder": "carousel_2025_12_08_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Control your emotions today to open up new opportunities in your life.",
+      "• Reach out and connect with others to enhance your chances of success and good fortune.",
+      "• Stay optimistic and adventurous, but also focus on practical planning for your future.",
+      "• Embrace your natural curiosity and explore the mysteries around you for personal growth."
+    ],
+    "love": [
+      "• Use your charm and smile to connect with your partner; it can open doors to what you desire.",
+      "• Your words have power today; express yourself clearly to strengthen your relationship.",
+      "• Embrace your adventurous spirit while being mindful of the present and future plans in love.",
+      "• If you're seeking love, take the leap and explore new connections; opportunities are waiting for you!"
+    ],
+    "health": [
+      "• Embrace your dual nature by engaging in activities that help you connect with your emotions and needs.",
+      "• Create a relaxing atmosphere in your bathtub with special soaps, nice towels, and enjoyable reading materials.",
+      "• Consider incorporating water therapies like swimming, steam baths, or saunas into your routine for better well-being.",
+      "• Stay optimistic while being mindful of living in the present and making practical plans for your health."
+    ],
+    "career": [
+      "• Your positive mood today will boost your productivity at work, making it a great time to tackle tasks.",
+      "• Don’t hesitate to ask for help from colleagues; they will be supportive and willing to lend a hand.",
+      "• Consider investing in a Financial Guidance Reading to enhance your financial outlook and manifest abundance.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for a successful future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
