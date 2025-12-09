@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-09T09:10:37.513990",
+  "date_folder": "carousel_2025_12_09_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may feel a bit unmotivated today due to a restless night, but don't let that stop you from seizing opportunities that come your way.",
+      "• Embrace any new ideas you generate; they could lead to exciting developments.",
+      "• Keep your energy steady by eating well and staying focused on your goals.",
+      "• Remember to balance your adventurous spirit with practical planning for the future."
+    ],
+    "love": [
+      "• Embrace your romantic side and aim to impress someone special in your life.",
+      "• Consider inviting them to your home to create a warm and inviting atmosphere.",
+      "• Use this special day to deepen your connection and enjoy the happiness it brings.",
+      "• Stay optimistic and adventurous, but remember to also plan for the future together."
+    ],
+    "health": [
+      "• Embrace social interactions to combat loneliness; make an effort to connect with others in your life.",
+      "• Consider getting a pet if you haven't already; they can bring joy and companionship to your daily routine.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and plan for the future.",
+      "• Use your philosophical nature to explore new ideas, while also prioritizing your health and well-being."
+    ],
+    "career": [
+      "• You might feel unsure about your career today, but remember this feeling is temporary and will pass.",
+      "• Stay resilient and adaptable; success often comes from embracing challenges.",
+      "• Keep a positive attitude and focus on practical plans for the future to regain your confidence.",
+      "• Use your natural curiosity and adventurous spirit to explore new opportunities in your work life."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
