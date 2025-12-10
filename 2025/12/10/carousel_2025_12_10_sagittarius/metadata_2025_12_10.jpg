@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-10T09:15:27.494251",
+  "date_folder": "carousel_2025_12_10_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today brings a boost to your spirits, helping you feel more positive and confident in your journey.",
+      "• Your charm and attractiveness are heightened, making it a great day for social interactions.",
+      "• Expect rewarding experiences in both your career and love life; stay open to new opportunities.",
+      "• Remember to balance your adventurous spirit with practical planning for the future."
+    ],
+    "love": [
+      "• It's time to consider ending a relationship that is bringing you more pain than joy.",
+      "• You may have found someone new who better matches your needs and desires.",
+      "• Understand your reasons for wanting change to make the transition smoother.",
+      "• Embrace your adventurous spirit and stay open to new love opportunities!"
+    ],
+    "health": [
+      "• Incorporate more walking into your daily routine to enjoy its health benefits and improve your overall fitness.",
+      "• Challenge yourself to walk instead of using transportation whenever possible, especially for short distances.",
+      "• Practice deep breathing exercises while walking to enhance relaxation and body alignment.",
+      "• Stay present and make practical plans for your health to maintain your adventurous and optimistic spirit."
+    ],
+    "career": [
+      "• Put in a little effort now for significant rewards in your career; your hard work will pay off.",
+      "• Trust in your abilities to achieve what matters most to you professionally.",
+      "• Take advantage of the positive circumstances around you to advance your career.",
+      "• Consider seeking advice from a Keen Advisor to enhance your workplace navigation skills."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
