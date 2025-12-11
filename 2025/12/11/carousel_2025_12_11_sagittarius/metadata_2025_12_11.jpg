@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-11T09:16:48.299473",
+  "date_folder": "carousel_2025_12_11_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today may bring challenges in communication, so be patient and try to express yourself clearly.",
+      "• It's time to recognize your talents; don't wait for others to appreciate you—take the initiative.",
+      "• Consider facing any obstacles head-on; this could lead to positive changes in your situation.",
+      "• Embrace your adventurous spirit but remember to balance your optimism with practical planning for the future."
+    ],
+    "love": [
+      "• Consider whether you truly want to end your romantic relationship or just need to vent your feelings.",
+      "• If you're feeling frustrated, find healthier ways to express your emotions without risking your connection.",
+      "• Take your time before making any big decisions; think carefully about the potential consequences.",
+      "• Embrace your adventurous spirit, but also remember to focus on the present and plan for a happy future."
+    ],
+    "health": [
+      "• Enjoy helping others as it reflects your caring nature, but remember to also look after your own needs.",
+      "• Practice expressing your feelings verbally to strengthen your connections with others.",
+      "• Join a virtual book club to share your emotions and engage socially in a fun setting.",
+      "• Stay grounded in the present while making practical plans for your adventurous future."
+    ],
+    "career": [
+      "• Take advantage of the breathing space you have today to evaluate your career situation calmly.",
+      "• Use this time to boost your overall efficiency and avoid getting caught up in workplace drama.",
+      "• Consider seeking financial guidance to enhance your potential and make informed decisions.",
+      "• Stay optimistic while also focusing on practical plans for the present and future in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
