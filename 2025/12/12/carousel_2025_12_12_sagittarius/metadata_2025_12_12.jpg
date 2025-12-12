@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-12T09:16:55.444638",
+  "date_folder": "carousel_2025_12_12_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Reflect on past commitments and learn from any mistakes to move forward with confidence.",
+      "• Embrace your adventurous spirit while being mindful of the present moment.",
+      "• Focus on making practical plans for your future instead of holding back due to past fears.",
+      "• Use your natural curiosity to explore new opportunities and grow as a person."
+    ],
+    "love": [
+      "• Today's energy encourages meaningful expressions of love; consider a special ceremony or gesture to solidify your bond.",
+      "• If your partner wants something serious, keep it light and fun if that feels right for you both.",
+      "• Remember, finding real love is easier now; don't hesitate to explore new connections.",
+      "• Embrace your adventurous spirit, but also focus on being present and planning for a fulfilling future together."
+    ],
+    "health": [
+      "• Reflect on your personal habits and identify areas you'd like to change for better health.",
+      "• Don't hesitate to improve your manners and physical appearance; it can boost your confidence.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your well-being.",
+      "• Consider seeking guidance, like a psychic reading, to help reignite your passion for life and relationships."
+    ],
+    "career": [
+      "• Your career is experiencing positive growth, so celebrate the progress you're making toward your larger goals.",
+      "• Despite daily challenges, stepping back will reveal significant advancements in your professional journey.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your future.",
+      "• Consider a Financial Guidance reading to gain valuable insights and ensure you're on the right career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
