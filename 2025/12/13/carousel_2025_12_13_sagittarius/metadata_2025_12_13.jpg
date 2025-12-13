@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-13T09:08:12.254262",
+  "date_folder": "carousel_2025_12_13_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Communication with family and loved ones may be challenging today; misunderstandings could arise.",
+      "• Stay patient and don’t let frustration take over; the planetary energy is causing temporary interference.",
+      "• Tomorrow, things will improve, and you will find common ground again.",
+      "• Embrace your adventurous spirit, but remember to focus on the present and make practical plans for the future."
+    ],
+    "love": [
+      "• Today may be a bit challenging for connecting deeply with your partner, but that's okay; it's a chance to explore new aspects of each other.",
+      "• Use this time to strengthen your bond without the need for constant physical closeness.",
+      "• Embrace your adventurous spirit and consider planning future activities together that can deepen your connection.",
+      "• Remember to stay optimistic and focus on the present, while also making practical plans for your love life."
+    ],
+    "health": [
+      "• Incorporate mustard seed into your diet as a natural remedy to help ease feelings of rigidity and tension in your body.",
+      "• Consider joining a stretch class twice a week to improve your flexibility and overall well-being.",
+      "• Loosening up physically can lead to new opportunities and a more positive outlook on life.",
+      "• Stay grounded in the present while planning for your future to maintain your adventurous and optimistic spirit."
+    ],
+    "career": [
+      "• Expect some friction at work today; don't just hold back your feelings. Speak up about any issues you face.",
+      "• Address conflicts directly to maintain a healthy work environment and avoid bottled-up emotions.",
+      "• Embrace your adventurous spirit and optimism, but remember to focus on practical plans for your future.",
+      "• Consider a Financial Guidance Reading to help you manifest abundance and tap into your natural talents."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
