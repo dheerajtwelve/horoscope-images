@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-14T09:19:19.716266",
+  "date_folder": "carousel_2025_12_14_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• If you're feeling confused about your finances, take a deep breath and gather all your paperwork to understand the situation better.",
+      "• Focus on the facts and review your figures to calm any panic you may be experiencing.",
+      "• Remember, you have the ability to handle your financial challenges with clarity and confidence.",
+      "• Embrace your adventurous spirit, but also make sure to plan practically for a brighter future."
+    ],
+    "love": [
+      "• Enjoy warmth and laughter in your relationships; it’s a great time to connect with your partner or potential love interest.",
+      "• Use this opportunity to have fun together and let go of any tension; laughter can help heal your worries.",
+      "• Embrace your adventurous spirit and optimism while being mindful of the present and planning for the future.",
+      "• Stay open to exploring new experiences in love; your search for true connection is easier than ever right now."
+    ],
+    "health": [
+      "• Feelings of under-appreciation can be tough; reach out to friends and family to share your thoughts and feelings.",
+      "• Getting out more, even for just an hour, will help boost your mood and connect you with others.",
+      "• As you socialize, remember to talk about your interests and passions to reignite your connections.",
+      "• Embrace your adventurous spirit and stay optimistic while making practical plans for your health and well-being."
+    ],
+    "career": [
+      "• You have a chance to make significant progress at work by connecting different ideas and people.",
+      "• Use your skills to help others see their potential when collaborating together.",
+      "• Consider a Financial Guidance Reading to help attract prosperity into your life.",
+      "• Stay optimistic and adventurous, but remember to make practical plans for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
