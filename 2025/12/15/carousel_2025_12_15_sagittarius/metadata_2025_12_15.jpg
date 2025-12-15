@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-15T09:24:25.251632",
+  "date_folder": "carousel_2025_12_15_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect to receive important information today that you've been waiting for; stay open to new insights.",
+      "• Your skills in managing money may be needed to support a friend or family member, so be ready to help.",
+      "• Share your knowledge with others, and you'll likely receive gratitude in return for your assistance.",
+      "• If you're feeling off balance, take time to reconnect with your goals and make practical plans for the future."
+    ],
+    "love": [
+      "• Today is perfect for meeting new people and starting conversations that could spark a promising relationship.",
+      "• Don’t hesitate to ask for help; it may lead to deeper feelings between you and someone special.",
+      "• Remember to stay optimistic and adventurous, but also focus on creating practical plans for your future together.",
+      "• Embrace your natural curiosity and explore the connection you have; it could lead to something meaningful."
+    ],
+    "health": [
+      "• Set clear health goals to stay focused, but avoid putting too much pressure on yourself to be perfect.",
+      "• Counter stress with regular exercise and pampering activities like massages or steam baths.",
+      "• Share your self-care journey with friends to lighten the load and enhance your well-being.",
+      "• Embrace your adventurous spirit, but remember to balance risk-taking with practical planning for a healthy future."
+    ],
+    "career": [
+      "• Don't be discouraged by criticism; changing your mind shows growth and adaptability.",
+      "• Maintain your self-worth and confidence despite others’ opinions.",
+      "• Consider consulting a professional for guidance in navigating workplace challenges.",
+      "• Embrace your adventurous spirit while also making practical plans for your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
