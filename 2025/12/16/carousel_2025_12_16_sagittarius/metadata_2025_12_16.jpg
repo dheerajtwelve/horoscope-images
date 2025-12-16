@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-16T09:17:28.364642",
+  "date_folder": "carousel_2025_12_16_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Don't take things too seriously today; people may say hurtful things without meaning to.",
+      "• Avoid overanalyzing situations; not everything said has a deeper meaning.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future.",
+      "• Seek answers to your burning questions from trusted sources to gain clarity and peace of mind."
+    ],
+    "love": [
+      "• You will attract a lot of attention and interest from others, so be prepared for multiple romantic offers.",
+      "• Take your time and don't rush into a relationship; choose someone who truly stands out to you.",
+      "• Embrace the potential for real love by seeking connections that offer both compatibility and chemistry.",
+      "• While enjoying the excitement of romance, remember to stay grounded and make thoughtful plans for the future."
+    ],
+    "health": [
+      "• Celebrate life and take time for fun to break out of your daily routine.",
+      "• Consider throwing a small party to connect with your friends and show them you care.",
+      "• Plan your celebrations ahead of time to reduce stress and enjoy the moment.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and plan for the future."
+    ],
+    "career": [
+      "• A positive connection you've been waiting for will finally arrive today, bringing good news for your project or deal.",
+      "• Embrace optimism, as success is on the horizon—celebrate your progress!",
+      "• Consider seeking advice from a Keen Advisor to help you navigate your workplace challenges effectively.",
+      "• Balance your adventurous spirit with practical planning to ensure a successful future in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
