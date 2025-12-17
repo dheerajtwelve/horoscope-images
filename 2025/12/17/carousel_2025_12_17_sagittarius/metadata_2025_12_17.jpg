@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-17T09:13:46.045288",
+  "date_folder": "carousel_2025_12_17_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Keep your emotions in check today to avoid unnecessary conflict and hurt feelings.",
+      "• Practice modesty and humility to earn the respect of others, including those in higher positions.",
+      "• Embrace your adventurous spirit, but remember to focus on the present and plan for the future.",
+      "• Use your natural curiosity to explore new ideas and philosophies that can enrich your life."
+    ],
+    "love": [
+      "• You may face some differences with your loved one, stemming from a recent misunderstanding.",
+      "• Don't let feelings of isolation grow; take the initiative to communicate and bridge the gap.",
+      "• Open and honest conversation is essential to heal your relationship and move forward together.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your love life."
+    ],
+    "health": [
+      "• Reflect on your emotional needs today; consider if you are happy being alone or if you seek more attention from others.",
+      "• Ensure your physical health is in good shape, as it can help clarify your emotional requirements.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your well-being.",
+      "• Trust in your natural ability to explore life’s mysteries; seek guidance if you feel confused about your emotional needs."
+    ],
+    "career": [
+      "• Be cautious in the office today, as others may be feeling on edge. Approach situations with care to maintain harmony.",
+      "• If someone irritates you, hold back on harsh words; responding calmly can prevent misunderstandings.",
+      "• Consider getting a Financial Guidance Reading to help you redefine your career and set clear goals.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
