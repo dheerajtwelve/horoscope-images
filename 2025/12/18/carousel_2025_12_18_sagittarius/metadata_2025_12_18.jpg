@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-18T09:14:36.869110",
+  "date_folder": "carousel_2025_12_18_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Get out and socialize today; it's a great time to connect with others rather than staying at home.",
+      "• Share your wisdom while being open to learning from those around you.",
+      "• Keep conversations light and avoid serious topics; enjoy the moment and the company.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for the future."
+    ],
+    "love": [
+      "• You might find a special relationship at work with someone who is unique and unconventional.",
+      "• Break away from your daily routines to explore new activities that bring you joy.",
+      "• Embrace your adventurous spirit and be open to new experiences in love.",
+      "• Stay optimistic but remember to make practical plans for your future."
+    ],
+    "health": [
+      "• Take some time to relax and enjoy life, but remember to keep up with your exercise routine.",
+      "• Maintain a healthy sleep schedule to support your overall well-being.",
+      "• Enjoy activities like long runs that bring you peace and help you connect with your spiritual side.",
+      "• Embrace your adventurous nature by exploring new ways to stay active and healthy."
+    ],
+    "career": [
+      "• People will recognize and appreciate your artistic ideas today, so embrace your creativity and share your imagination.",
+      "• Be proud of your unique talents; they're a source of great strength in your career.",
+      "• Focus on finding your personal path and consider exploring numerology for guidance on new opportunities.",
+      "• Stay optimistic and adventurous, but remember to make practical plans for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
