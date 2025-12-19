@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-19T09:16:26.399383",
+  "date_folder": "carousel_2025_12_19_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Focus on home tasks today; cleaning and organizing will bring a sense of accomplishment and stability.",
+      "• Make lists to stay organized and efficient; sticking to them will help you make the most of your day.",
+      "• Expect a boost in your work progress when you keep your emotions grounded; clarity leads to success.",
+      "• Embrace your adventurous spirit but remember to balance it with practical planning for the future."
+    ],
+    "love": [
+      "• Don't be discouraged if things feel rocky in your relationship right now; this phase will pass soon.",
+      "• Stay strong and patient; clarity and better times are on the horizon.",
+      "• Focus on the positive aspects of your adventurous spirit and optimism to navigate through challenges.",
+      "• Remember to live in the moment while also making practical plans for your love life in the future."
+    ],
+    "health": [
+      "• Stay active by exercising regularly and maintaining a light, balanced diet for optimal health.",
+      "• Focus on eating fish, salads, and legumes while reducing your intake of bread and carbohydrates.",
+      "• Drink plenty of water and ensure you get enough rest to support your well-being.",
+      "• Embrace discipline in your physical health to help your mental and emotional life thrive."
+    ],
+    "career": [
+      "• Stand your ground today; assert yourself and make your own decisions to avoid being overshadowed by others.",
+      "• Embrace your adventurous spirit and confidence to navigate your career path effectively.",
+      "• Balance your optimism with practical planning to ensure future success.",
+      "• Explore your unique talents and motivations to discover the best direction for your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
