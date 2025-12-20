@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-20T09:08:03.577501",
+  "date_folder": "carousel_2025_12_20_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Take time for deep meditation today to connect with your inner self and gain valuable insights.",
+      "• Embrace transformation by letting go of control and allowing things to flow naturally.",
+      "• Focus on simplicity and ease in your plans, as understanding will come to you organically.",
+      "• Remember to stay present and balance your adventurous spirit with practical plans for the future."
+    ],
+    "love": [
+      "• A powerful new relationship may soon transform your self-perception and expression in unexpected ways.",
+      "• Don't underestimate this connection; it could be much more significant than it appears at first.",
+      "• Embrace fresh starts and new cycles in your love life while staying grounded in practicality.",
+      "• Remember to enjoy the present while exploring the exciting possibilities that love can bring."
+    ],
+    "health": [
+      "• Embrace the mystical energy around you today to connect with your spiritual side and enhance your emotional awareness.",
+      "• Engage in challenging physical exercises, like a long run, to positively boost your emotions and overall well-being.",
+      "• This is a great time for romance; focus on creating the love story you desire and nurturing your relationships.",
+      "• Remember to balance your adventurous spirit with practical planning to ensure a healthy and fulfilling future."
+    ],
+    "career": [
+      "• Embrace the fast pace around you; your ability to keep up will lead to exciting opportunities.",
+      "• Tap into the day’s energy for brainstorming sessions, as new ideas will flourish and bring success.",
+      "• Seek clarity for your future by exploring monthly themes and lessons through tools like Tarot readings.",
+      "• Balance your adventurous spirit with practical planning to ensure your ambitions align with achievable goals."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
