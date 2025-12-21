@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-21T09:20:03.105647",
+  "date_folder": "carousel_2025_12_21_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect a serious day where you may feel a bit lonely as others focus on their own needs.",
+      "• Embrace the solitude as it will help you solve problems and get things done.",
+      "• You will end the day feeling proud of your accomplishments and the progress you've made.",
+      "• Remember to balance your adventurous spirit with practical plans for the future."
+    ],
+    "love": [
+      "• Consider deepening your bond with someone special; you both appreciate each other’s strengths and weaknesses.",
+      "• Embrace the idea of a more committed relationship, as it could enhance your happiness together.",
+      "• Stay optimistic and adventurous, but remember to be practical about your future plans as a couple.",
+      "• Explore the mysteries of love with an open heart, and enjoy this beautiful journey together."
+    ],
+    "health": [
+      "• Explore your spiritual side through meditation or any practice that helps you grow, even if it doesn’t look traditional.",
+      "• Find what resonates with you personally and make it a consistent part of your routine.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and plan for your future.",
+      "• Embrace your natural curiosity and continue exploring the mysteries around you for a fulfilling life."
+    ],
+    "career": [
+      "• Initiate a new routine at work today to boost your productivity and creativity.",
+      "• Don’t hesitate to take on more responsibilities; you have the skills to manage them well.",
+      "• Trust in your abilities and stay confident; self-doubt will only hold you back.",
+      "• Embrace your adventurous spirit while also planning practically for the future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
