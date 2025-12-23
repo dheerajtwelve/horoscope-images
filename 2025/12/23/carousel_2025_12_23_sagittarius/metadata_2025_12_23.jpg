@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-23T09:18:57.175680",
+  "date_folder": "carousel_2025_12_23_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Cherish your friendships; they may be more like family than you think, providing lasting support.",
+      "• Be open to receiving help from others; remember that you've often championed the value of sincere connections.",
+      "• Today is a great day to recognize your unique talents and the importance of nurturing your relationships.",
+      "• Embrace your adventurous spirit, but also focus on creating practical plans for your future while enjoying the present."
+    ],
+    "love": [
+      "• Your warm and genuine nature will shine in your relationships, making it easier to connect with others.",
+      "• Today is a great day to build your confidence and overcome any feelings of low self-esteem.",
+      "• If there's someone special you want to meet, take a leap of faith and go for it!",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for the future."
+    ],
+    "health": [
+      "• Focus on maintaining your healthy habits today, even if distractions arise.",
+      "• Remember, perfection is not the goal; it's okay to be imperfect and human.",
+      "• If obsessive thoughts persist, consider going to bed early and trying again tomorrow.",
+      "• Embrace your adventurous spirit while staying grounded and planning for the future."
+    ],
+    "career": [
+      "• Focus on the basics today and avoid rushing ahead to impress others; take your time to build a solid foundation.",
+      "• Starting from square one can lead to long-term success, so embrace each step of your journey.",
+      "• Use your 2026 Tarot Reading to uncover monthly themes and opportunities for growth and empowerment.",
+      "• Stay optimistic but remember to create practical plans for your future; balance adventure with responsibility."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
