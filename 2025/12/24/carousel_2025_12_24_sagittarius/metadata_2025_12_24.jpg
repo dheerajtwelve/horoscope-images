@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-24T09:17:03.342592",
+  "date_folder": "carousel_2025_12_24_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• It might be challenging to manage your emotions today, but recognize that this can work to your advantage.",
+      "• Take a moment to breathe and shift your perspective; a positive attitude is essential for progress.",
+      "• Engage in conversations with others to find clarity and answers to your questions.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical plans for the future."
+    ],
+    "love": [
+      "• Embrace the adventurous spirit in love, but stay grounded and practical when making decisions.",
+      "• Be cautious of extravagant suggestions from love interests; think carefully before acting on them.",
+      "• Focus on gaining clarity about your future and consider using tools like a Tarot reading for insights.",
+      "• Remember to balance your optimistic nature with the need to plan for the present and future."
+    ],
+    "health": [
+      "• Recognize when you're feeling overwhelmed and give yourself some much-needed self-care.",
+      "• Embrace creativity to bring back joy and energy into your daily life.",
+      "• Treat yourself to a massage or other relaxing activity as a special reward.",
+      "• Stay optimistic and adventurous, but remember to make practical plans for your health and future."
+    ],
+    "career": [
+      "• Today may bring frustration due to a lack of cooperation from your colleagues, so try to stay calm and patient.",
+      "• Remember, you usually help unite people, so focus on maintaining your positive energy despite challenges.",
+      "• Embrace fresh starts and bold initiatives; this is a great time to explore new opportunities and paths.",
+      "• Stay optimistic, but also make practical plans for your future to balance your adventurous spirit with realistic goals."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
