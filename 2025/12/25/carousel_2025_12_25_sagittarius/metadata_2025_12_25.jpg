@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-25T09:19:16.204081",
+  "date_folder": "carousel_2025_12_25_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You're currently changing directions in your career; be patient as this process takes time and may feel challenging.",
+      "• Face your feelings honestly and avoid the temptation to escape; confronting yourself will lead to growth.",
+      "• Remember, you're closer to your goals than you think; trust in your journey.",
+      "• Embrace your adventurous spirit, but also focus on making practical plans for a fulfilling future."
+    ],
+    "love": [
+      "• Your love interest may need some space today; it's okay to give them time alone.",
+      "• Allowing them this freedom will help them return more affectionate than before.",
+      "• Stay positive and understanding; their behavior is influenced by external factors.",
+      "• Remember to balance adventure with practical plans for your relationship's future."
+    ],
+    "health": [
+      "• Add jasmine oil to your shopping list for its relaxing and healing properties. It can help reduce stress and promote better sleep.",
+      "• Consider adding a few drops of jasmine oil to your bath or unscented lotion for a soothing experience.",
+      "• Placing a drop or two of jasmine oil on your pillow can enhance your sleep quality and provide a restful night.",
+      "• Embrace the positive energy of the month by focusing on fresh starts and personal growth, while also making practical plans for your health."
+    ],
+    "career": [
+      "• Check your emails and messages today; important information may arrive that you don't want to miss.",
+      "• Make an effort to respond quickly to inquiries, as this could lead to valuable opportunities.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for your career.",
+      "• Explore your unique talents and motivations to unlock your full potential in your professional journey."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
