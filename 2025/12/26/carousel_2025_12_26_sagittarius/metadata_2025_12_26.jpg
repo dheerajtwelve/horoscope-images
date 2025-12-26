@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-26T09:17:42.463661",
+  "date_folder": "carousel_2025_12_26_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today may feel heavy, and you might face some disappointments—stay resilient and focus on your strengths.",
+      "• Avoid acting on negative feelings towards important people; take a moment to reflect before responding.",
+      "• Embrace your adventurous spirit and look for opportunities to create the love story you desire.",
+      "• Remember to balance your optimism with practical plans for the future while enjoying the present."
+    ],
+    "love": [
+      "• Reflect on your current relationship or any new ones you are considering, focusing on your true motives and intentions.",
+      "• Take this time to improve yourself and your actions, ensuring you are ready for meaningful connections.",
+      "• Embrace your adventurous and optimistic nature while also being mindful of living in the moment.",
+      "• Set practical plans for the future as you explore the depths of love and romance."
+    ],
+    "health": [
+      "• Embrace your ability to stay positive, but remember it's okay to acknowledge your disappointments too.",
+      "• Allow yourself to feel your emotions rather than always trying to \"make the best of it.\"",
+      "• Save your energy and optimism for situations that truly matter to you.",
+      "• Stay grounded in the present while making thoughtful plans for your future health and well-being."
+    ],
+    "career": [
+      "• Take a break today to clear your mind, as indecision may cloud your judgment.",
+      "• Avoid seeking too much advice from others, as it may only add to your confusion.",
+      "• Focus on gaining clarity for your future plans and direction in your career.",
+      "• Embrace your natural optimism and adventurous spirit, but remember to make practical choices moving forward."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
