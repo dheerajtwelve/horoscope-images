@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-27T09:15:09.655116",
+  "date_folder": "carousel_2025_12_27_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• It's okay to not feel cheerful today; be honest with your emotions and don't force a smile.",
+      "• If you're feeling restless or negative, it's best to keep those feelings to yourself for now.",
+      "• Take a walk near water and treat yourself to a healthy meal to help improve your mood.",
+      "• Remember to stay present and make practical plans for the future as you embrace your adventurous spirit."
+    ],
+    "love": [
+      "• Attend small gatherings or virtual events today, as they may bring unexpected romantic opportunities.",
+      "• Someone may find you irresistibly attractive, so be open to connecting and revealing your true self.",
+      "• Communication is key; engage in meaningful conversations to build a strong connection.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for a positive future."
+    ],
+    "health": [
+      "• Focus on your dreams and goals today; your determination can help you achieve what you wish for.",
+      "• Pay special attention to your skeletal system and skin to maintain overall health.",
+      "• Drink plenty of fresh water throughout the day to help your body eliminate waste and relieve joint pressure.",
+      "• Embrace your optimistic nature but remember to stay grounded and make practical plans for your health and future."
+    ],
+    "career": [
+      "• Use your creativity and charm to make a strong impact in your career today; it’s a winning combination that can lead to success.",
+      "• Collaborate with others and share your resources to maximize your potential; teamwork can help you achieve your goals.",
+      "• Approach your tasks with confidence, knowing that you have the skills to succeed in whatever you undertake.",
+      "• Stay optimistic but remember to plan practically for the future; balancing risk with strategy will keep you moving forward."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
