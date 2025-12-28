@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-28T09:28:57.303640",
+  "date_folder": "carousel_2025_12_28_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is a great day to remodel or redecorate your home, as your energy and creativity are at their peak.",
+      "• Involve family members in your planning to make the process more fun and collaborative.",
+      "• Stay enthusiastic but be careful not to overwork yourself; balance is key.",
+      "• Embrace your adventurous spirit and continue to explore new ideas for personal growth and relationships."
+    ],
+    "love": [
+      "• Today is more about socializing than romance; enjoy connecting with friends who inspire you.",
+      "• Avoid rushing into deeper relationship commitments; focus on building strong friendships instead.",
+      "• Embrace your adventurous spirit but remember to stay grounded in the present and plan for the future.",
+      "• Use this time to explore new connections and ideas, as your natural curiosity will lead to fulfilling experiences."
+    ],
+    "health": [
+      "• Acknowledge your stress levels and praise yourself for recognizing when you're not feeling your best.",
+      "• Take a step back from the chaos to identify what may be missing in your life, like proper sleep or exercise.",
+      "• If you're currently unemployed, consider creating a daily routine to maintain structure and avoid feelings of disorientation.",
+      "• Remember, noticing what needs adjustment is a significant step towards improving your well-being and happiness."
+    ],
+    "career": [
+      "• Stay focused at work today to avoid criticism from your superiors and show your dedication.",
+      "• Remember, hard work brings personal satisfaction and boosts your self-esteem.",
+      "• Embrace your adventurous spirit, but also prioritize making practical plans for your career.",
+      "• Use your natural curiosity to explore new opportunities that align with your talents and ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
