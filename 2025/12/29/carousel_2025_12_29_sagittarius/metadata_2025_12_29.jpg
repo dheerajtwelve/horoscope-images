@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-29T09:32:23.025148",
+  "date_folder": "carousel_2025_12_29_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Enjoy light-hearted conversations today and embrace your playful side with friends.",
+      "• Let your imagination run wild; daydreaming can bring joy and creativity to your day.",
+      "• Avoid heavy realities; focus on keeping things fun and whimsical.",
+      "• Remember to balance your adventurous spirit with practical plans for the future."
+    ],
+    "love": [
+      "• Embrace the magical moments in your love life today, as romance and mystery are in the air.",
+      "• Savor the present and make the most of your experiences, since they can be fleeting.",
+      "• Keep a positive outlook and be adventurous, but remember to stay grounded in reality.",
+      "• Balance your love for exploration with practical plans for the future to ensure lasting happiness."
+    ],
+    "health": [
+      "• Take your time to think things through; it’s okay to feel uncertain about your desires.",
+      "• Don’t rush into decisions during this period of mild insecurity; trust your instincts.",
+      "• Engage in calming activities like yoga or meditation to nurture your mind and body.",
+      "• Embrace your adventurous spirit, but remember to stay present and plan for the future."
+    ],
+    "career": [
+      "• Focus on adapting to your current work environment today rather than starting new projects.",
+      "• Avoid getting frustrated; instead, embrace the situation and go with the flow.",
+      "• This is a good time to reflect on your personal goals and find your unique path forward.",
+      "• Remember to balance your adventurous spirit with practical planning for future success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
