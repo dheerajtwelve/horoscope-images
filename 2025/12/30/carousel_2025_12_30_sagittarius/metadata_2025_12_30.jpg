@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-30T09:20:53.545204",
+  "date_folder": "carousel_2025_12_30_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect some ups and downs today; be prepared for mixed news that may affect your mood.",
+      "• Stay centered and take good news as a boost of encouragement.",
+      "• For any bad news, think objectively and look for ways to turn it into a positive opportunity.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for a bright future."
+    ],
+    "love": [
+      "• Embrace your passion today, whether it's about your relationship or the world around you, as it can lead to meaningful connections.",
+      "• Be mindful of your approach; being considerate rather than forceful will help you achieve the best outcomes in your love life.",
+      "• Take time to reflect on your future; consider seeking guidance through a Tarot reading to gain insights and direction for the upcoming year.",
+      "• Remember to balance your adventurous spirit with practical planning, ensuring you enjoy the present while preparing for what lies ahead."
+    ],
+    "health": [
+      "• Reflect on happy memories today; they may inspire you to bring positive changes into your life.",
+      "• If you remember being in great shape, take action toward achieving that fitness level starting now.",
+      "• Explore new vegetable recipes this evening to boost your nutrition and enjoy healthier meals.",
+      "• Stay optimistic while making practical plans for your health and future; it’s a great time for personal growth."
+    ],
+    "career": [
+      "• Take calculated risks at work; they are likely to bring great rewards.",
+      "• Trust in your abilities; your confidence will inspire others to believe in you too.",
+      "• Embrace your adventurous spirit while also making practical plans for your future.",
+      "• Explore your unique talents and motivations to unlock your true career potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
