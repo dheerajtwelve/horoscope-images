@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-12-31T09:19:22.483282",
+  "date_folder": "carousel_2025_12_31_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is perfect for starting new projects related to writing, acting, or speaking—tap into your creative flow!",
+      "• Expect a surge of fresh ideas and enjoy the excitement they bring to your day.",
+      "• Connect with close friends through engaging conversations; you might find yourself chatting on the phone or visiting them.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your future."
+    ],
+    "love": [
+      "• Open up about your feelings; sharing can deepen connections and help others understand your mysterious side.",
+      "• Embrace your emotional world, but don’t shy away from explaining yourself when needed; it can enhance your love life.",
+      "• Take the opportunity to create the love story you desire by being proactive and exploring romantic possibilities.",
+      "• Stay optimistic and adventurous, but remember to balance your dreams with practical plans for lasting relationships."
+    ],
+    "health": [
+      "• Reconnect with your inner child by embracing health practices that remind you of joyful moments from your past.",
+      "• Allow lost parts of yourself to reemerge as you engage in activities like cooking nutritious meals or practicing yoga.",
+      "• Focus on acceptance rather than judgment as you strengthen your health practices; this will help you achieve wholeness.",
+      "• Stay optimistic and adventurous, but also make practical plans to ensure a balanced approach to your health and well-being."
+    ],
+    "career": [
+      "• Be more assertive in your work today to stay competitive and not get left behind.",
+      "• Share your ideas confidently; your input is valuable and deserves to be heard.",
+      "• Look ahead and seek clarity for your future; planning now can lead to success later.",
+      "• Embrace your adventurous spirit while balancing it with practical goals for your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
