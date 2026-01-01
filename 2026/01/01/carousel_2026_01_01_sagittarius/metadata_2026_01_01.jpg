@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-01T09:32:15.231256",
+  "date_folder": "carousel_2026_01_01_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be cautious with money today; don't rush into deals that seem too good to be true.",
+      "• If a friend or colleague presents a tempting offer, take time to think it over.",
+      "• Review the details later; you might discover flaws that aren't obvious at first.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for the future."
+    ],
+    "love": [
+      "• Don't worry if your first date doesn't spark immediate passion; think of it as an appetizer for what's to come.",
+      "• Improve your conversation skills to make the most of your time together and build a connection.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future in your love life.",
+      "• Consider a Love Tarot Reading for personalized insights on your romantic journey and opportunities ahead."
+    ],
+    "health": [
+      "• Focus on your health and prioritize exercise, diet, and rest to create your best self.",
+      "• Remember that your hard work may go unnoticed by others; what matters most is impressing yourself.",
+      "• Embrace your adventurous spirit, but also practice mindfulness to stay grounded in the present.",
+      "• Explore your unique life path through self-discovery and stay optimistic about your journey ahead."
+    ],
+    "career": [
+      "• Nurture your new ideas carefully, as they need time and attention to grow successfully.",
+      "• Be patient and allow your concepts to develop gradually; good things take time.",
+      "• Embrace your adventurous spirit but remember to balance it with practical planning for your future.",
+      "• Explore your unique talents and ambitions to uncover opportunities that align with your passions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
