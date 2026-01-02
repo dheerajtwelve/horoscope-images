@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-02T09:23:17.165025",
+  "date_folder": "carousel_2026_01_02_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Consider exploring new job opportunities to boost your income, but remember that a raise from your current job might be on the horizon.",
+      "• Stay positive; you could receive a pleasant surprise regarding your financial situation soon.",
+      "• If you're facing short-term money concerns, think about asking a family member for a low-interest loan to help you through.",
+      "• Embrace your adventurous spirit while also focusing on practical planning for a brighter financial future."
+    ],
+    "love": [
+      "• Tonight, you may feel hesitant about a date due to trust issues; remember, honesty is key for a good time together.",
+      "• Your date might also feel uncertain, so open communication can help build trust and connection.",
+      "• Embrace your adventurous spirit, but be sure to stay grounded in the present and plan for the future.",
+      "• Explore the mysteries of love together; this can deepen your bond and enhance your relationship."
+    ],
+    "health": [
+      "• Stay active regularly to reduce stress and boost your energy levels.",
+      "• Take your physical health seriously to avoid feeling overwhelmed.",
+      "• Talk to friends about fitness to discover new ways to enhance your well-being.",
+      "• Be open to trying new activities like working out or yoga together for added fun."
+    ],
+    "career": [
+      "• Focus on your own research and insights, as seeking support from others may not yield helpful advice.",
+      "• Explore books, magazines, and periodicals to find the answers you need about your career path.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for your future.",
+      "• Utilize your natural curiosity and philosophical mindset to uncover your unique talents and ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
