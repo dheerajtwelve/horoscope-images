@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-03T09:14:43.371717",
+  "date_folder": "carousel_2026_01_03_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• If family tensions arise, try to focus on cooking or doing chores instead of engaging in conflict.",
+      "• If you're not into cooking, immerse yourself in work to keep your mind occupied.",
+      "• Remember that these family issues are temporary and will resolve quickly.",
+      "• Embrace your adventurous spirit, but also take time to plan for your future wisely."
+    ],
+    "love": [
+      "• It's time to step out of your comfort zone and share your feelings openly to strengthen your relationships.",
+      "• Don’t let fear of rejection hold you back; taking risks in love can lead to great rewards.",
+      "• Focus on gaining clarity about your future and what you truly want in your love life.",
+      "• Embrace your adventurous spirit while also making practical plans to ensure a fulfilling romantic journey."
+    ],
+    "health": [
+      "• Take time to reflect on what you truly want and need for your well-being.",
+      "• Engage in disciplined exercises like swimming and running to boost both strength and self-esteem.",
+      "• Share your thoughts and feelings with others to help them understand you better.",
+      "• Stay grounded in the present while making practical plans for your future adventures."
+    ],
+    "career": [
+      "• You will receive the recognition you deserve soon, as your hard work is finally being noticed by others.",
+      "• Keep up the excellent work; it clearly reflects your value and talents in your career.",
+      "• Stay optimistic and adventurous in your approach, but remember to make practical plans for your future.",
+      "• Consider exploring your unique skills further to unlock even more opportunities in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
