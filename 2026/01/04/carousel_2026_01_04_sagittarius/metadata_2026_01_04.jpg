@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-04T09:32:56.608696",
+  "date_folder": "carousel_2026_01_04_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Someone close to you may not be well today, and it's important to be there for them. Your support can make a difference.",
+      "• Be aware that your strong empathy may cause you to feel their discomfort, so take care of your own well-being.",
+      "• Protect your energy by visualizing a white light around you to avoid absorbing negative feelings.",
+      "• Focus on living in the present while also making practical plans for the future to harness your adventurous spirit."
+    ],
+    "love": [
+      "• Relationships may feel a bit lacking today, but don't let that dampen your spirits—enjoy any social gatherings you attend.",
+      "• Deep emotional connections might be hard to find right now; focus on light-hearted moments and playful flirting instead.",
+      "• Use this time to reflect and gain clarity about your future, considering what you truly want in love.",
+      "• Embrace your adventurous and optimistic nature, but remember to stay grounded and make practical plans for your romantic life."
+    ],
+    "health": [
+      "• Consider adding tea tree oil to your bathroom cabinet for its soothing benefits on sensitive skin.",
+      "• Look for products like bubble bath, moisturizer, deodorant, and shampoo that include this natural healer.",
+      "• Remember that tea tree oil is also great for caring for your nails and hair.",
+      "• Embrace your adventurous spirit while staying grounded with practical health and wellness plans."
+    ],
+    "career": [
+      "• Working independently today will lead to your success, so embrace the opportunity to shine on your own.",
+      "• Trust your instincts and have confidence in your abilities, as you are likely to excel without a partner.",
+      "• Stay optimistic and adventurous, but remember to make practical plans for your career's future.",
+      "• Explore your talents and motivations, as understanding them will help you unlock new opportunities."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
