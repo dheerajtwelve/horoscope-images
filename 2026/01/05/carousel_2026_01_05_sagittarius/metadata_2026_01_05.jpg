@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-05T09:38:04.994503",
+  "date_folder": "carousel_2026_01_05_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You're in a joyful mood today, and your happiness will attract others to you, making it a great day for socializing.",
+      "• Be open to making new friends and, if single, you might meet an interesting romantic prospect who is polite and intelligent.",
+      "• Remember to be cordial and friendly; your positive energy will enhance your interactions.",
+      "• Embrace the day with an adventurous spirit, but also take time to plan for your future and enjoy the present moment."
+    ],
+    "love": [
+      "• Seek deeper emotional connections today, as intellectual compatibility alone may not satisfy your romantic needs.",
+      "• Be open to exploring new depths in your relationships, but recognize when emotional harmony is lacking.",
+      "• Consider adjusting your priorities in love to find the passion you desire, or be ready to move on if it’s not fulfilling.",
+      "• Embrace your adventurous spirit while staying grounded in the present and planning for a brighter romantic future."
+    ],
+    "health": [
+      "• Focus on self-care today and avoid being too hard on yourself; embrace a gentle approach to your body.",
+      "• Speak to yourself with kindness and positivity, like a supportive friend, to boost your confidence.",
+      "• Replace negative thoughts with positive actions to enhance your overall well-being.",
+      "• Stay optimistic and adventurous, but remember to make practical plans for your health and future."
+    ],
+    "career": [
+      "• Be aware of emotional tensions at work; stay calm and navigate through the discomfort.",
+      "• Focus on listening actively to others; this will help you understand and manage the sensitive atmosphere.",
+      "• Seek clarity about your career goals and future direction; take time to reflect on your ambitions.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for your career growth."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
