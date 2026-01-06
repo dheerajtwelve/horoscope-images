@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-06T09:21:50.543159",
+  "date_folder": "carousel_2026_01_06_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today may bring some anxiety, but you can calm yourself through physical activity; even a short walk can help.",
+      "• Focus on maintaining a peaceful attitude, especially in the afternoon when you may receive requests from others.",
+      "• If you need a break, take some time for yourself—consider watching a movie to recharge.",
+      "• Remember to embrace your adventurous spirit while also making practical plans for the future."
+    ],
+    "love": [
+      "• Communicate your feelings with actions instead of words, as misunderstandings may arise in your conversations.",
+      "• Show your affection through thoughtful gestures and kindness to strengthen your bond.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your relationship.",
+      "• Stay optimistic and open to exploring new experiences together to deepen your connection."
+    ],
+    "health": [
+      "• Take time to slow down and clear your mind of clutter; this will help you make better decisions.",
+      "• Consider practicing active meditation, such as yoga or deep breathing exercises, at least three times a week.",
+      "• By simplifying your thoughts, you'll find that big decisions become easier and more manageable.",
+      "• Embrace your adventurous spirit while staying grounded in the present and planning for the future."
+    ],
+    "career": [
+      "• You may feel some tension in your professional relationships; try to stay positive and avoid letting negativity take over.",
+      "• Focus on gaining clarity about your future to navigate current challenges effectively.",
+      "• Embrace your adventurous spirit but remember to balance it with practical planning for your career goals.",
+      "• Use your natural curiosity to explore new opportunities that align with your talents and ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
