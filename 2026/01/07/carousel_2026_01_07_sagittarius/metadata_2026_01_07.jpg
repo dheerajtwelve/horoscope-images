@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-07T09:22:06.429501",
+  "date_folder": "carousel_2026_01_07_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may feel down today due to the absence of a loved one, but remember that it's okay to have these feelings.",
+      "• Instead of spending the evening in front of the TV, treat yourself to a trip to the bookstore for some new reading material.",
+      "• Use this time alone to learn and grow; it can be a great opportunity for self-discovery.",
+      "• Embrace your adventurous spirit and stay optimistic, but also focus on making practical plans for your future."
+    ],
+    "love": [
+      "• Open up to deeper conversations with someone special to strengthen your connection.",
+      "• Take time to listen carefully to their responses; it will help you address any doubts you have.",
+      "• Embrace your adventurous spirit but remember to balance excitement with practical plans for the future.",
+      "• Trust in the journey of love; your optimistic nature will guide you towards meaningful relationships."
+    ],
+    "health": [
+      "• Stock up on relaxation tools like lavender essential oil, which is great for soothing the skin and calming the mind.",
+      "• Add a few drops of lavender oil to your hot bath at night for a peaceful and relaxing experience.",
+      "• Try placing a drop of lavender oil on your pillow to enjoy better sleep and wake up refreshed.",
+      "• Embrace your adventurous spirit while also making practical plans for your health and well-being."
+    ],
+    "career": [
+      "• Embrace change and regroup when things feel chaotic; it's a sign to try a new approach in your career.",
+      "• Explore fresh starts and bold initiatives to find a path that truly resonates with you.",
+      "• Use your natural optimism and adventurous spirit to take calculated risks for future success.",
+      "• Stay grounded in the present while planning for your future; balance your philosophical explorations with practical steps."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
