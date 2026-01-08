@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-08T09:21:38.221475",
+  "date_folder": "carousel_2026_01_08_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Start your tasks today, as getting started is a big step towards completion.",
+      "• Break your work into smaller, manageable parts by making a simple list.",
+      "• Focus on one step at a time to make your projects feel less overwhelming.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for the future."
+    ],
+    "love": [
+      "• Trust your intuition today; it will guide you in your love life.",
+      "• Consider inviting someone special for a meal to explore your feelings further.",
+      "• After spending time together, you will gain clarity on your next steps.",
+      "• Stay optimistic and adventurous, but remember to make practical plans for the future."
+    ],
+    "health": [
+      "• Take time each day for exercise and healthy meals to support your emotional well-being.",
+      "• Avoid feeling overwhelmed by managing your time effectively, allowing you to be present for loved ones.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for the future.",
+      "• Stay connected to your philosophical side, exploring life's mysteries while also caring for your health."
+    ],
+    "career": [
+      "• Be cautious about who you trust at work; not everyone has good intentions.",
+      "• Avoid sharing personal secrets with those who may not have your best interests at heart.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for your future.",
+      "• Use your natural curiosity to explore new opportunities and enhance your career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
