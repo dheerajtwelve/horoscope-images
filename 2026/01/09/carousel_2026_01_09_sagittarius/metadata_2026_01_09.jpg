@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-09T09:21:59.263032",
+  "date_folder": "carousel_2026_01_09_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Don't let insecurities take over if a friend or partner isn't responding; they might just be busy with other demands.",
+      "• Be patient and give your friend another call tomorrow; you may get a quicker response then.",
+      "• Focus on distractions today to keep your mind off the situation; staying positive is key.",
+      "• Remember to enjoy the present while making practical plans for the future; your adventurous spirit is a strength!"
+    ],
+    "love": [
+      "• Deep feelings may surface unexpectedly, so be open to exploring them.",
+      "• Talk to someone you trust, like a partner or friend, instead of keeping things to yourself.",
+      "• Embrace your adventurous spirit, but remember to stay grounded in the present.",
+      "• Consider a personalized Love Tarot Reading for guidance on your romantic journey this year."
+    ],
+    "health": [
+      "• Treat yourself to a relaxing evening with a hot bath infused with lavender herbal essence to soothe your emotions.",
+      "• Take time to nurture your emotional well-being, especially during times of stress or overload.",
+      "• Aim to go to bed on time after your bath for a restorative and restful night's sleep.",
+      "• Embrace your adventurous spirit while also making practical plans for your health and future."
+    ],
+    "career": [
+      "• Conserve your energy today and avoid rushing into any plans that aren’t fully developed.",
+      "• Focus on creating alternative options instead of sticking to just one approach.",
+      "• Others will appreciate your thoughtful strategy, so don’t hesitate to share your ideas.",
+      "• Embrace your adventurous spirit while also being practical about your career goals."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
