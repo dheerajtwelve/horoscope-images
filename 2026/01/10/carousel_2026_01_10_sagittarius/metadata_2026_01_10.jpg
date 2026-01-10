@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-10T09:16:01.286464",
+  "date_folder": "carousel_2026_01_10_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• An exciting opportunity for air travel may arise today, possibly at someone else's expense.",
+      "• Consider the trip as a chance for business or educational growth.",
+      "• Take the initiative to arrange your travel plans and embrace the adventure ahead.",
+      "• Remember to stay present and balance your love for exploration with practical planning for the future."
+    ],
+    "love": [
+      "• Enjoy rewarding romantic moments today, whether at home or out with someone special.",
+      "• Your partner offers both emotional harmony and a sense of security, making your connection stronger.",
+      "• Embrace the excitement of new relationships and cherish the time spent together.",
+      "• Stay optimistic, but remember to balance your adventurous spirit with practical plans for the future."
+    ],
+    "health": [
+      "• Focus on your exercise routine this week to harness the positive energy around you.",
+      "• Keep your mind clear to better access the insights and opportunities available to you.",
+      "• Prioritize rest and stay committed to your health goals despite any distractions.",
+      "• Embrace your adventurous spirit while making practical plans for your well-being."
+    ],
+    "career": [
+      "• Expect some challenges at work, but remember that it's not all your fault—stay calm and don’t take the blame.",
+      "• Avoid getting involved in workplace conflicts; it’s better to take a step back and observe.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for your career goals.",
+      "• Use your natural curiosity to explore new opportunities and enhance your professional growth."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
