@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-11T09:32:32.053144",
+  "date_folder": "carousel_2026_01_11_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is perfect for meditation or spiritual studies; take some time to connect with your inner self.",
+      "• Your intuition is strong, making it easier to understand the feelings and needs of those around you.",
+      "• Pay attention to any insights or visions you have; write them down for future reference.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for the future."
+    ],
+    "love": [
+      "• Take the initiative today and arrange a special meeting with someone you care about; this bold move will strengthen your connection.",
+      "• Embrace your adventurous spirit and don't hesitate to step out of your comfort zone; you won't regret making the first move.",
+      "• Focus on living in the present while also making practical plans for your romantic future; balance is key.",
+      "• Remember to celebrate your charismatic nature; your optimism and willingness to take risks can lead to exciting new experiences in love."
+    ],
+    "health": [
+      "• Stay grounded by incorporating exercises like walking, running, or yoga into your routine to help balance your emotions.",
+      "• Be aware of heightened emotions; taking time for yourself can help you feel more at ease around loved ones.",
+      "• Focus on your inner well-being to connect your sensitive feelings with reality and gain clarity.",
+      "• Embrace your adventurous spirit while also making practical plans for a healthy and fulfilling future."
+    ],
+    "career": [
+      "• Work may feel chaotic right now, but remember it's just a temporary phase; stay calm and focused.",
+      "• Being more assertive can help you navigate through these hectic times and lead to better outcomes.",
+      "• Embrace new opportunities for fresh starts and bold initiatives to enhance your career path.",
+      "• Keep a balance between your adventurous spirit and practical planning for a successful future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
