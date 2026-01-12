@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-12T09:32:36.290674",
+  "date_folder": "carousel_2026_01_12_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Consider giving your love partner some space today to avoid tensions.",
+      "• Your partner may be dealing with stress, which could affect their mood.",
+      "• Be ready to handle any negativity, or choose to spend time on your own instead.",
+      "• Embrace your adventurous spirit but remember to stay grounded in the present."
+    ],
+    "love": [
+      "• Take your time in love; rushing into new relationships might not lead to lasting happiness.",
+      "• Focus on relationships that have a history, as these have a better chance of success.",
+      "• If you prefer stability, wait for a more favorable time before making any big romantic decisions.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for the future."
+    ],
+    "health": [
+      "• Acknowledge your feelings instead of hiding them; sharing with a friend can help lighten your emotional load.",
+      "• Regular workouts can be a great way to cope with sadness and boost your mood.",
+      "• Focus on living in the present while also making practical plans for your future.",
+      "• Embrace your adventurous spirit and seek empowerment through self-discovery and clarity."
+    ],
+    "career": [
+      "• Respect others' need for space today; they may be focused on their own tasks and not intentionally ignoring you.",
+      "• Don’t take others' actions personally; it’s important to understand they just need some freedom to work.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for your career goals.",
+      "• Use your natural curiosity to explore new opportunities; your optimistic attitude can lead to exciting paths ahead."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
