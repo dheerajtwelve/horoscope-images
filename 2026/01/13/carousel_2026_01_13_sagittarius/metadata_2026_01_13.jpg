@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-13T09:21:51.692201",
+  "date_folder": "carousel_2026_01_13_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your mind is racing with new ideas from various sources today; embrace this mental energy and explore new concepts.",
+      "• Engage in discussions with others to broaden your perspective and gain fresh insights.",
+      "• Remember to balance your mental stimulation with physical activity; consider fitting in a workout.",
+      "• Stay optimistic and adventurous, but also focus on practical plans for your future and enjoy the present moment."
+    ],
+    "love": [
+      "• Avoid getting drawn into arguments today, especially with your partner or close friends, to maintain harmony.",
+      "• Remember that conflicts may seem trivial in a day or two, so focus on peace instead.",
+      "• Embrace your adventurous and optimistic spirit, but also make practical plans for your future.",
+      "• Use this time to reflect and gain clarity on your relationships for a more empowered path ahead."
+    ],
+    "health": [
+      "• Don't let the fear of rejection hold you back from social gatherings; remember that your friends enjoy your company.",
+      "• Combat feelings of loneliness by sticking to a consistent exercise routine; it can boost your confidence and mood.",
+      "• When you feel like giving up on healthy habits, remind yourself that you deserve to take care of yourself.",
+      "• Embrace your adventurous spirit and focus on the present while making practical plans for your future well-being."
+    ],
+    "career": [
+      "• Communication may feel challenging today; don't be discouraged if others don't understand your ideas right away.",
+      "• Keep a positive mindset; you will connect with your colleagues at a better time.",
+      "• Embrace your adventurous spirit and consider taking calculated risks in your career.",
+      "• Stay focused on the present while making practical plans for your future success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
