@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-14T09:30:18.572384",
+  "date_folder": "carousel_2026_01_14_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Enjoy group activities and social events today; they can spark your passions and lead to exciting new connections.",
+      "• Be open to meeting new people and taking on interesting projects; you might even find love!",
+      "• Consider exploring new ideas or subjects discussed at these events; they could inspire your next course of study.",
+      "• In the evening, strengthen your new friendships by going out for dinner and sharing good times together."
+    ],
+    "love": [
+      "• Take a moment to reflect on your feelings about your romantic relationship; it’s okay to feel apprehensive.",
+      "• Avoid letting fears take over your thoughts; focus on what you can control to improve the situation.",
+      "• Consider spending some time alone to gain clarity and perspective; you may feel better soon.",
+      "• Embrace your adventurous spirit, but remember to stay present and make practical plans for your love life."
+    ],
+    "health": [
+      "• Embrace your feelings today, cherishing moments of personal insight and reverence for what is right for you.",
+      "• Enjoy this inner peace in solitude, and avoid sharing your feelings too openly, as they may not be understood by others.",
+      "• Connect with nature or your closest friends to fully appreciate this positive energy and gain clarity for your future.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and make practical plans for what lies ahead."
+    ],
+    "career": [
+      "• Expect challenges at work today, but don't let them discourage you; persistence is key to overcoming obstacles.",
+      "• Remember to stay optimistic and keep trying, as success is within your reach if you put in the effort.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for your future career goals.",
+      "• Use your natural curiosity and philosophical mindset to explore new opportunities and enhance your professional journey."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
