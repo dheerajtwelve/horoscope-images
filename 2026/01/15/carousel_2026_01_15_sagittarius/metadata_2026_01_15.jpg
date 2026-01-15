@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-15T09:24:38.712975",
+  "date_folder": "carousel_2026_01_15_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Trust your gut feelings today; they may reveal important insights about upcoming events.",
+      "• Use any self-doubt as motivation to push forward and work towards a positive outcome.",
+      "• Remember, you have the ability to turn challenges into opportunities—stay optimistic!",
+      "• Focus on living in the moment while also planning for your adventurous future."
+    ],
+    "love": [
+      "• Take a moment to ground yourself and connect with your loved ones; your openness today can strengthen your relationships.",
+      "• Share your deeper feelings with someone special; this vulnerability will create a memorable bond.",
+      "• Embrace your adventurous spirit, but remember to stay present and plan for the future in your love life.",
+      "• Use this time to reflect and gain clarity on your romantic goals; it’s an opportunity for growth and empowerment."
+    ],
+    "health": [
+      "• Focus on special projects at home, but remember to also care for your body as part of your environment.",
+      "• Take breaks from home improvement to enjoy outdoor exercise and refresh your energy.",
+      "• Use this time to raise your awareness and gain clarity about your future health and wellness.",
+      "• Embrace your adventurous spirit and optimism, but balance it with practical plans for your health."
+    ],
+    "career": [
+      "• Be cautious of tempting online offers today; they may not be as beneficial as they seem.",
+      "• Stay grounded and avoid being easily convinced by promises that sound too good to be true.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for your future.",
+      "• Explore your talents and ambitions; they can guide you toward fulfilling career opportunities."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
