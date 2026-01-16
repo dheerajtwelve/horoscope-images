@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-16T09:21:57.885178",
+  "date_folder": "carousel_2026_01_16_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is a great day to tackle your budgeting and financial tasks, even if you usually put them off.",
+      "• You will find yourself being practical and efficient with money matters, so trust in your abilities.",
+      "• Other paperwork, like your writing, will also go smoothly, so take advantage of this productive energy.",
+      "• After finishing your tasks, reward yourself with a nice dinner at your favorite restaurant!"
+    ],
+    "love": [
+      "• You will naturally attract attention in your love life, so enjoy this special moment and let yourself be appreciated.",
+      "• Plan a romantic dinner date with your partner to relive the joyful memories of your early days together.",
+      "• Embrace your optimistic and adventurous nature, but remember to stay grounded in the present while planning for the future.",
+      "• Keep exploring new experiences together to deepen your connection and enjoy the mysteries of love."
+    ],
+    "health": [
+      "• Pay attention to your bones and how they feel; consider incorporating calcium into your diet for better bone health.",
+      "• Explore deep tissue massage or chiropractic care to improve blood flow and nourish your skeletal system.",
+      "• These methods can help you feel more connected to your bones and enhance overall well-being.",
+      "• Embrace new cycles in life while staying grounded in practical health habits for a brighter future."
+    ],
+    "career": [
+      "• A meaningful conversation at work today could lead to significant change in your career path.",
+      "• Take all encounters seriously, as they may open doors to new opportunities and growth.",
+      "• Embrace your adventurous spirit, but remember to balance risk-taking with practical planning for your future.",
+      "• Use your natural curiosity to explore new possibilities in your job and align them with your talents and ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
