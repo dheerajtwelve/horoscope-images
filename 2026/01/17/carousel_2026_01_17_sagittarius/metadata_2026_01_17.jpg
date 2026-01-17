@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-17T09:14:53.470597",
+  "date_folder": "carousel_2026_01_17_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Engage in a deep conversation with a close friend or partner to strengthen your bond and align your goals.",
+      "• Use your strong communication skills to take the lead in discussions and collaborate on plans.",
+      "• Embrace the opportunity to work together to achieve shared dreams and aspirations.",
+      "• Stay optimistic and adventurous, but remember to balance your dreams with practical steps for the future."
+    ],
+    "love": [
+      "• Take a moment to reflect on your feelings and future with your partner today; deep thoughtfulness is encouraged.",
+      "• Avoid making any major decisions right now, as your mood may not be the most positive.",
+      "• Focus on creating the love story you desire; think about what truly makes you happy in your relationship.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for the future together."
+    ],
+    "health": [
+      "• Embrace positive changes this week and explore new ways to improve your daily routine.",
+      "• Experiment with healthy recipes using ingredients you normally avoid for a refreshing dining experience.",
+      "• Consider substituting meat with tofu or cream with soy milk for a delightful twist in your meals.",
+      "• Stay optimistic and adventurous, but remember to focus on practical plans for your health and future."
+    ],
+    "career": [
+      "• Be prepared for challenges at work; stay strong and don't take negative comments personally.",
+      "• Focus on finding your own path and embrace new opportunities that come your way.",
+      "• Use your natural optimism to take calculated risks, but also remember to plan for the future.",
+      "• Explore your unique talents and motivations to guide your career decisions effectively."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
