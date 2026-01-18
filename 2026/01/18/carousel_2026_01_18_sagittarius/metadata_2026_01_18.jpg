@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-18T09:26:41.251659",
+  "date_folder": "carousel_2026_01_18_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Use your analytical skills to tackle any problems you face today; it's time to put your thoughts into action.",
+      "• Reflect on your ideas and consider how you can implement them for better clarity in your future.",
+      "• Embrace your adventurous and optimistic nature, but remember to stay grounded in the present while planning ahead.",
+      "• Explore new opportunities and insights, as your natural curiosity can lead to exciting breakthroughs."
+    ],
+    "love": [
+      "• This week, you may feel a strong urge to express your feelings to someone special, so don't hold back!",
+      "• Remember to balance your adventurous spirit with caution to avoid getting hurt again.",
+      "• Take practical steps towards your romantic goals to create the love story you desire.",
+      "• Embrace your natural curiosity and optimism while staying present in your relationships."
+    ],
+    "health": [
+      "• Take advantage of the positive energy around you by grounding yourself through regular yoga practice.",
+      "• Strengthen your body to help you reach your health goals and make the most of the favorable planetary positions.",
+      "• Stay present and create practical plans for your future to support your adventurous spirit.",
+      "• Embrace your natural curiosity and explore new ways to enhance your well-being and overall health."
+    ],
+    "career": [
+      "• Embrace creativity and innovation to solve workplace challenges; old solutions may not work anymore.",
+      "• Now is the perfect time to introduce new ideas and approaches to improve your work environment.",
+      "• Focus on gaining clarity for your future and look for ways to empower yourself in your career.",
+      "• Balance your adventurous spirit with practical planning to ensure success and fulfillment in your professional life."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
