@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-19T09:33:42.098885",
+  "date_folder": "carousel_2026_01_19_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Don't let worries from the past hold you back; you'll realize they were unnecessary.",
+      "• Face your reality today, and you'll see it's not as bad as you feared.",
+      "• Your hard work will pay off, so stay positive and embrace optimism.",
+      "• Focus on your personal growth and explore new opportunities for fresh starts."
+    ],
+    "love": [
+      "• Today is a great day to meet new people and expand your social circle, especially if you're searching for romance.",
+      "• Embrace adventure and let go of worries about making a bad impression; confidence will attract positive connections.",
+      "• Focus on your strengths and positive qualities to enhance your chances of romantic success.",
+      "• Remember to balance your adventurous spirit with practical plans for the future to create the love story you desire."
+    ],
+    "health": [
+      "• Stay aware of your health today; it’s a great time to address any issues and enhance your well-being.",
+      "• Stick to your health routine, especially your exercise regimen, to maintain balance amid any challenges.",
+      "• Embrace the positive energies around you to boost your personal power and tackle any difficult traits.",
+      "• Remember to stay grounded in the present while planning for the future; your adventurous spirit is your strength!"
+    ],
+    "career": [
+      "• You hold an important work secret that could benefit your team, so consider sharing it for everyone's success.",
+      "• Don't let fear of backlash hold you back; being open can lead to positive changes in your workplace.",
+      "• Embrace your adventurous spirit and take calculated risks to enhance your career growth.",
+      "• Remember to balance your optimistic nature with practical planning to achieve your professional goals."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
