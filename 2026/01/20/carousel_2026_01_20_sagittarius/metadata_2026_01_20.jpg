@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-20T09:26:53.861577",
+  "date_folder": "carousel_2026_01_20_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Take care of any important paperwork today, especially related to money, as it may have been on your to-do list for a while.",
+      "• Make sure to pay your bills and handle banking tasks to keep your finances in order.",
+      "• Use this time to think about your future plans and set goals that excite you.",
+      "• After handling your responsibilities, treat yourself to some shopping with friends and enjoy the day!"
+    ],
+    "love": [
+      "• Don't let caution hold you back; it's time to express your feelings to that special someone.",
+      "• Be honest and open; your fears are often just negative thoughts that can be overcome.",
+      "• Embrace your adventurous spirit and remember to stay present while planning for the future.",
+      "• Use your natural curiosity to explore not just love, but the mysteries of life as well."
+    ],
+    "health": [
+      "• Try new exercises that interest you, especially those you can do with friends or to make new connections.",
+      "• Consider activities like bike trips or training for a marathon that supports a good cause.",
+      "• Surround yourself with positive, health-oriented people who share your values of friendship and well-being.",
+      "• Stay optimistic but remember to live in the present and plan practically for your health goals."
+    ],
+    "career": [
+      "• A significant change in your workplace, possibly from your boss, could lead to a big opportunity for you.",
+      "• This change may also come with the possibility of a larger salary, so be ready to seize it.",
+      "• Stay alert and open to new possibilities that align with your unique skills and personality.",
+      "• Remember to balance your adventurous spirit with practical plans for a successful future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
