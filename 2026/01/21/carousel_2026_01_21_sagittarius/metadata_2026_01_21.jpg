@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-21T09:25:46.366105",
+  "date_folder": "carousel_2026_01_21_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is a perfect day to start a garden; anything you plant is likely to flourish.",
+      "• If you're feeling uncertain about your finances, remember that these doubts may be unfounded.",
+      "• Use your concerns as motivation to take practical steps to secure your financial future.",
+      "• Embrace your adventurous spirit, but also focus on living in the present and planning wisely for tomorrow."
+    ],
+    "love": [
+      "• Take a break from your busy schedule to reconnect with your partner, whether at home or on a peaceful getaway.",
+      "• Cooking a special meal together can strengthen your bond and bring joy to your relationship.",
+      "• Embrace tranquility and relaxation as it will benefit both you and your partner.",
+      "• Focus on living in the present while making practical plans for your future together."
+    ],
+    "health": [
+      "• Focus on completing tasks you've already started before taking on new ones to maximize your effectiveness.",
+      "• Stay determined and avoid rushing to judgment; patience will help you see things through to the end.",
+      "• Prioritize your health by exercising regularly, eating nutritious foods, and staying hydrated.",
+      "• Embrace your adventurous spirit while being practical; make clear plans for your future."
+    ],
+    "career": [
+      "• Be aware that your unique ideas may not be well-received by everyone; some may prefer a more traditional approach.",
+      "• It's important to adapt your communication style to gain support from colleagues and superiors.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for your career goals.",
+      "• Use your natural curiosity to explore new opportunities, but stay grounded in your present responsibilities."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
