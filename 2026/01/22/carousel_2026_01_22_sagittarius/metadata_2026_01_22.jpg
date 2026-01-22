@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-22T09:31:00.646444",
+  "date_folder": "carousel_2026_01_22_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Pay attention to your vivid dreams today; they may inspire you to study something that truly interests you, like art or philosophy.",
+      "• Consider traveling to a spiritual center, as it could enrich your understanding and bring new perspectives.",
+      "• Trust your intuition; if something feels right, take it seriously and think about how to pursue it.",
+      "• Embrace your adventurous spirit but remember to stay grounded and make practical plans for the future."
+    ],
+    "love": [
+      "• Deep feelings may arise today, prompting you to take action regarding an important relationship matter.",
+      "• If you feel confused about your relationship, it's time to confront the issues directly and seek clarity.",
+      "• Focus on gaining insight and empowerment to navigate your love life effectively.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical plans for your future in love."
+    ],
+    "health": [
+      "• Communication may be challenging today; stay aware of misunderstandings in friendships and work relationships.",
+      "• Focus on your own health and well-being; prioritize your health regimen to maintain balance.",
+      "• Remember that any issues will pass, so keep a positive mindset and stay resilient.",
+      "• Embrace your adventurous spirit, but also make practical plans for your future to ensure stability."
+    ],
+    "career": [
+      "• Embrace your creativity by blending traditional methods with innovative ideas to craft something unique.",
+      "• Use your imagination to enhance your projects, making them more engaging and impactful.",
+      "• Stay optimistic and adventurous, but remember to balance your dreams with practical planning for your career.",
+      "• Explore your natural curiosity and philosophical insights to uncover new opportunities and possibilities in your work."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
