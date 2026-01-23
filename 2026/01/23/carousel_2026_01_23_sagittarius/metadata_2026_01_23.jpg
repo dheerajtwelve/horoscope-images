@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-23T09:24:56.501564",
+  "date_folder": "carousel_2026_01_23_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Avoid spending time with people who are set in their ways; focus on your own path instead.",
+      "• If you want to do something your way, go for it, but respect others’ choices too.",
+      "• Embrace your adventurous spirit and remain optimistic while planning for the future.",
+      "• Remember to stay present and explore new ideas, as they can lead to personal growth."
+    ],
+    "love": [
+      "• Pay attention to your dreams and gut feelings; they can guide you to improve your relationships.",
+      "• Take time to reflect on your emotions and intuitions for deeper insights into your love life.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future.",
+      "• Use your natural curiosity to explore and deepen connections with your partner or potential love interests."
+    ],
+    "health": [
+      "• Take time to reflect on your emotions; it's important to understand how you truly feel.",
+      "• Balance your busy life by scheduling self-care activities like virtual yoga or relaxing walks twice a week.",
+      "• Embrace your adventurous spirit while being mindful of living in the present and planning for the future.",
+      "• Explore your unique personality and life path with a premium Birth Chart to gain deeper insights."
+    ],
+    "career": [
+      "• A casual friend may turn into a valuable ally today, so stay open in your communication to share insights and perspectives.",
+      "• This partnership will be important for your success, so nurture this connection for future benefits.",
+      "• Focus on gaining clarity about your career path and future goals to empower yourself in your journey.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for long-term achievements."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
