@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-24T09:19:10.614041",
+  "date_folder": "carousel_2026_01_24_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect a delay in something important coming from afar; it hasn't been lost, just be patient.",
+      "• Your work equipment may malfunction today, so be prepared to call for repairs.",
+      "• Use this time to find alternative tasks or activities to keep yourself busy.",
+      "• Embrace your adventurous spirit while staying grounded; make practical plans for the future."
+    ],
+    "love": [
+      "• Take your time to understand your feelings in your current relationship; clarity will come with patience.",
+      "• While you may feel uncertain about your next steps, trust that you'll know what to do when the moment is right.",
+      "• Focus on gaining insight for the future; consider exploring your personal goals and desires.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for love and life."
+    ],
+    "health": [
+      "• Drink plenty of water and exercise regularly to manage the extra energy you'll feel today.",
+      "• Expect to receive compliments on your radiant skin and positive mood from others.",
+      "• Embrace your adventurous spirit while being mindful of living in the present.",
+      "• Consider exploring your unique life path with a personalized Birth Chart for deeper insights."
+    ],
+    "career": [
+      "• Pay close attention to conversations today; there may be hidden meanings that can guide your career decisions.",
+      "• Avoid taking things at face value; understanding the deeper context will reveal important insights.",
+      "• Embrace your adventurous spirit while also making practical plans for your future success.",
+      "• Explore your unique talents and motivations through your Birth Chart to unlock your true potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
