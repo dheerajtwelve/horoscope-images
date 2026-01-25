@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-25T09:36:08.665533",
+  "date_folder": "carousel_2026_01_25_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is a great day to think about travel; consider taking time off to visit a place you've always dreamed of.",
+      "• A friend or partner may want to join you on this adventure, making it even more enjoyable.",
+      "• Choose your destination wisely, but don’t let indecision hold you back; follow your heart.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your journey."
+    ],
+    "love": [
+      "• Your thoughts may feel less clear today, so embrace open discussions on your date to explore interesting topics.",
+      "• If conversations touch on feelings, it's best to keep things light and not dive too deep just yet.",
+      "• Focus on creating the love story you desire by being mindful of your emotions and intentions.",
+      "• Remember to balance your adventurous spirit with practical plans for a fulfilling romantic future."
+    ],
+    "health": [
+      "• Today's energy boost can enhance your vitality and help you feel more relaxed.",
+      "• Use this week to finish tasks and clearly share your expectations with others.",
+      "• Take care of your body through rest, healthy eating, and exercise to feel more attractive.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future."
+    ],
+    "career": [
+      "• You may feel pressure to perform, so stay calm and avoid reacting too quickly in tough situations.",
+      "• Use your adventurous spirit to navigate challenges, but remember to make practical plans for your future.",
+      "• Embrace your natural curiosity and explore new opportunities that align with your talents and ambitions.",
+      "• Stay optimistic and patient with others, as positive interactions can lead to beneficial outcomes in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
