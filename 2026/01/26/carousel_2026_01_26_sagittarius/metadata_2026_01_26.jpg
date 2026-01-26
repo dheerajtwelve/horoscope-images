@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-26T09:38:51.893025",
+  "date_folder": "carousel_2026_01_26_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today, you may connect deeply with someone, almost anticipating their thoughts and words.",
+      "• Trust your quick mind; you're likely to be several steps ahead in conversations.",
+      "• Use your intuitive gifts to gain clarity and direction for your future.",
+      "• Remember to balance your adventurous spirit with practical planning for what lies ahead."
+    ],
+    "love": [
+      "• Today, a meaningful conversation could reveal just how much you and a special person have in common.",
+      "• Trust in the deep bond you share; it's more powerful than you may realize.",
+      "• Embrace your adventurous spirit while also making practical plans for your relationship's future.",
+      "• Stay optimistic and open to exploring the mysteries of love together."
+    ],
+    "health": [
+      "• Enjoy the positive energy today; it’s a great time to feel lucky and motivated about your health.",
+      "• Stay hydrated by drinking plenty of water to support your liver and overall wellness.",
+      "• Keep up with your exercise routine and focus on flushing out toxins from your body; it's a powerful and rewarding process.",
+      "• Take pride in your health journey; remember to live in the moment while planning for a vibrant future."
+    ],
+    "career": [
+      "• Be prepared to handle a challenging male colleague who may try to dominate situations; it's better to work with him than against him.",
+      "• Focus on finding your personal path and consider exploring your Personal Year Number for insights into your career.",
+      "• Embrace fresh starts and bold initiatives as you navigate new cycles in your professional life.",
+      "• Remember to balance your adventurous spirit with practical planning for a successful future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
