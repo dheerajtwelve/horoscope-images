@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-27T09:29:14.211080",
+  "date_folder": "carousel_2026_01_27_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be aware of your irritability today; try not to take it out on those close to you.",
+      "• Channel your extra energy into physical activities like jogging or gym workouts.",
+      "• Exercise can help boost your mood and reduce stress, so take advantage of it.",
+      "• Stay optimistic and adventurous, but remember to make practical plans for your future."
+    ],
+    "love": [
+      "• Take the opportunity to express your feelings to someone special who has positively impacted your life.",
+      "• Plan a fun outing or meal to deepen your connection and share your heart.",
+      "• Recognize the importance of taking this next step in your relationship for mutual growth.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and plan for a bright future together."
+    ],
+    "health": [
+      "• Reflect on past emotions and express what you feel to heal any unresolved issues.",
+      "• Take time today to treat yourself well and nourish your body with healthy food.",
+      "• Focus on removing any emotional obstacles that may be holding you back.",
+      "• Stay optimistic and use this moment to gain clarity for your future plans."
+    ],
+    "career": [
+      "• Focus on your own needs and let others support you for a change; you deserve it.",
+      "• Stand firm in your decisions while maintaining a positive attitude.",
+      "• Use your 2026 Tarot Reading to gain insights and plan for your career growth.",
+      "• Embrace your adventurous spirit but remember to make practical plans for the future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
