@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-28T09:27:03.020237",
+  "date_folder": "carousel_2026_01_28_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your imagination may lead you to dream of distant places, so embrace these visions as they hold important messages for you.",
+      "• Don’t let daydreaming distract you; find ways to integrate these insights into your daily life.",
+      "• Remember to balance your adventurous spirit with practical plans for the future.",
+      "• Stay optimistic and keep exploring the mysteries of life, but also focus on living in the present moment."
+    ],
+    "love": [
+      "• A stable relationship may feel uneventful right now, but it's a solid foundation you can rely on.",
+      "• Although excitement might be lacking, you have a clear understanding of your partner and the relationship's direction.",
+      "• Embrace your adventurous spirit, but remember to focus on the present and plan for your future together.",
+      "• Use this time to strengthen your bond and enjoy the comfort of knowing what to expect from each other."
+    ],
+    "health": [
+      "• Focus on your fitness to help clear your mind and gain perspective on any friendship challenges.",
+      "• Use physical activity as a way to reflect on conflicts and improve your overall well-being.",
+      "• Taking care of yourself can shift your attention to the positives in your relationships, rather than the negatives.",
+      "• Embrace the journey of self-care and personal growth to empower your future and enhance your connections."
+    ],
+    "career": [
+      "• Trust your energy and passion; they will guide you in your career decisions.",
+      "• Stay true to yourself and your beliefs to avoid getting overwhelmed as time goes on.",
+      "• Embrace your adventurous spirit, but remember to take practical steps for your future.",
+      "• Use your natural curiosity to explore new opportunities that align with your talents."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
