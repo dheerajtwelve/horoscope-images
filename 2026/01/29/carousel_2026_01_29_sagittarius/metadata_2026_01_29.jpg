@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-29T09:49:00.029531",
+  "date_folder": "carousel_2026_01_29_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Attend a social event today; you might meet someone fascinating from a different culture who shares your interests.",
+      "• Engage in deep conversations that could lead to a meaningful friendship or romantic connection.",
+      "• Remember to exchange contact information to keep in touch with new acquaintances.",
+      "• Embrace your adventurous spirit, but also focus on making practical plans for your future."
+    ],
+    "love": [
+      "• Consider hosting an impromptu gathering to connect with friends and create joyful memories.",
+      "• It's a great day to express your feelings to someone special; don’t hold back.",
+      "• Embrace your adventurous spirit while being mindful of practical plans for your love life.",
+      "• Explore your emotions and relationships to foster heart-centered growth and opportunities."
+    ],
+    "health": [
+      "• Your energy levels are high today, so make sure to engage in plenty of exercise to channel that energy positively.",
+      "• If you feel restless at work, use your lunch break to take a walk or hit the gym for a quick workout.",
+      "• Pay attention to your diet; choose light foods to help you process all the energy effectively.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your health."
+    ],
+    "career": [
+      "• Be honest about any issues you notice in your plans; addressing them now can prevent bigger problems later.",
+      "• Pay close attention to details in your work to ensure everything runs smoothly.",
+      "• Use your natural optimism and adventurous spirit to explore new opportunities while staying grounded.",
+      "• Seek clarity and direction for your future by reflecting on your talents and ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
