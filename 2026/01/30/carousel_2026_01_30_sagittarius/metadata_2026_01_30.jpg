@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-30T09:52:12.701018",
+  "date_folder": "carousel_2026_01_30_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Attend social events today to meet new, interesting people and possibly reconnect with an old friend.",
+      "• Be open to the possibility of a romantic encounter with someone attractive who may enter your life.",
+      "• Embrace the excitement of the day as it could lead to new opportunities for your future.",
+      "• Remember to balance your adventurous spirit with practical planning for a fulfilling life."
+    ],
+    "love": [
+      "• Today is perfect for socializing and meeting new people; your natural curiosity will draw you to attractive individuals.",
+      "• Expect a memorable encounter that sparks an instant connection on multiple levels.",
+      "• Embrace your adventurous spirit while also focusing on practical plans for your romantic future.",
+      "• Consider exploring a personalized Love Tarot Reading for guidance on your heart’s journey this year."
+    ],
+    "health": [
+      "• Acknowledge your unique abilities and don't let others' perceptions hold you back; your vision is valuable.",
+      "• Take small steps towards turning your dreams into reality today; every little effort counts.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for your health.",
+      "• Stay optimistic and keep exploring new possibilities; your natural curiosity will lead to positive changes."
+    ],
+    "career": [
+      "• This time may be challenging for your career, but you can ease the stress by talking openly with someone you trust.",
+      "• Sharing your concerns will help lighten your burdens and provide clarity.",
+      "• Remember to balance your adventurous spirit with practical planning for your future.",
+      "• Embrace your natural curiosity and use it to explore new opportunities in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
