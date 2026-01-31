@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-01-31T09:46:36.991925",
+  "date_folder": "carousel_2026_01_31_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Feel the excitement of love in the air today; let your heart guide you to joyful connections.",
+      "• Spend the evening with someone special to deepen your bond and share meaningful moments.",
+      "• Small gestures of love can lead to beautiful experiences; nurture these feelings and watch them grow.",
+      "• Embrace your adventurous spirit, but remember to enjoy the present and plan for the future."
+    ],
+    "love": [
+      "• Acknowledge your feelings today; it's important for keeping your close relationship fresh and alive.",
+      "• Embrace change in your relationship to help it grow and stay vibrant.",
+      "• Gain clarity by facing emotions you've been ignoring; this will empower your future.",
+      "• Remember to balance your adventurous spirit with practical planning for lasting happiness."
+    ],
+    "health": [
+      "• Focus on your own health and well-being rather than seeking validation from others.",
+      "• Prioritize exercise, a balanced diet, and sufficient rest as daily tasks for a healthier body.",
+      "• Embrace your natural optimism and adventurous spirit, but remember to stay grounded in the present.",
+      "• Use this time for self-reflection and planning, as clarity about your future will empower you."
+    ],
+    "career": [
+      "• Your creative and artistic skills will be recognized today, making you a valued team member.",
+      "• Focus on your strong communication abilities to enhance collaboration with colleagues.",
+      "• Embrace your optimistic nature but remember to make practical plans for your career future.",
+      "• Consider a tarot reading to gain insights into your personal growth and career direction for 2026."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
