@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-01T10:11:02.571621",
+  "date_folder": "carousel_2026_02_01_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Embrace your powerful energy today and take bold actions towards your goals.",
+      "• Use your strong physical vitality to enhance your life and relationships.",
+      "• Share your enthusiasm with others and spread positivity around you.",
+      "• Remember to stay present while planning for the future and exploring new opportunities."
+    ],
+    "love": [
+      "• A surprising revelation at work may lead to discovering someone's romantic feelings for you.",
+      "• Be open to unexpected emotions and connections that might arise around you.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future.",
+      "• Use this opportunity to explore new possibilities in your love life with optimism and enthusiasm."
+    ],
+    "health": [
+      "• Take some time for yourself today; it's okay to say no to others and focus on your own needs.",
+      "• Prioritize activities that nourish your body and mind; self-care is essential for your well-being.",
+      "• Consider trying strength-building exercises like Bikram yoga to enhance your physical health.",
+      "• Remember to balance your adventurous spirit with practical planning for a healthier future."
+    ],
+    "career": [
+      "• Embrace your confidence today; it will help you stand your ground against challenges from others.",
+      "• Don't be afraid to engage in a constructive showdown; both you and your opponent can learn from the experience.",
+      "• Focus on finding your personal path and setting practical plans for the future.",
+      "• Stay optimistic and adventurous, but remember to balance your dreams with realistic actions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
