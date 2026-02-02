@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-02T10:06:21.970625",
+  "date_folder": "carousel_2026_02_02_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Discovering an art object from another culture may awaken unexpected feelings and curiosity within you.",
+      "• This new interest could help you uncover and heal from past experiences you may not fully remember.",
+      "• Embrace this opportunity to explore and learn more about the culture that intrigues you.",
+      "• Remember to stay grounded in the present while planning for your exciting future adventures."
+    ],
+    "love": [
+      "• If you're feeling uncertain about your relationship, take time to reflect on your feelings and explore what might be causing these doubts.",
+      "• You may be reminded of someone from your past, which could be influencing your current feelings; recognize this connection to gain clarity.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your relationship's future.",
+      "• As a Sagittarius, your optimistic nature is a strength; use it to explore new horizons in love and deepen your connections."
+    ],
+    "health": [
+      "• Embrace your current powerful energy by maintaining a consistent physical routine to maximize your benefits.",
+      "• Take advantage of your heightened mental clarity and communication skills to uplift those around you with kind words.",
+      "• Celebrate your vitality with an enjoyable workout that aligns with your adventurous spirit.",
+      "• Stay optimistic while remembering to balance your love for exploration with practical planning for the future."
+    ],
+    "career": [
+      "• Focus on solving your own career challenges instead of getting lost in helping others.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for your future.",
+      "• Take time to explore your unique life path and personality through self-reflection.",
+      "• Use your natural optimism and philosophical mindset to discover new opportunities for growth."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
