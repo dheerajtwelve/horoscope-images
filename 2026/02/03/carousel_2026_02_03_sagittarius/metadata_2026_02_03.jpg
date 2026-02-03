@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-03T09:56:59.646576",
+  "date_folder": "carousel_2026_02_03_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Break out of your routine by trying something new today, like a different hairstyle or vibrant colors.",
+      "• Embrace your adventurous spirit and consider exploring new career opportunities if you feel stuck.",
+      "• Remember to balance your optimism with practical plans to keep moving forward in life.",
+      "• Take time to reflect on your unique qualities and discover what truly makes you special."
+    ],
+    "love": [
+      "• A surprise from your partner could significantly change your life, so stay open to new possibilities.",
+      "• Take some time to reflect on your feelings before reacting; it will help you understand your true emotions.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for the future.",
+      "• Use this opportunity to explore your unique personality and life path, enhancing your understanding of love and relationships."
+    ],
+    "health": [
+      "• Today is a perfect day to take action towards your health goals; consider swimming extra laps or running more to boost your fitness.",
+      "• Embrace your social side! Try out a dating app or do something spontaneous to connect with others.",
+      "• This is a fun day to start new projects and express yourself authentically—let your personality shine!",
+      "• Stay optimistic and adventurous, but remember to also focus on practical steps for your future well-being."
+    ],
+    "career": [
+      "• Embrace the guidance from others; it can help you move forward positively in your career.",
+      "• Don’t resist change; taking action now will lead to better outcomes in the long run.",
+      "• Stay optimistic and adventurous, but remember to make realistic plans for your future.",
+      "• Explore your unique talents and motivations to uncover your true career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
