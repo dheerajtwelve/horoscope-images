@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-04T09:51:02.646004",
+  "date_folder": "carousel_2026_02_04_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Say goodbye to lethargy and embrace an active day filled with exercise like walking, running, or hiking.",
+      "• Enjoy the fresh air and physical activity to boost your energy and creativity while improving your health.",
+      "• If you have work today, make sure to plan something enjoyable for the evening to unwind and relax.",
+      "• Remember to balance your adventurous spirit with practical planning for the future and living in the present."
+    ],
+    "love": [
+      "• Be mindful of how you express your feelings today; consider your partner's emotions before suggesting anything.",
+      "• Others may be on edge, so choose your words carefully to avoid misunderstandings.",
+      "• Embrace your adventurous spirit, but balance it with practical plans for your relationship's future.",
+      "• Keep exploring your unique personality and life path, as it can enhance your connections with others."
+    ],
+    "health": [
+      "• Embrace the warm feelings today; appreciate your friends and share your emotions while also expressing your own needs.",
+      "• Consider inviting a friend for a brisk walk and enjoy a healthy salad together afterwards.",
+      "• Focus on maintaining your energy; avoid heavy foods and alcohol to feel your best.",
+      "• Remember to balance your adventurous spirit with practical planning for a healthy future."
+    ],
+    "career": [
+      "• Approach your work with a sense of humor and positivity to attract others' attention and support.",
+      "• Your charm and good manners are powerful tools; use them to your advantage in professional interactions.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your career.",
+      "• Explore your unique talents and motivations through your Birth Chart to unlock your full potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
