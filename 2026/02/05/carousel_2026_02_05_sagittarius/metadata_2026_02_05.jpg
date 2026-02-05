@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-05T09:57:42.861396",
+  "date_folder": "carousel_2026_02_05_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Look out for a family member who may need help today, even if they don't ask for it.",
+      "• Take the initiative to offer your support without waiting for an invitation.",
+      "• Your willingness to assist will be appreciated and will leave you feeling fulfilled.",
+      "• Embrace your adventurous spirit while balancing your optimism with practical planning for the future."
+    ],
+    "love": [
+      "• Plan a fun gathering with loved ones today to spread warmth and joy.",
+      "• If you're single, socialize and meet new people to spark potential connections.",
+      "• Embrace your adventurous spirit while staying grounded in your plans for the future.",
+      "• Use your natural curiosity to explore new relationships and experiences."
+    ],
+    "health": [
+      "• Embrace your unique perspective today, but be cautious when voicing your opinions to avoid unnecessary conflict.",
+      "• If you feel the urge to speak out, consider waiting until you are sure it’s the right time.",
+      "• Take care of your health by sipping green tea and practicing deep breathing to stay calm and focused.",
+      "• Remember to balance your adventurous spirit with practical planning for a healthy and fulfilling future."
+    ],
+    "career": [
+      "• Recent frustrations in your career are lessening as a new, positive phase begins today.",
+      "• While relationships at work may not be ideal, you're making overall progress.",
+      "• Embrace your adventurous spirit and stay optimistic, but remember to focus on practical plans for your future.",
+      "• Explore your unique talents and motivations to unlock your true career potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
