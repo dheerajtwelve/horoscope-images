@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-06T09:57:13.112726",
+  "date_folder": "carousel_2026_02_06_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Take time to discuss your plans with those you live with to ensure everyone is on the same page.",
+      "• If you live alone, reflect on your own intentions and how they align with your goals.",
+      "• Open communication can reveal others' needs or ideas that could enhance your plans.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical steps for the future."
+    ],
+    "love": [
+      "• Romance is in the air! You might meet someone special at a cozy gathering or party soon.",
+      "• Expect an instant connection that feels familiar; trust your instincts about this new person.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for love.",
+      "• Explore your unique path and personality; understanding yourself can lead to deeper connections."
+    ],
+    "health": [
+      "• Focus on your inner feelings and what you see lacking in the world around you.",
+      "• Consider drinking eyebright tea or eating foods rich in beta-carotene, like carrots and apricots, to boost your vision and trust in your insights.",
+      "• Your unique perspective can help others navigate tough situations, so share your thoughts confidently.",
+      "• Embrace your adventurous spirit while also staying grounded in the present and planning for the future."
+    ],
+    "career": [
+      "• It's okay to acknowledge that you're facing challenges in your career; honesty about your situation is the first step to improvement.",
+      "• Seek advice and support from others, but remember that your happiness ultimately depends on your own actions and choices.",
+      "• Embrace your adventurous spirit while focusing on practical planning for your career's future success.",
+      "• Explore your unique talents and motivations to unlock your true potential and find fulfillment in your career journey."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
