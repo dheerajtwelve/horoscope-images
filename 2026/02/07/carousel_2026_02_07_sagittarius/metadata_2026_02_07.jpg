@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-07T09:49:03.024236",
+  "date_folder": "carousel_2026_02_07_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Focus on your physical and mental health today; don’t neglect them as they are interconnected.",
+      "• Avoid overworking your mind, as it can impact your physical well-being.",
+      "• Be aware of signs like weight gain or stress; they indicate an imbalance in your life.",
+      "• Embrace your adventurous spirit while making practical plans for a balanced future."
+    ],
+    "love": [
+      "• Enjoy a calm and low-key love life right now; it suits your natural preferences.",
+      "• Take advantage of opportunities to meet new people and engage in fun social activities.",
+      "• Be open to warm connections that cater to your deeper emotional needs.",
+      "• Stay optimistic, but remember to balance your adventurous spirit with practical planning for the future."
+    ],
+    "health": [
+      "• Embrace the change in your routine; now is the perfect time to try a new exercise or diet that you've been curious about.",
+      "• You will feel supported and safe in exploring these new health options, so take the leap!",
+      "• Remember to balance your adventurous spirit with practical plans for your health and wellness.",
+      "• Use this opportunity to discover more about yourself and how these changes can enhance your unique life path."
+    ],
+    "career": [
+      "• Be open to feedback from colleagues, even if it feels challenging at first; they may be offering valuable insights.",
+      "• Embrace different perspectives and use them to enhance your personal and professional growth.",
+      "• Stay optimistic and adventurous, but remember to create practical plans for your future.",
+      "• Explore your unique talents and motivations to find your true career path; consider a Birth Chart reading for deeper insights."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
