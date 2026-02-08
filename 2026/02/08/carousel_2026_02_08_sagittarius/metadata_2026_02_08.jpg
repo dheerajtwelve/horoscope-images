@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-08T10:22:52.335547",
+  "date_folder": "carousel_2026_02_08_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Get active today to boost your health; try sports or take your dog for a walk.",
+      "• Gardening and lawn care are great ways to stay engaged and fit.",
+      "• Physical activity can help reduce stress and give you a sense of achievement.",
+      "• Embrace your adventurous spirit while staying grounded in the present and planning for the future."
+    ],
+    "love": [
+      "• Today, you may meet someone intriguing who sparks your curiosity and invites you to explore deeper connections.",
+      "• Remember, not all knowledge comes from conversation; explore different ways to communicate and understand each other.",
+      "• Embrace your adventurous spirit, but stay grounded by making practical plans for your future together.",
+      "• Your natural curiosity and optimism can lead to exciting discoveries in love—keep exploring the mysteries of your connection!"
+    ],
+    "health": [
+      "• Focus on developing good habits today to support your future vision.",
+      "• Incorporate spirulina, chlorella, and other blue-green algae into your diet for better health.",
+      "• Engage in sports like tennis to enhance your hand-eye coordination and overall fitness.",
+      "• Embrace your adventurous spirit while staying grounded in the present and making practical plans."
+    ],
+    "career": [
+      "• You are in a job you enjoy, but it's okay to question the direction your employer is taking.",
+      "• Share your thoughts openly; your opinions will be valued and respected.",
+      "• Embrace your adventurous spirit while also focusing on practical plans for your future.",
+      "• Consider exploring your unique talents and motivations through your Birth Chart for deeper insights."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
