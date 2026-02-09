@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-09T10:08:28.494778",
+  "date_folder": "carousel_2026_02_09_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is a great day to finish a creative project you've been working on; you might be pleasantly surprised by the results.",
+      "• Seek feedback from friends or colleagues, as their insights can help you identify strengths and areas for improvement.",
+      "• Embrace your adventurous spirit while staying grounded in the present and planning for the future.",
+      "• Remember, your optimistic nature is a gift; use it to explore new opportunities and deepen your understanding of yourself."
+    ],
+    "love": [
+      "• Take a moment to reflect on your words and how they affect your love life; honesty is key to navigating romantic situations.",
+      "• If you notice any insincerity in your communication, strive to express your true feelings more openly.",
+      "• Embrace your adventurous and charismatic nature, as it attracts positive connections and experiences in love.",
+      "• Remember to balance your optimism with practical planning for the future to create lasting relationships."
+    ],
+    "health": [
+      "• Embrace simplicity today by following a straightforward health plan that includes eating fresh foods.",
+      "• Take care of your joints with gentle exercises like yoga or swimming, and consider a relaxing sauna afterward.",
+      "• Prioritize getting to bed early to recharge and prepare for your next adventure.",
+      "• Remember to balance your adventurous spirit with practical planning for your health and well-being."
+    ],
+    "career": [
+      "• Your strong physical energy will help you tackle long and challenging projects, so use it wisely to stay focused.",
+      "• Concentrate on your own work rather than getting distracted by others' tasks for better results.",
+      "• Embrace your adventurous spirit and optimism while remembering to make practical plans for your future.",
+      "• Explore your unique talents and motivations through your Birth Chart to discover your true career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
