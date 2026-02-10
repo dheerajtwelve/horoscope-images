@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-10T10:23:42.270939",
+  "date_folder": "carousel_2026_02_10_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Take a break from your daily routine and spend some quality time with your partner to recharge.",
+      "• Share your exciting new opportunities with your loved one, as their input is valuable.",
+      "• Choose your words wisely to inspire enthusiasm and positivity in your conversations.",
+      "• Embrace your adventurous spirit, but remember to focus on practical plans for the future."
+    ],
+    "love": [
+      "• Today is a great day to show your unique personality; don’t worry about how others will perceive you.",
+      "• If you want to communicate with a loved one or someone special, try an unconventional approach to get your message across.",
+      "• Embrace your adventurous spirit and take risks in love, but remember to stay grounded in the present.",
+      "• Reflect on your personal journey and explore what makes you special; it can lead to deeper connections in your relationships."
+    ],
+    "health": [
+      "• Embrace new experiences today and pay attention to how they make you feel emotionally.",
+      "• Use your foresight to understand how your choices will affect your well-being.",
+      "• Stick to your healthy diet and exercise routine to support your overall health.",
+      "• Balance your adventurous spirit with practical planning for a fulfilling future."
+    ],
+    "career": [
+      "• Use your strong mental clarity in the morning to tackle important tasks and decisions effectively.",
+      "• Be prepared for uncertainty in the afternoon; it’s okay to take a step back and reassess your options.",
+      "• Embrace your adventurous spirit, but remember to balance risk-taking with practical planning for your future.",
+      "• Explore your unique talents and motivations through a personalized Birth Chart to unlock your true potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
