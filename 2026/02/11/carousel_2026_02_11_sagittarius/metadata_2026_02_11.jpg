@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-11T10:10:47.127076",
+  "date_folder": "carousel_2026_02_11_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Don't hesitate to ask a friend for help with any overwhelming financial paperwork today; their advice could be valuable.",
+      "• Stay open to financial opportunities that may come your way, and allow yourself to dream big about what you want.",
+      "• When a windfall arrives, make sure to balance your dreams with practical planning for your future.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and focused on the present."
+    ],
+    "love": [
+      "• Today's date may bring nerves on your date, so be prepared for some deeper conversations instead of light chatting.",
+      "• Don't be discouraged; use this opportunity to explore your feelings and gain insights into your relationship.",
+      "• Remember your adventurous spirit and keep an optimistic outlook, even if the date isn't going as planned.",
+      "• Focus on living in the moment while also making practical plans for your future together."
+    ],
+    "health": [
+      "• Focus on the quality of your friendships; choose your friends wisely to support your well-being.",
+      "• Hold off on sharing your thoughts until you're ready; this will enhance your communication.",
+      "• Use exercise time to think through relationship issues and clarify what you want to express.",
+      "• Embrace your adventurous spirit while balancing optimism with practical plans for a healthy future."
+    ],
+    "career": [
+      "• Expect some technical difficulties with gadgets in the coming weeks; be prepared for potential breakdowns.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make realistic plans for your career.",
+      "• Use your natural curiosity and philosophical mindset to explore new opportunities that align with your unique talents.",
+      "• Take this time to reflect on your life path and consider how your skills can lead you to greater success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
