@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-12T10:06:03.962891",
+  "date_folder": "carousel_2026_02_12_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be aware of stubbornness today; it may slow down your progress. Stay flexible and open-minded.",
+      "• Avoid feelings of guilt or regret; they won't help you move forward. Focus on positive thoughts instead.",
+      "• If negativity surrounds you, it’s okay to step away and seek a better environment. Protect your peace.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for the future."
+    ],
+    "love": [
+      "• Today may bring up sensitive feelings in your love life; take time to acknowledge them without fear.",
+      "• It's okay to feel sentimental, but don't let your emotions overwhelm you; find a balance.",
+      "• Embrace your adventurous spirit and optimism, but remember to make practical plans for your future.",
+      "• Use your natural curiosity to explore your feelings and relationships; this can lead to personal growth."
+    ],
+    "health": [
+      "• Today, you'll have a strong ability to understand others' feelings, which can enhance your relationships.",
+      "• To better understand your own emotions, consider discussing them with someone you trust.",
+      "• Keeping a dream journal can help unlock your hidden feelings and provide insights into your life path.",
+      "• Remember to stay optimistic and adventurous, but also focus on practical planning for your future."
+    ],
+    "career": [
+      "• Your calm and thoughtful approach will help others navigate through confusion at work.",
+      "• Use your ability to be a voice of reason to guide your colleagues during tough times.",
+      "• Embrace your adventurous spirit while also making practical plans for your career growth.",
+      "• Explore your unique talents and motivations by understanding your Birth Chart for better insights."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
