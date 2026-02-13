@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-13T10:03:52.107929",
+  "date_folder": "carousel_2026_02_13_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be prepared for some surprising opinions from friends today; stay calm and open-minded.",
+      "• Encourage discussions to clarify any rumors or misinformation you hear; the truth may be more positive than expected.",
+      "• Embrace your adventurous and optimistic spirit, but remember to stay grounded in the present.",
+      "• Use today as an opportunity to explore your unique life path and make practical plans for your future."
+    ],
+    "love": [
+      "• Today is a great day for meeting new people and expanding your social circle. Enjoy the interesting connections you make.",
+      "• One person you meet may have valuable lessons to share, so be open to learning from them.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for the future.",
+      "• Your natural curiosity as a Sagittarius can lead to deeper connections—explore the mysteries of love with an open heart."
+    ],
+    "health": [
+      "• Focus on building your self-esteem independently, rather than relying on the approval of others to feel good about yourself.",
+      "• Prioritize your health by exercising regularly, eating nutritious foods, and ensuring you get enough rest.",
+      "• If you're having trouble sleeping, try brewing chamomile tea before bed to help you relax.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your future health and well-being."
+    ],
+    "career": [
+      "• Embrace confrontation today instead of avoiding it; facing difficult issues will ultimately save you energy.",
+      "• Use your natural charisma and adventurous spirit to tackle challenges head-on in your career.",
+      "• Stay optimistic, but remember to focus on practical plans that will help you succeed in the future.",
+      "• Explore your unique talents and ambitions through your Birth Chart to unlock your true potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
