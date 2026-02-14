@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-14T09:52:17.532432",
+  "date_folder": "carousel_2026_02_14_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect a busy day filled with important business communications that may involve your goals or those of friends.",
+      "• Embrace the positive energy and feel the optimism as success is on the horizon.",
+      "• Remember to take breaks to avoid exhaustion; you'll need your energy for tomorrow.",
+      "• Stay grounded and focus on practical plans for the future while exploring your adventurous side."
+    ],
+    "love": [
+      "• Take your time before starting a new relationship; think about your future and what you truly want.",
+      "• Focus on personal growth and future potential to attract a partner who aligns with your goals.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for love.",
+      "• Explore your unique personality and life path to enhance your understanding of yourself in relationships."
+    ],
+    "health": [
+      "• Stay focused on your goals and use your determination to overcome any fears that hold you back.",
+      "• Take time today to evaluate your health needs and ensure they fit into your daily routine.",
+      "• Make sure you have healthy food available and prioritize regular exercise and good sleep.",
+      "• Embrace your adventurous spirit while also being practical about your health and well-being."
+    ],
+    "career": [
+      "• A powerful connection may bring you an exciting job opportunity today, so stay open to new possibilities.",
+      "• Show your reliability and stability to impress this influential person and secure the offer.",
+      "• Financial rewards could be significant, so be ready to embrace this chance.",
+      "• Remember to balance your adventurous spirit with practical planning for your career future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
