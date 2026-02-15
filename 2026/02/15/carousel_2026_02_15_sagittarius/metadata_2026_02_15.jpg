@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-15T10:04:52.632281",
+  "date_folder": "carousel_2026_02_15_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your home may need some attention today; consider working together with your household members to tackle tasks.",
+      "• Engage in a thorough cleaning or address any major repairs, but know your limits with plumbing or electrical issues.",
+      "• Don't hesitate to call a professional if the repairs seem too complicated; it's better to get expert help.",
+      "• Embrace your adventurous spirit while also making sure to plan practically for both the present and the future."
+    ],
+    "love": [
+      "• Today is a great day to connect with someone special; take the initiative and start the conversation.",
+      "• Don't wait for others to approach you; be proactive to make progress in your love life.",
+      "• Embrace your adventurous and charismatic nature, as it will attract others to you.",
+      "• Remember to balance your optimism with practical planning for a successful future in love."
+    ],
+    "health": [
+      "• Take time to reflect on your health habits and see if they are truly benefiting you.",
+      "• Consider what your diet may need to enhance your well-being, like more water or fresh produce.",
+      "• Pay attention to your body’s signals; it knows what you need for better health.",
+      "• Embrace your adventurous spirit while also making practical plans for a healthy future."
+    ],
+    "career": [
+      "• Combine your creativity with technology to stand out in your career.",
+      "• Use your artistic and imaginative skills to innovate in your field.",
+      "• Stay optimistic but remember to make practical plans for the future.",
+      "• Explore your unique talents and motivations through your Birth Chart for deeper insights."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
