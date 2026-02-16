@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-16T10:08:02.698163",
+  "date_folder": "carousel_2026_02_16_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may feel more irritated than usual with the quirks of those around you, so try to stay calm and centered.",
+      "• Make an effort to be your warm and friendly self despite any tension you might encounter today.",
+      "• Remember that no lasting conflicts are likely; focus on maintaining good relationships.",
+      "• Embrace your adventurous spirit, but also take time to make practical plans for your future."
+    ],
+    "love": [
+      "• Dress to impress on your date by choosing an outfit that reflects your unique personality and makes a bold statement.",
+      "• A captivating scent paired with engaging conversation can create a memorable impression and enhance your romantic connection.",
+      "• Embrace your adventurous spirit but remember to balance your optimism with practical plans for the future.",
+      "• Explore your unique life path and personality to better understand yourself and strengthen your relationships."
+    ],
+    "health": [
+      "• Prioritize deep relaxation in your routine to help ease any underlying anxiety and rejuvenate your spirit.",
+      "• Consider incorporating massages, steam baths, or saunas into your health regimen for effective stress relief.",
+      "• Take time to reflect on what you’ve done for yourself recently and ensure you are nurturing your well-being.",
+      "• Embrace your natural optimism and adventurous spirit while also focusing on practical plans for a balanced future."
+    ],
+    "career": [
+      "• Seek advice from younger colleagues; they can offer fresh perspectives that may help solve your challenges.",
+      "• Embrace the wisdom found in youth; it can lead to the results you desire in your career.",
+      "• Balance your adventurous spirit with practical planning to ensure a successful future.",
+      "• Explore your unique talents and ambitions through your Birth Chart for deeper career insights."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
