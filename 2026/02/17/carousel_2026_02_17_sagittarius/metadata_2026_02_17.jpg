@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-17T10:01:26.812341",
+  "date_folder": "carousel_2026_02_17_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Enjoy a romantic day filled with warmth and affection; your partner likely feels the same way.",
+      "• Plan a special dinner with champagne, candlelight, and red roses to enhance your connection.",
+      "• Embrace your adventurous spirit but remember to stay grounded and make practical plans for the future.",
+      "• Keep exploring life’s mysteries while appreciating the present moment; this balance will enrich your journey."
+    ],
+    "love": [
+      "• Today's mood might make your relationship seem more complicated than it truly is, so take a step back to gain perspective.",
+      "• Misunderstandings can arise from actions, so be clear in your communication to avoid unnecessary tension.",
+      "• Self-awareness is key; watch your reactions to prevent overreactions that might lead to conflict.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make realistic plans for your love life."
+    ],
+    "health": [
+      "• Embrace new health practices gradually to make the transition enjoyable and enlightening.",
+      "• Pay attention to the truth about your diet; small changes can lead to significant improvements.",
+      "• Explore where your food comes from to boost your awareness of healthy eating and the environment.",
+      "• Stay optimistic and adventurous, but remember to make practical plans for your health and future."
+    ],
+    "career": [
+      "• Believe in your abilities and present your work with confidence to make a positive impression on employers.",
+      "• Your attitude influences how others view you, so maintain a cheerful demeanor and express yourself with a smile.",
+      "• Embrace your adventurous spirit while also focusing on practical planning for your career future.",
+      "• Explore your unique talents and motivations through your Birth Chart to discover your ideal career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
