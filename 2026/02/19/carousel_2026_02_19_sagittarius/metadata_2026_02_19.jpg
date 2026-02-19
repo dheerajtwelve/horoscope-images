@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-19T10:01:48.524461",
+  "date_folder": "carousel_2026_02_19_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Embrace your passionate feelings today, but remember to be considerate of your partner's needs as well.",
+      "• Indulge in romantic activities like reading racy novels or watching exciting movies to enhance your mood.",
+      "• Don't hesitate to explore new avenues of pleasure; shopping for something special could be fun!",
+      "• Stay optimistic and adventurous, but also take some time to plan for your future while enjoying the present."
+    ],
+    "love": [
+      "• Embrace a fresh approach to relationships by focusing on personal charm and style over just words.",
+      "• Use your natural magnetism to attract others, as it can be more powerful than clever conversation.",
+      "• Recognize and utilize your unique strengths to enhance your love life and connections.",
+      "• Stay optimistic, but remember to live in the moment while planning for a fulfilling future."
+    ],
+    "health": [
+      "• It's okay not to have everything figured out; focus on forgiving yourself and embracing your imperfections.",
+      "• Don't let judgment distract you from following your intuition; trust yourself and your instincts.",
+      "• Prioritize your health by eating well, getting enough rest, and exercising regularly; start today!",
+      "• Embrace your adventurous spirit while also making practical plans for a fulfilling future."
+    ],
+    "career": [
+      "• Focus on clear communication and collaborate with those who resonate with you, rather than trying to understand confusing explanations.",
+      "• Embrace your adventurous spirit and be open to new opportunities that align with your unique path.",
+      "• Balance your optimistic nature with practical planning to achieve your career goals effectively.",
+      "• Explore your talents and motivations through your Birth Chart to gain deeper insights into your career journey."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
