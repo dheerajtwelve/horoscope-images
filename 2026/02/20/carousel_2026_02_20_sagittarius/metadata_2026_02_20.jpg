@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-20T09:57:33.451838",
+  "date_folder": "carousel_2026_02_20_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Don't let slow progress at work discourage you; it's just one of those days when things feel off.",
+      "• Keep your spirits up by surrounding yourself with humor, like a calendar with funny cartoons.",
+      "• Remember that even on tough days, your optimistic nature can help you navigate through challenges.",
+      "• Focus on the present and make practical plans for the future to stay aligned with your adventurous spirit."
+    ],
+    "love": [
+      "• Someone from your past may re-enter your life today, bringing surprises and changes.",
+      "• This encounter could spark a new chapter in your relationship, potentially benefiting both of you.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for the future.",
+      "• Stay open to exploring new connections and experiences that align with your unique personality."
+    ],
+    "health": [
+      "• Embrace the positive energy today by relaxing your mind and nourishing your body with fresh food and regular exercise.",
+      "• Consider practicing yoga to relieve any eye stress and help release stored energy in your body.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and make practical plans for the future.",
+      "• Explore your unique life path through self-discovery and enjoy the journey of understanding yourself better."
+    ],
+    "career": [
+      "• Don't let preparation slow you down; a slightly messy look is better than being late for work.",
+      "• Remember that you shine brighter than most, so embrace your unique style and confidence.",
+      "• Stay optimistic and adventurous, but also focus on practical steps to achieve your goals.",
+      "• Explore your talents and motivations to unlock your true potential and career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
