@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-21T09:47:41.306683",
+  "date_folder": "carousel_2026_02_21_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be prepared for a busy day at work with unexpected challenges coming your way. Stay calm and tackle them one at a time.",
+      "• Start your day with a positive mindset; a good cup of coffee and friendly support can make a difference.",
+      "• Trust in your ability to solve problems, as you have the skills and stamina to handle whatever arises.",
+      "• Remember to balance your adventurous spirit with practical planning for a fulfilling future."
+    ],
+    "love": [
+      "• Be aware of any emotional blockages in your close relationships, as recognizing them is the first step to improvement.",
+      "• Don't be afraid to express your feelings; sharing your emotions can bring positive change.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your relationship.",
+      "• Use your natural curiosity as a tool to explore and deepen your connections with others."
+    ],
+    "health": [
+      "• Recognize the tension between your desires and needs; it's important to address this inner struggle.",
+      "• Engage in aerobic exercise to help release stress and balance your emotions.",
+      "• Stay optimistic and adventurous, but remember to focus on practical plans for your well-being.",
+      "• Explore your unique life path through self-discovery; understanding yourself can enhance your health journey."
+    ],
+    "career": [
+      "• Be honest and straightforward in your communication today to earn respect from others.",
+      "• Look people in the eye when speaking to show confidence and sincerity.",
+      "• Embrace your adventurous spirit but remember to make practical plans for your future.",
+      "• Explore your unique talents and motivations to unlock your true potential in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
