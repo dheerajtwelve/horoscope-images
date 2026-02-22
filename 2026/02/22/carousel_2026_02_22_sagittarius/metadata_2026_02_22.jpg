@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-22T10:00:38.892176",
+  "date_folder": "carousel_2026_02_22_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• A change of scene is coming your way, which may bring some chaos and confusion. Embrace it as an opportunity for growth.",
+      "• Your strong organizational skills will shine—take charge and lead those around you to help get things done.",
+      "• Focus on completing tasks efficiently; your determination will ensure everything is finished in record time.",
+      "• Remember to stay optimistic and grounded; balance your adventurous spirit with practical plans for the future."
+    ],
+    "love": [
+      "• Be clear in your communication with your partner to avoid misunderstandings; ensure your message is received as intended.",
+      "• Be cautious with feelings today, as they might be misleading; trust your instincts but stay grounded.",
+      "• Share your fantasies with your partner, but don't get too lost in them; keep a healthy balance.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for the future in your love life."
+    ],
+    "health": [
+      "• Consider cutting back on caffeine, as it may not be the best choice for your health.",
+      "• Explore herbal infusions like green tea as a healthier alternative.",
+      "• Boost your eye health by including fresh fruits and vegetables such as cantaloupe, cranberries, and blueberries in your diet.",
+      "• Embrace your adventurous spirit while also focusing on practical health choices for a balanced lifestyle."
+    ],
+    "career": [
+      "• Take your time in the morning; it may feel unproductive, so allow yourself to relax until the afternoon.",
+      "• Use the afternoon to focus on what truly matters and get back on track with your goals.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for your future.",
+      "• Explore your unique talents and motivations to find clarity on your career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
