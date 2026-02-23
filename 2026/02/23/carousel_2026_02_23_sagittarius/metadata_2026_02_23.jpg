@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-23T10:06:53.440366",
+  "date_folder": "carousel_2026_02_23_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may feel like staying at home today, possibly due to a delayed visitor or delivery.",
+      "• Use this time creatively to keep yourself engaged and make the waiting feel more fulfilling.",
+      "• Embrace your adventurous spirit but remember to balance it with practical plans for the future.",
+      "• Take a moment to explore your unique personality and life path – it can lead to exciting insights!"
+    ],
+    "love": [
+      "• An unexpected encounter could happen soon, bringing back fond memories of the past.",
+      "• This meeting will be different and may introduce you to exciting new activities and people.",
+      "• Embrace your adventurous spirit, but remember to stay present and plan for the future.",
+      "• Stay open to new experiences and let your natural curiosity guide you in love."
+    ],
+    "health": [
+      "• Pay attention to the gentle messages from the planets; they can guide you towards better health and happiness.",
+      "• Spend quality time with friends and consider going for walks instead of having coffee chats to boost your mood.",
+      "• Embrace what you truly want and need in life; this is essential for your overall well-being.",
+      "• Stay optimistic and adventurous, but remember to make practical plans for your future to maintain balance."
+    ],
+    "career": [
+      "• Stand up for yourself and show others that you won't be pushed around; your voice matters.",
+      "• Share your wonderful ideas confidently instead of keeping them to yourself.",
+      "• Embrace your adventurous spirit while making practical plans for your future.",
+      "• Explore your unique path and talents through your Birth Chart for deeper insights into your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
