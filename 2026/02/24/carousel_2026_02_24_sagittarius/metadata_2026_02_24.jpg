@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-24T10:00:59.004256",
+  "date_folder": "carousel_2026_02_24_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Embrace your creative side today by refreshing your home and making it a welcoming space for gatherings.",
+      "• Consider repainting or reupholstering furniture to enhance your environment and show off your style.",
+      "• Remember that your adventurous and optimistic spirit can lead to great things, so take risks but stay grounded in your plans.",
+      "• Explore your unique personality further to better understand your life path and the opportunities ahead."
+    ],
+    "love": [
+      "• Take time today to think about what you truly want in a relationship and reflect on your past experiences.",
+      "• A new person you meet may inspire you to consider your future love opportunities and desires.",
+      "• Aim to create an exciting and adventurous vision for your love life moving forward.",
+      "• Stay optimistic and open to risks, but remember to also focus on practical plans for a fulfilling future."
+    ],
+    "health": [
+      "• Pay attention to your body, as it will lead to positive changes both inside and outside.",
+      "• Enjoy the compliments you receive, as they will boost your self-esteem.",
+      "• Get involved in community efforts, like organic farming, to enhance your overall well-being.",
+      "• Stay optimistic, but remember to live in the present and plan wisely for the future."
+    ],
+    "career": [
+      "• When leading projects, be respectful of others' viewpoints to avoid misunderstandings.",
+      "• Stay mindful of your words to prevent unintentional mistakes in discussions.",
+      "• Embrace your adventurous spirit while making sure to plan practically for your future.",
+      "• Explore your unique talents and motivations to align your career with your true self."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
