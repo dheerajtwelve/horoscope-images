@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-25T10:02:33.688227",
+  "date_folder": "carousel_2026_02_25_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Check your messages today; you might receive exciting news from a friend or colleague that could lead to positive changes.",
+      "• A deal you've been waiting for may finally be finalized, or a romantic interest could show renewed affection.",
+      "• Embrace the good energy of the day and stay open to new opportunities that come your way.",
+      "• Remember to balance your adventurous spirit with practical planning for the future to make the most of your experiences."
+    ],
+    "love": [
+      "• This is a great time for social events; enjoy connecting with new friends to enrich your relationship.",
+      "• If you're single, wear purple to attract a fun-loving partner and share some jokes to break the ice.",
+      "• Embrace your adventurous and optimistic nature, but remember to focus on the present and plan for the future.",
+      "• Explore your unique personality and life path to enhance your relationships and personal growth."
+    ],
+    "health": [
+      "• Ensure your joints get enough exercise without too much strain, as staying active is vital for your health.",
+      "• Consider incorporating yoga into your routine; it helps strengthen your body, tone muscles, and improve flexibility.",
+      "• A consistent yoga practice can save you time and money in the long run while enhancing your overall well-being.",
+      "• Remember that taking preventative health measures is essential; prioritize your health to enjoy life to the fullest!"
+    ],
+    "career": [
+      "• Stay aware of potential manipulation in your career choices; trust your instincts to steer the situation in your favor.",
+      "• Remember, you are the ultimate decision-maker in your career; don’t let others influence your path.",
+      "• Embrace your adventurous and charismatic nature, but balance it with practical planning for a successful future.",
+      "• Explore your unique talents and motivations through your Birth Chart to gain deeper insights into your career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
