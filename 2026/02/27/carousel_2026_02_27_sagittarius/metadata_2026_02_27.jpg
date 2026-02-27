@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-27T09:56:17.353270",
+  "date_folder": "carousel_2026_02_27_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• A romantic revival is likely today, deepening your connection if you're already in a relationship.",
+      "• If you're single, expect a chance encounter with someone intriguing, possibly in the tech field.",
+      "• Take the time to look your best and stay open to unexpected opportunities.",
+      "• Remember to balance your adventurous spirit with practical plans for the future."
+    ],
+    "love": [
+      "• Be open to unexpected love; it may come suddenly and surprise you.",
+      "• Embrace the adventure of new relationships and enjoy the excitement they bring.",
+      "• Stay grounded by balancing your adventurous spirit with practical planning for the future.",
+      "• Keep exploring your personal growth and understand how it enhances your love life."
+    ],
+    "health": [
+      "• Take time for personal reflection to discover your inner truth and improve your well-being.",
+      "• Observe the positive behaviors of your friends and consider adopting them for your own health.",
+      "• Remember that you have the freedom to choose health practices that resonate with your unique life path.",
+      "• Stay optimistic and adventurous, but also focus on making practical plans for a healthy future."
+    ],
+    "career": [
+      "• You possess a unique skill that others appreciate, making you a valuable asset in resolving workplace disputes.",
+      "• Embrace your ability to bridge gaps between differing opinions, as it will be crucial in your work today.",
+      "• Stay optimistic and adventurous, but remember to focus on practical plans for your career and future.",
+      "• Explore your talents and motivations through your Birth Chart to unlock your unique career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
