@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-28T09:37:28.385056",
+  "date_folder": "carousel_2026_02_28_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Take it easy today as you might be feeling unwell due to recent overindulgence.",
+      "• Avoid taking your bad mood out on family; a little space can help you recharge.",
+      "• Expect to feel better by the afternoon, so give yourself time to recover.",
+      "• Remember to balance your adventurous spirit with practical plans for your future."
+    ],
+    "love": [
+      "• Be cautious today as things may seem unclear; trust your intuition when dealing with emotions.",
+      "• If someone shares their feelings, take a moment to assess if they truly resonate with you.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for the future.",
+      "• Keep exploring life's mysteries while staying grounded in the present moment for better connections."
+    ],
+    "health": [
+      "• Take time for yourself and prioritize your well-being; you can't help others if you don't care for yourself first.",
+      "• Be gentle with yourself and avoid harsh self-judgment; remember that responsibility is shared.",
+      "• Check in daily on your diet and exercise to stay on track with your health goals.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for a healthy future."
+    ],
+    "career": [
+      "• People are looking to you for guidance right now, so share your ideas confidently and take the lead.",
+      "• Embrace your natural charisma and adventurous spirit to showcase your value in the workplace.",
+      "• Stay optimistic but remember to make practical plans for your future to achieve your goals.",
+      "• Explore your unique talents and motivations to find the best path for your career growth."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
