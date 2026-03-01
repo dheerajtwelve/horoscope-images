@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-01T10:04:36.520415",
+  "date_folder": "carousel_2026_03_01_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• A long-held career dream may come true today, so stay open to the possibilities.",
+      "• Don’t let doubt and fear of disappointment block your success; embrace the good news.",
+      "• Celebrate your achievements and express gratitude to those who supported you on your journey.",
+      "• Remember to stay present and make practical plans for your future as you continue to grow."
+    ],
+    "love": [
+      "• Your partner may need a little nudge to embrace love today, so offer them some encouragement.",
+      "• Consider gifting something thoughtful, like a stylish phone or a book on love, to spark their interest.",
+      "• Remember to focus on the present and make practical plans for your relationship's future.",
+      "• Embrace your adventurous spirit and stay optimistic, as this will strengthen your connection with your partner."
+    ],
+    "health": [
+      "• This is a great time for a general body cleansing, which you should do at least once or twice a year.",
+      "• Stay hydrated by drinking plenty of water throughout the cleansing process.",
+      "• Consider a couple of days of strict dietary limitations, focusing on raw fruits and vegetables for a boost in energy.",
+      "• Listen to your body’s needs, as it can guide you to feel light, active, and energized."
+    ],
+    "career": [
+      "• Stay focused on your goals, even if distractions arise from others trying to provoke you.",
+      "• Avoid getting drawn into conflict; rise above negativity to maintain your peace.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for your future.",
+      "• Utilize your natural curiosity and philosophical mindset to explore new opportunities in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
