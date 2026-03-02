@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-02T09:57:40.689048",
+  "date_folder": "carousel_2026_03_02_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your energy is high today, but your thoughts may feel unclear—take a moment to clarify your ideas.",
+      "• Be prepared for pushback from someone; their reasons might not be as straightforward as they seem.",
+      "• Trust your self-confidence and stand up for yourself when needed; action is required on your part.",
+      "• Stay aware of potential trickery; carefully assess the situation before making any decisions."
+    ],
+    "love": [
+      "• You will meet someone exciting today who has intriguing ideas and a charming way of speaking.",
+      "• Be sure to listen as much as you talk; you might learn something valuable from them.",
+      "• Embrace your adventurous and optimistic spirit, but remember to stay grounded in the present.",
+      "• Keep an open mind and explore new perspectives to enrich your love life and personal growth."
+    ],
+    "health": [
+      "• Take this opportunity to break old habits and embrace new health practices for a brighter future.",
+      "• Consider making significant changes, like trying a vegetarian diet or adjusting your wake-up time.",
+      "• Start small with your new health goals and gradually build up to bigger changes.",
+      "• Stay optimistic and adventurous while also focusing on practical steps to improve your well-being."
+    ],
+    "career": [
+      "• Be prepared for changes from a trusted source; adapt your plans accordingly to stay on track.",
+      "• Take your time to reorganize the information and create a new strategy that works for you.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for your future.",
+      "• Explore your unique talents and motivations to guide you on your career path and achieve your goals."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
