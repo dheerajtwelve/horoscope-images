@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-03T09:57:03.219246",
+  "date_folder": "carousel_2026_03_03_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may need to postpone plans with friends or a partner due to work commitments, but don’t let this upset you.",
+      "• Remember, disappointing others happens and won’t affect your relationships in the long run.",
+      "• Focus on completing your professional tasks and make sure to schedule fun time later.",
+      "• Embrace your adventurous spirit and remain optimistic while balancing your present actions with future plans."
+    ],
+    "love": [
+      "• Today is a great day to understand the boundaries in your close relationship and see how they can be expanded with your partner.",
+      "• You don't need to make drastic changes, but refining how you interact can strengthen your connection.",
+      "• Embrace your adventurous and optimistic nature as you navigate love, but remember to stay grounded in the present.",
+      "• Take time to explore your unique personality and life path, as this self-awareness can enhance your relationships."
+    ],
+    "health": [
+      "• Take time to understand your own desires and needs; this self-reflection is crucial for personal growth.",
+      "• Engage in disciplined exercises like swimming and running to boost both your physical strength and self-esteem.",
+      "• Share your true self with others to foster deeper connections and help them understand you better.",
+      "• Stay optimistic while balancing your adventurous spirit with practical planning for a healthy future."
+    ],
+    "career": [
+      "• Your ideas are valuable, even if others don’t fully understand them; trust your vision.",
+      "• Be aware that communication with others may be challenging in the next three weeks; stay patient.",
+      "• Focus on discovering what makes you unique, as it will guide your career path.",
+      "• Embrace your adventurous spirit but remember to balance optimism with practical planning for your future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
