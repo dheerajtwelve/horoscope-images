@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-04T09:50:27.215643",
+  "date_folder": "carousel_2026_03_04_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect unexpected changes in your love life today; surprising propositions may come from your partner or a new romantic interest could appear.",
+      "• If you're in a relationship, be open to new possibilities and discussions about the future.",
+      "• Take some time to present yourself well, even for simple outings; you never know who you might meet!",
+      "• Embrace your adventurous spirit but remember to stay grounded and make practical plans for your future."
+    ],
+    "love": [
+      "• Embrace the challenge of connecting with someone who seems resistant to your charm; it can lead to exciting discoveries.",
+      "• Use your creativity and intelligence to find new ways to approach this person and ask them out.",
+      "• Remember to balance your adventurous spirit with practical plans for the future in your love life.",
+      "• Stay optimistic and open-minded; your natural charisma can help you navigate any romantic puzzles that come your way."
+    ],
+    "health": [
+      "• Stick to a health routine to help balance your adventurous spirit and stay grounded in the present.",
+      "• Focus on eating healthy foods and staying hydrated for better overall well-being.",
+      "• Remember that your health is your responsibility; take charge and make positive choices.",
+      "• Embrace your optimistic nature, but also plan practically for your future health goals."
+    ],
+    "career": [
+      "• Now is the time to pursue your ideas with confidence; don't hold back on your commitment.",
+      "• Embrace your adventurous spirit and take calculated risks in your career.",
+      "• Focus on living in the present while also making practical plans for your future.",
+      "• Explore your unique talents and motivations through your Birth Chart for deeper insights."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
