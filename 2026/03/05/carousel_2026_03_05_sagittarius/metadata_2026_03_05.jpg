@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-05T09:54:21.387856",
+  "date_folder": "carousel_2026_03_05_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Step up your leadership game by planning a fun trip with friends that you’ve been thinking about.",
+      "• Embrace your natural ability to guide others; people will look to you for positive energy and direction.",
+      "• Consider asking for more responsibility and a raise at work, as now is a good time to advocate for yourself.",
+      "• Stay adventurous, but remember to balance your optimism with practical plans for the future."
+    ],
+    "love": [
+      "• Today is a great chance to learn new things that can boost both your career and romantic life.",
+      "• Find activities that excite you to attract someone who shares your enthusiasm.",
+      "• Embrace your adventurous spirit and optimism, but remember to stay grounded in the present.",
+      "• Focus on making practical plans for your future while exploring the mysteries of love."
+    ],
+    "health": [
+      "• Reduce your black tea and coffee intake to help maintain good vision.",
+      "• Strengthen your eyesight by drinking tea brewed with eyebright herb.",
+      "• Include foods rich in beta carotene, like carrots and apricots, for better night vision.",
+      "• Stay present and make practical plans while embracing your adventurous spirit."
+    ],
+    "career": [
+      "• Reflect on your long-term goals to gain clarity about your career path.",
+      "• Stay grounded and adopt a realistic view of your current situation for better success.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for the future.",
+      "• Explore your unique talents and motivations to unlock your full potential in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
