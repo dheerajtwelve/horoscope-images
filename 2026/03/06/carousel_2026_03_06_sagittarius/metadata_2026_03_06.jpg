@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-06T09:51:16.957885",
+  "date_folder": "carousel_2026_03_06_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be aware of others' feelings today; a selfish attitude may create unnecessary tension.",
+      "• Listen and offer support to those around you who may need to talk or share their feelings.",
+      "• Embrace your adventurous spirit, but remember to focus on practical plans for the future.",
+      "• Stay optimistic while also being mindful of the present; balance exploration with responsibility."
+    ],
+    "love": [
+      "• Communication with your partner may be challenging today; be patient and try different ways to express your thoughts.",
+      "• Focus on understanding each other rather than getting frustrated; this can strengthen your bond.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for the future.",
+      "• Stay optimistic and keep exploring the mysteries of love; your natural curiosity will lead to growth in your relationships."
+    ],
+    "health": [
+      "• Show affection to your loved ones today; they need your verbal and physical appreciation more than you think.",
+      "• Treat yourself well by starting your day with a healthy breakfast full of fresh fruits and whole grains.",
+      "• Keep nourishing your body throughout the day with fresh fruits, vegetables, and a source of protein in one meal.",
+      "• Stay hydrated by drinking plenty of water; this will boost your energy and overall well-being."
+    ],
+    "career": [
+      "• Stay focused on the truth today; don't overanalyze situations, as simplicity will guide you.",
+      "• Embrace your adventurous and optimistic spirit, but remember to plan practically for your future.",
+      "• Use your natural curiosity to explore new opportunities in your career and personal growth.",
+      "• Consider getting your Birth Chart to better understand your unique talents and motivations."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
