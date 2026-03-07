@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-07T09:42:30.097431",
+  "date_folder": "carousel_2026_03_07_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Apply the advice you give to others to your own life for better results.",
+      "• Lead by example; people respect those who follow their own standards.",
+      "• Be open to feedback when guiding others, as it can help you grow.",
+      "• Embrace your adventurous spirit while making practical plans for the future."
+    ],
+    "love": [
+      "• Consider experimenting with your relationships to gain new insights and clarity.",
+      "• Tune into your future self to understand the potential paths you can take in love.",
+      "• Embrace your adventurous spirit while being mindful of living in the present.",
+      "• Use your natural curiosity to explore and find what truly resonates with your heart."
+    ],
+    "health": [
+      "• Make sure to balance your social life with quiet time to focus on your personal needs and goals.",
+      "• Consider combining thought with physical activity, such as running or walking, to enhance your mental clarity.",
+      "• Regular exercise can help you reflect and organize your thoughts, giving you a break from social interactions.",
+      "• Embrace your adventurous spirit, but remember to stay present and plan practically for a healthy future."
+    ],
+    "career": [
+      "• Positive energy is returning today, making it a great time to move forward in your career.",
+      "• Feel confident in investing in tools or equipment; they are less likely to fail now.",
+      "• Embrace your adventurous spirit while ensuring you also focus on practical plans for the future.",
+      "• Explore your unique talents and motivations through your Birth Chart for deeper career insights."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
