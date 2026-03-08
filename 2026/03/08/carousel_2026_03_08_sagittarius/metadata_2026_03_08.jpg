@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-08T09:54:29.676454",
+  "date_folder": "carousel_2026_03_08_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Embrace your romantic mood today and enjoy the attention you attract from others.",
+      "• Consider indulging in racy novels or movies to spark your imagination.",
+      "• Spend quality time with your special person this evening for a meaningful connection.",
+      "• Take a moment to style your hair and present your best self to the world."
+    ],
+    "love": [
+      "• Today is a great day to persuade someone special, but try a unique approach instead of your usual tactics.",
+      "• Research unusual topics that interest them to spark engaging conversations.",
+      "• Embrace your adventurous and charismatic nature while staying optimistic about love.",
+      "• Remember to focus on the present and make practical plans for the future in your romantic life."
+    ],
+    "health": [
+      "• Embrace your adventurous spirit today by exploring new ideas and engaging in creative activities.",
+      "• To truly understand others, focus on observing their feelings rather than just speculating.",
+      "• Balance your emotions by pursuing art projects or joining a music group to stay grounded.",
+      "• Remember to live in the present while making practical plans for your future adventures."
+    ],
+    "career": [
+      "• Enjoy a lighthearted and flexible atmosphere at work for the next four weeks, making it easier to collaborate and innovate.",
+      "• Embrace your adventurous and charismatic nature, as it can lead to exciting opportunities in your career.",
+      "• Remember to balance your optimism with practical planning to ensure your long-term success.",
+      "• Explore your unique talents and ambitions to uncover the best path for your career growth."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
