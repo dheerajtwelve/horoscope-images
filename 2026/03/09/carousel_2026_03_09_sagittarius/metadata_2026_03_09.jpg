@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-09T10:00:38.586822",
+  "date_folder": "carousel_2026_03_09_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Take action today as you may feel pulled in different directions by friends and exciting opportunities.",
+      "• Prioritize your projects wisely; focus on what truly captures your interest to avoid feeling overwhelmed.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for the future.",
+      "• Explore new ideas and experiences, as your philosophical nature can lead to personal growth and discovery."
+    ],
+    "love": [
+      "• Attend social events to meet someone special; you may find a unique connection that stands out from typical dates.",
+      "• Be open to new ideas and perspectives; this person may challenge your usual way of thinking.",
+      "• Embrace your adventurous spirit and optimism, but remember to stay grounded in the present moment.",
+      "• Use this opportunity to reflect on your personal journey and explore what truly makes you unique."
+    ],
+    "health": [
+      "• Stay connected with your friends to avoid feeling overwhelmed; consider creative ways to reach out to those you haven't heard from in a while.",
+      "• Remember that life is richer with social connections; nurturing these relationships can enhance your well-being.",
+      "• Embrace your adventurous spirit, but balance it with practical planning to ensure a healthy future.",
+      "• Keep exploring new ideas and philosophies, as they can contribute positively to your mental and emotional health."
+    ],
+    "career": [
+      "• Don't hesitate to start a new project or idea that excites you; others will likely join in and support you.",
+      "• Embrace the support around you as you pursue what you believe in; now is the time to take action.",
+      "• Use your adventurous spirit to explore new opportunities, but remember to stay grounded and make practical plans.",
+      "• Discover your unique path through your Birth Chart to better understand your talents and motivations in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
