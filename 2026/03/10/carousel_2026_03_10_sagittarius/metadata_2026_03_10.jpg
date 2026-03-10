@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-10T09:52:18.287530",
+  "date_folder": "carousel_2026_03_10_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You have a lot of energy today, so use it wisely to avoid conflicts with loved ones.",
+      "• If you feel overwhelmed, try going for a long run to help release some tension.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for your future.",
+      "• Continue exploring life’s mysteries, as your natural curiosity is one of your greatest strengths."
+    ],
+    "love": [
+      "• If you're feeling unhappy in your relationship, take some time to reflect on what you truly want.",
+      "• It's okay to consider moving on, but be sure to weigh your options carefully before making a decision.",
+      "• Embrace your adventurous spirit, but also focus on being present and making practical plans for the future.",
+      "• Trust your instincts and explore what makes you happy; your unique path will guide you to fulfillment."
+    ],
+    "health": [
+      "• Take your time between activities to regroup and assess your needs, which can greatly enhance your health.",
+      "• Avoid rushing; it can lead to losing your sense of purpose and regretting wasted time.",
+      "• Pay attention to your food choices by allowing yourself enough time to recognize what you truly want.",
+      "• Embrace your adventurous spirit, but remember to stay present and make practical plans for your well-being."
+    ],
+    "career": [
+      "• Your creative and grounded thinking will lead to success at work, so trust your ideas.",
+      "• Don’t let bullies discourage you; your fresh perspective is valuable, even if you’re newer to the role.",
+      "• Embrace your adventurous spirit while making practical plans for the future to achieve your goals.",
+      "• Explore your unique talents and motivations through your Birth Chart to unlock your full potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
