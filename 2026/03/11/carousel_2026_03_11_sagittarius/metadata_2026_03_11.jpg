@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-11T09:52:26.838688",
+  "date_folder": "carousel_2026_03_11_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Reflect on your boundaries today and consider what they mean for you personally.",
+      "• Have an honest conversation with yourself about setting limits in your life.",
+      "• Prioritize your health and relationships by learning to say no when necessary.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future."
+    ],
+    "love": [
+      "• You may have a strong admirer today who is very eager to win your affection.",
+      "• Consider how you feel about their attention; it could lead to a meaningful connection.",
+      "• If you enjoy their pursuit, embrace the moment and see where it takes you.",
+      "• Stay grounded and make sure to balance adventure with practical planning for your future."
+    ],
+    "health": [
+      "• Take time for yourself to understand your feelings and thoughts about the world.",
+      "• Engage in sports like running, swimming, hiking, or biking to make the most of your personal time.",
+      "• Build healthy habits that cater to your needs for a happier, more fulfilling life.",
+      "• Embrace your adventurous spirit while staying present and planning for the future."
+    ],
+    "career": [
+      "• You've reached a comfortable spot in your career, but don't let complacency hold you back.",
+      "• It's time to push yourself further and seek new opportunities for growth.",
+      "• Embrace your adventurous spirit and use it to explore your unique life path.",
+      "• Stay optimistic while making practical plans for your future success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
