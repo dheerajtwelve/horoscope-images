@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-12T09:56:08.875117",
+  "date_folder": "carousel_2026_03_12_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your vibrant energy will attract others today, so embrace it by inviting friends to join in on creative and adventurous activities.",
+      "• Remember to stay grounded; pride is great, but don't let it turn into arrogance.",
+      "• Focus on living in the moment while also making practical plans for your future.",
+      "• Explore your unique life path and personality to enhance your understanding of yourself and the world around you."
+    ],
+    "love": [
+      "• Enjoy a romantic evening; the planets are aligning for a special date or event.",
+      "• Choose subtle, muted colors for your outfit to create a more alluring vibe.",
+      "• Soften your voice to add an air of mystery and charm to your interactions.",
+      "• Embrace your adventurous spirit, but remember to stay present and plan for the future."
+    ],
+    "health": [
+      "• Reflect on your health habits from the past few months and identify areas for improvement.",
+      "• Consider switching to a water delivery service for convenience and cost savings on bottled water.",
+      "• Explore joining a local organic produce club for fresh, affordable options delivered to your home.",
+      "• Embrace your adventurous spirit while making practical plans for a healthier year ahead!"
+    ],
+    "career": [
+      "• Make time for physical exercise, as it will boost your energy and productivity at work.",
+      "• Enjoy the outdoors; even a short walk can help clear your mind and improve focus.",
+      "• Embrace your adventurous spirit, but remember to balance risk-taking with practical planning for your career.",
+      "• Explore your unique talents and motivations through your Birth Chart to find your true path in life."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
