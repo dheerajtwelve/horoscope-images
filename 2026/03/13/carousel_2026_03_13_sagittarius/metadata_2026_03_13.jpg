@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-13T09:54:52.307391",
+  "date_folder": "carousel_2026_03_13_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Embrace your strength and charisma today; you may feel more vibrant and confident than usual.",
+      "• Expect exciting invitations and social opportunities that could boost your popularity.",
+      "• New acquaintances may lead to expanded career options and a fresh start in life.",
+      "• Stay optimistic, but remember to focus on the present and make practical plans for your future."
+    ],
+    "love": [
+      "• Don't stress about being prepared for changes in your love life; just focus on taking action when opportunities arise.",
+      "• Conversations are important, but real progress comes from putting your plans into action.",
+      "• Embrace the fearless energy today to achieve amazing things in your relationships.",
+      "• Stay optimistic and adventurous, but remember to live in the moment and make practical future plans."
+    ],
+    "health": [
+      "• Focus on your well-being today; it's time to prioritize yourself.",
+      "• Don't forget to take a break from saving the world and enjoy a good workout.",
+      "• Listen to your body and pay attention to what it needs for better health.",
+      "• Embrace your adventurous spirit while making practical plans for your future."
+    ],
+    "career": [
+      "• Don't shy away from confrontation; being assertive can lead to positive outcomes in your career.",
+      "• Embrace your adventurous spirit and use it to explore new opportunities that align with your goals.",
+      "• Balance your optimism with practical planning to ensure a successful future in your professional life.",
+      "• Trust in your unique talents and motivations to guide you towards a fulfilling career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
