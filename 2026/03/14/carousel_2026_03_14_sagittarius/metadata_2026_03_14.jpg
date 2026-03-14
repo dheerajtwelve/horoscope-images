@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-14T09:52:53.284689",
+  "date_folder": "carousel_2026_03_14_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Emotions are heightened today, so it’s wise to avoid arguments and conflicts.",
+      "• If you seek advice from others, be prepared for a lot of input—consider keeping your thoughts to yourself.",
+      "• Spend some time alone tonight with a good book to recharge and reflect.",
+      "• Tomorrow will bring a calmer atmosphere, so take today to focus on your own peace and well-being."
+    ],
+    "love": [
+      "• A sudden realization today can help you understand your relationship better and identify the root of recent conflicts.",
+      "• This new clarity will guide you towards finding effective solutions to improve your connection.",
+      "• Embrace your adventurous spirit, but remember to focus on the present and make practical plans for the future.",
+      "• Your natural curiosity can enhance your love life, so keep exploring and communicating openly with your partner."
+    ],
+    "health": [
+      "• Consider eating fish more often than red meat for better health, as fish oil is great for your nails and hair.",
+      "• Incorporate lighter foods like fresh vegetables, bean curd, soy products, and herbal tea into your diet for overall wellness.",
+      "• Even small changes, like substituting fish or tofu once a week, can lead to long-term benefits for your health.",
+      "• Embrace your adventurous spirit by trying new recipes and exploring healthy eating options that align with your unique personality."
+    ],
+    "career": [
+      "• Expect some lingering tension at work, but it will ease by the afternoon, bringing a better atmosphere.",
+      "• Communication may be challenging, so be prepared to find alternative ways to express your ideas.",
+      "• Embrace your adventurous spirit while also focusing on practical plans for your future.",
+      "• Use your natural curiosity to explore new opportunities that align with your unique talents and ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
