@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-15T10:25:13.646257",
+  "date_folder": "carousel_2026_03_15_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect some communication issues at work today; remain patient and try to stay positive.",
+      "• A co-worker may be unapproachable, so choose your words wisely to avoid misunderstandings.",
+      "• Don't stress if a call from a friend or loved one doesn't come through right away; it will arrive at the perfect moment.",
+      "• Embrace your adventurous spirit tonight and focus on enjoying the present while planning for the future."
+    ],
+    "love": [
+      "• Don’t be discouraged if your date starts off slowly; sometimes conversations take time to warm up.",
+      "• Focus on being friends first and share what’s on your minds to create a comfortable atmosphere.",
+      "• Embrace your adventurous spirit and optimism, but remember to stay grounded in the present.",
+      "• Use this time to explore deeper connections and understand each other's unique paths in life."
+    ],
+    "health": [
+      "• Partner up for your exercise routine to stay motivated and focused on your long-term health goals.",
+      "• Keep your ambitious vision for the future in mind while taking practical steps in your daily life.",
+      "• Embrace your adventurous spirit but remember to stay grounded in the present as you plan for what’s ahead.",
+      "• Explore your unique personality and life path to enhance your overall well-being and self-understanding."
+    ],
+    "career": [
+      "• Use your charm and communication skills wisely today; back up your words with solid facts to be heard.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your career.",
+      "• Your optimism is a strength; channel it into exploring new opportunities that align with your ambitions.",
+      "• Consider a deeper understanding of your unique talents and motivations through your Birth Chart for career growth."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
