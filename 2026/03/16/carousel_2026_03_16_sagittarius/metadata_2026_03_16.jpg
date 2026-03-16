@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-16T10:34:35.868632",
+  "date_folder": "carousel_2026_03_16_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be authentic today; your true self is more appealing than any mask you might wear.",
+      "• Avoid trying to please everyone, as it may push away those who matter most to you.",
+      "• Focus on living in the moment while making practical plans for your future.",
+      "• Embrace your adventurous spirit and keep exploring life's mysteries with optimism."
+    ],
+    "love": [
+      "• You might feel uncertain about your love life right now, but that’s okay; clarity will come soon.",
+      "• Don't rush your decisions; take your time to understand your feelings and the signals from others.",
+      "• Embrace your adventurous and optimistic nature, but remember to focus on the present and plan for the future.",
+      "• Use this time to explore your unique personality and what you truly want in love."
+    ],
+    "health": [
+      "• Take time for yourself and prioritize your own needs to avoid exhaustion.",
+      "• Use today to plan healthy meals for the next two weeks to support your well-being.",
+      "• Prepare nutritious soups in advance and store them in the freezer for easy access.",
+      "• Embrace your adventurous spirit while also focusing on practical steps for a healthier future."
+    ],
+    "career": [
+      "• Don’t be afraid to share your opinions; expressing yourself is important even if others may disagree.",
+      "• Embrace your adventurous spirit and use it to explore new opportunities in your career.",
+      "• Stay optimistic, but remember to balance your dreams with practical planning for the future.",
+      "• Leverage your natural curiosity and philosophical mindset to uncover your unique talents and ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
