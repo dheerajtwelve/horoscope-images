@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-17T10:00:17.837569",
+  "date_folder": "carousel_2026_03_17_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect to spend time on important financial paperwork today, possibly related to your job.",
+      "• Feel confident and strong; it's a great day to explore new job opportunities.",
+      "• Your hard work can lead to advancement, so stay focused on your goals.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for the future."
+    ],
+    "love": [
+      "• Be open to unexpected changes in your love life today; things may not go as planned.",
+      "• Embrace spontaneity, as surprising events could lead to a more exciting relationship.",
+      "• Stay optimistic and adaptable; going with the flow can lead to positive outcomes.",
+      "• Remember to balance your adventurous spirit with practical planning for the future."
+    ],
+    "health": [
+      "• Nourish your vision by eating foods rich in Vitamin A and Beta-carotene to support your eye health.",
+      "• If your eyes feel tired or itchy, avoid rubbing them; instead, try using a gentle eye moisturizer for relief.",
+      "• Protect your eyes from sun damage by wearing sunglasses, especially on bright, sunny days.",
+      "• Remember, your vision is a valuable gift; use it to explore and engage positively with the world around you."
+    ],
+    "career": [
+      "• You'll be balancing many tasks today, from calls to family matters, but you'll handle it all with ease and confidence.",
+      "• Celebrate your ability to manage everything gracefully; it’s a sign of your strength and skill.",
+      "• Embrace your adventurous spirit, but remember to stay present and make practical plans for your future.",
+      "• Explore your talents and motivations further by diving into your Birth Chart for deeper insights into your career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
