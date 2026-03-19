@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-19T10:04:20.991468",
+  "date_folder": "carousel_2026_03_19_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may feel a bit sluggish today, so it's okay to take it easy and enjoy some time at home with your books, pets, and plants.",
+      "• Prioritize your responsibilities, but set a goal to complete just the essentials before allowing yourself to relax.",
+      "• Treat yourself to a hot bath and listen to classical music for a soothing break.",
+      "• Embrace your adventurous spirit, but remember to stay present and make practical plans for the future."
+    ],
+    "love": [
+      "• Embrace exciting opportunities for adventure with your partner, as this could lead to unforgettable experiences together.",
+      "• Be prepared to commit more deeply if you're looking for a meaningful relationship; it's worth the effort.",
+      "• Remember to balance your adventurous spirit with practical planning for the future to ensure lasting happiness.",
+      "• Stay present in your relationship and enjoy the journey, while also exploring the depths of your unique personality."
+    ],
+    "health": [
+      "• Celebrate your creative successes, but don’t let them distract you from your diet and exercise routine.",
+      "• Keep your body and energy pathways open by committing to exercise at least three times a week.",
+      "• Remember that you are part of a bigger picture; embrace your unique life path with enthusiasm.",
+      "• Stay optimistic and adventurous, but balance it with practical planning for your health and future."
+    ],
+    "career": [
+      "• Don't let workweek worries spoil your weekend; connect with friends and family to lift your spirits.",
+      "• If you must work, focus on enjoying the company of your colleagues to make the day more pleasant.",
+      "• Embrace your natural curiosity and adventurous spirit to discover new opportunities in your career.",
+      "• Remember to balance your optimism with practical planning for your future to achieve your goals."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
