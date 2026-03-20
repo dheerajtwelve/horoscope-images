@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-20T09:56:10.012152",
+  "date_folder": "carousel_2026_03_20_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect to receive several invitations to social events today, even from people you don’t know well. Attend them, as they could lead to valuable connections or new friendships.",
+      "• While you enjoy being social, you might feel a stronger desire to be at home with family or a romantic partner today.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for your future.",
+      "• Take time to reflect on your unique life path and personality; exploring these aspects can bring you greater clarity and fulfillment."
+    ],
+    "love": [
+      "• Today is a great day for connecting with others; expect meaningful interactions and exchanges of ideas.",
+      "• You may meet someone special who resonates with you, bringing joy to your day, whether in love or friendship.",
+      "• Embrace your adventurous spirit while being mindful of the present and planning for the future.",
+      "• Take time to explore your unique personality and life path; this self-discovery can enhance your relationships."
+    ],
+    "health": [
+      "• Focus on balancing your energy between present and future plans to support your health and relationships.",
+      "• Make exercise a regular part of your routine and stay hydrated by drinking plenty of water daily.",
+      "• Avoid skipping essential health practices now, as it can affect your well-being later on.",
+      "• Embrace your adventurous spirit while also staying grounded in practical health choices."
+    ],
+    "career": [
+      "• Don't feel discouraged; there is always a solution to your challenges, so keep searching and asking for help.",
+      "• Maintain a positive attitude as you navigate your career path; optimism can lead to great opportunities.",
+      "• Balance your adventurous spirit with practical planning to ensure future success in your endeavors.",
+      "• Explore your unique talents and motivations through your Birth Chart to gain deeper insights into your career journey."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
