@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-21T09:47:20.329384",
+  "date_folder": "carousel_2026_03_21_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is a great day for socializing and enjoying time with friends, so embrace your gregarious nature.",
+      "• Focus less on your appearance; remember, those you wish to impress will think you look fantastic.",
+      "• Expect plenty of attention from friends and potential romantic interests, which will strengthen your connections.",
+      "• Stay optimistic and adventurous, but also take time to make practical plans for your future."
+    ],
+    "love": [
+      "• Expect an exciting day with your partner as you explore new and intriguing places together that you'll want to revisit.",
+      "• If you're single, attend group activities or clubs where you can meet someone captivating who shares your interests.",
+      "• Seek out unusual or different locations to enhance your chances of finding love and connection.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your future."
+    ],
+    "health": [
+      "• Embrace your spiritual side today by connecting with water, as it can rejuvenate your spirit and energy.",
+      "• Pay attention to your daily water intake; aim for eight glasses to enhance your skin and digestion.",
+      "• As a Sagittarius, nurture your adventurous spirit while also focusing on the present and making practical plans for your health.",
+      "• Explore your unique personality and life path through self-discovery, and remember to keep a positive outlook on your well-being."
+    ],
+    "career": [
+      "• Your insights are valuable; don't hesitate to share your ideas during discussions at work.",
+      "• Step out of the background and take charge of conversations when necessary.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for your future.",
+      "• Explore your unique talents and motivations to unlock your full potential in your career."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
