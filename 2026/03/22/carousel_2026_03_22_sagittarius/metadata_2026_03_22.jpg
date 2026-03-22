@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-22T10:03:02.138934",
+  "date_folder": "carousel_2026_03_22_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your charm and good manners have strengthened your relationships at work, making it easier to collaborate with others.",
+      "• Stay confident when dealing with authority figures, as your hard work is recognized and appreciated.",
+      "• Be open to potential career advancements, as your dedication may lead to new opportunities.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for your future."
+    ],
+    "love": [
+      "• You may feel torn about a love-related decision today; take a moment to listen to your heart before acting.",
+      "• Both you and your loved one might be feeling confused, so patience and open communication are key.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your relationship.",
+      "• Trust your natural curiosity and philosophical nature to explore deeper connections with your partner."
+    ],
+    "health": [
+      "• It's time to take your health seriously—start today! It’s never too late to make positive changes.",
+      "• Increase your daily water intake; aim to double it this month to combat dehydration.",
+      "• Stay mindful about your health and make practical plans for a better future.",
+      "• Embrace your adventurous spirit while focusing on living in the present for overall well-being."
+    ],
+    "career": [
+      "• A great financial opportunity is on the horizon; be ready to invest wisely in something you believe in.",
+      "• Seek advice from knowledgeable individuals to ensure you make informed decisions.",
+      "• Trust in collaborations and partnerships, as they can lead to profitable outcomes.",
+      "• Embrace your adventurous spirit, but remember to balance risk-taking with practical planning for the future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
