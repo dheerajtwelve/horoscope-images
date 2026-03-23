@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-23T10:11:09.758490",
+  "date_folder": "carousel_2026_03_23_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Read something inspiring today; it might spark your creativity to write a mystery story.",
+      "• Your mind is sharp for creating interesting characters and plot twists, so let your imagination flow.",
+      "• Write down your ideas and revisit them tomorrow; consider turning your story into a novel.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future."
+    ],
+    "love": [
+      "• Your partner may have a significant plan that requires a deeper commitment from you, so be prepared for an important conversation.",
+      "• This moment will test the strength of your relationship, so reflect on your feelings before responding.",
+      "• If you're ready to embrace this new level of commitment, simply saying \"yes\" can open up new possibilities.",
+      "• Stay optimistic and adventurous, but remember to also focus on practical steps for your future together."
+    ],
+    "health": [
+      "• Love and care for your body to boost your energy and positivity in life.",
+      "• Incorporate regular exercise into your routine to enhance your ability to love and support others.",
+      "• Plan your meals in advance to nourish your body and embrace a healthy lifestyle.",
+      "• Stay mindful and optimistic as you explore life, balancing adventure with practical planning for the future."
+    ],
+    "career": [
+      "• Take a moment to celebrate your achievements today; it's important to recognize your hard work and progress.",
+      "• Embrace your adventurous spirit, but remember to focus on practical steps for your future.",
+      "• Use your natural curiosity and philosophical mindset to explore new opportunities in your career.",
+      "• Consider getting a personalized Birth Chart to uncover your unique talents and motivations for success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
