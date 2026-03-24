@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-24T10:01:32.876861",
+  "date_folder": "carousel_2026_03_24_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect some delays today, especially with communications; don't let frustrations get to you.",
+      "• A young visitor may be late, but rest assured they are safe and will arrive eventually.",
+      "• Stay calm during unexpected annoyances like traffic; patience will serve you well.",
+      "• Embrace your adventurous spirit while also making practical plans for the future."
+    ],
+    "love": [
+      "• Today is an excellent day to meet new people and potentially find that special relationship.",
+      "• Focus on getting out and making new friends; conversation will be especially important.",
+      "• Your natural charm and wit will shine, making it easier to connect with others.",
+      "• Embrace your adventurous spirit while also being mindful of making practical plans for the future."
+    ],
+    "health": [
+      "• Focus on seeing the bigger picture in your life while also acknowledging your feelings and emotions.",
+      "• Make sure to maintain a routine of daily exercise, balanced meals, and plenty of rest, even during busy times.",
+      "• When feeling overwhelmed with excitement, take deep breaths to ground yourself and regain focus.",
+      "• Embrace your adventurous spirit, but remember to stay present and make practical plans for your future well-being."
+    ],
+    "career": [
+      "• You are not alone in your career challenges; many others feel uncertain too, so don't hesitate to reach out for support.",
+      "• Remember that appearances can be misleading; even those who seem confident may also be struggling.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for a successful future.",
+      "• Explore your unique talents and motivations with a career report based on your Birth Chart to guide your path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
