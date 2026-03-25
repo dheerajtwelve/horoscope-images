@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-25T10:03:23.749345",
+  "date_folder": "carousel_2026_03_25_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect heartfelt exchanges with your partner today, possibly including creative expressions like songs or poems.",
+      "• This can be a healing experience, bringing you both joy and deeper connection.",
+      "• Be cautious of seeing each other through overly idealistic views; remember that everyone is human.",
+      "• Embrace your adventurous spirit, but also focus on making practical plans for the future."
+    ],
+    "love": [
+      "• Use your words wisely today; your charm can create magic in conversations, but be honest to avoid misunderstandings.",
+      "• A loved one knows you well, so be careful not to stretch the truth too far in your storytelling.",
+      "• Embrace your adventurous spirit and optimism, but remember to stay grounded and make practical plans for the future.",
+      "• Keep exploring and learning about yourself; your unique personality is a treasure that can deepen your relationships."
+    ],
+    "health": [
+      "• Remember to take time for yourself to recharge and stay centered amidst your nurturing nature.",
+      "• Focus on eating fresh, healthy foods to protect against illness and maintain your well-being.",
+      "• Use your natural ability to think ahead to make practical health plans for the future.",
+      "• Embrace your adventurous spirit while staying mindful of the present and caring for your health."
+    ],
+    "career": [
+      "• Acknowledge your uncertainty; admitting you don't have all the answers can earn you more respect.",
+      "• Embrace long-term changes in your career; adaptability is key to navigating new trends.",
+      "• Focus on your unique strengths and personality to discover the best path for your career.",
+      "• Balance your adventurous spirit with practical planning to ensure a successful future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
