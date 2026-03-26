@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-26T10:26:23.227909",
+  "date_folder": "carousel_2026_03_26_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today, you'll feel a strong connection to social issues and may reflect on your responsibilities to help others.",
+      "• Consider donating time or money to a charity that resonates with you; your actions can make a difference.",
+      "• Embrace your adventurous and generous spirit, but remember to balance optimism with practical planning for the future.",
+      "• Keep exploring life's mysteries while staying grounded in the present moment; it will enrich your unique journey."
+    ],
+    "love": [
+      "• A surprising event today could bring exciting news that will significantly impact your relationship.",
+      "• Keep this news under wraps for now, as it will lead to happiness for both you and your loved one.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for the future.",
+      "• Continue exploring life's mysteries together, as it deepens your connection and enhances your love."
+    ],
+    "health": [
+      "• Pay attention to what you eat, especially during stressful times, to maintain your well-being.",
+      "• Avoid distractions like chatting or watching TV while eating, as they can lead to unhealthy choices.",
+      "• For every alcoholic drink, balance it with a glass of water to stay hydrated.",
+      "• Embrace your adventurous spirit by making practical health plans that support your optimistic nature."
+    ],
+    "career": [
+      "• Embrace your positive mood and inner harmony, as it will help you build strong relationships with colleagues this week.",
+      "• Trust in your ability to maintain this uplifting energy throughout your workdays ahead.",
+      "• Focus on your adventurous spirit, but remember to balance it with practical planning for your career goals.",
+      "• Explore your unique talents and motivations to unlock your true potential in your professional journey."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
