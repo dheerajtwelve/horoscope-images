@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-27T10:26:51.852959",
+  "date_folder": "carousel_2026_03_27_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Attend social events today to connect with creative individuals in fields like film and technology.",
+      "• If you're single, keep an eye out for a potential romantic partner among these new connections.",
+      "• Use these interactions to gain valuable insights and contacts that can help advance your artistic career.",
+      "• Stay present and make practical plans for the future while embracing your adventurous spirit."
+    ],
+    "love": [
+      "• Be aware of any feelings of suspicion today; it may be heightened by the planetary alignment.",
+      "• If you genuinely care for your partner, take the time to communicate and seek clarity about your concerns.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your relationship.",
+      "• Keep exploring the mysteries of love, as it can deepen your understanding and connection with your partner."
+    ],
+    "health": [
+      "• Focus on your own needs and desires, as it's important to take time for yourself.",
+      "• Create a structured plan for your health that includes meals, exercise, rest, and fun activities.",
+      "• Use the support of current planetary influences to navigate any challenges you may face.",
+      "• Embrace your adventurous spirit while staying mindful of practical steps for a healthy future."
+    ],
+    "career": [
+      "• Stand firm in your beliefs and don’t let others control you; your confidence is your strength.",
+      "• Trust your instincts and don’t back down, even when faced with pressure.",
+      "• Embrace your adventurous spirit but remember to balance it with practical planning for your future.",
+      "• Explore your unique talents and motivations to uncover your true career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
