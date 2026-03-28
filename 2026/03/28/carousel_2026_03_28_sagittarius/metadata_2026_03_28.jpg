@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-28T10:02:57.758348",
+  "date_folder": "carousel_2026_03_28_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Focus on your health and nutrition today; new information about diets or exercise could inspire you.",
+      "• Consider attending a lecture or workshop to expand your knowledge in these areas.",
+      "• Start a new health program now, as you'll likely stick with it and see positive results.",
+      "• Embrace your adventurous spirit and strive for optimal health while planning for your future."
+    ],
+    "love": [
+      "• Reflect on your attitude, as it may be affecting your close relationships negatively.",
+      "• Avoid undermining promising partnerships by recognizing your own role in the situation.",
+      "• Shift your perspective to see the relationship more clearly and positively.",
+      "• Embrace your adventurous spirit while also making practical plans for love and the future."
+    ],
+    "health": [
+      "• Focus on healthy habits now, as it's easier to maintain good health than to recover from illness later.",
+      "• If stress has disrupted your routine, take a moment to realign with your health goals.",
+      "• Stay hydrated by drinking water alongside any alcohol or sugary drinks you consume.",
+      "• Prioritize sleep and physical activity, and limit news checking to reduce anxiety and improve well-being."
+    ],
+    "career": [
+      "• Avoid any dishonest tactics today, as others will easily see through them. Honesty will earn you the respect you seek.",
+      "• Embrace your adventurous and charismatic nature, but remember to stay grounded in the present.",
+      "• Focus on creating practical plans for your future while leveraging your natural optimism and risk-taking spirit.",
+      "• Explore your unique talents and motivations to align your career path with your true self for greater fulfillment."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
