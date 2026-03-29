@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-29T10:29:42.665369",
+  "date_folder": "carousel_2026_03_29_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Love and romance are thriving, making it a great time to share your relationship status with friends.",
+      "• You may receive an invitation to a wedding, sparking joyful ideas for your own future.",
+      "• Allow yourself to dream and enjoy the moment, but remember to stay grounded for tomorrow.",
+      "• Embrace your adventurous spirit while balancing it with practical plans for a fulfilling future."
+    ],
+    "love": [
+      "• You might feel a bit distant in your relationships today, but don't let that stop you from connecting.",
+      "• Your strong feelings of passion and obsession are there; consider sharing them with your partner to avoid confusion.",
+      "• Clear communication can strengthen your bond and help your partner understand your true feelings.",
+      "• Embrace your adventurous spirit, but remember to balance your dreams with practical plans for the future."
+    ],
+    "health": [
+      "• Take time for self-care if you're feeling out of touch with yourself; it's important to reconnect.",
+      "• Prepare a comforting and healthy dinner with what you have; nourishing your body is key.",
+      "• Enjoy a relaxing hot bath and get to bed early with a good book to unwind and reflect.",
+      "• Embrace your adventurous spirit while being mindful of the present and planning for the future."
+    ],
+    "career": [
+      "• Be cautious with your words at work; a careless comment could lead to trouble if overheard.",
+      "• Embrace your adventurous spirit, but remember to focus on practical steps for your career.",
+      "• Use your natural curiosity to explore new opportunities and expand your professional horizons.",
+      "• Consider a personal career report to uncover your unique talents and ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
