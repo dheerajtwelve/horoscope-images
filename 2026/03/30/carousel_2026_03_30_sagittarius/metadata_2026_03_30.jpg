@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-30T10:41:59.513708",
+  "date_folder": "carousel_2026_03_30_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• If your love interest is away, it's normal to feel a bit lonely, but remember that you won't be alone for long.",
+      "• Reach out to friends who miss you and spend time doing activities you enjoy, like reading or being creative.",
+      "• Keep your spirits up by focusing on fun hobbies to help the time pass quickly until your partner returns.",
+      "• Embrace your adventurous spirit and stay positive as you explore new ideas and experiences today."
+    ],
+    "love": [
+      "• Embrace change in your relationship; it's essential for growth and welcoming new influences.",
+      "• Holding onto the past won't work; be open to the delightful new phase beginning in your love life.",
+      "• As a Sagittarius, your adventurous and optimistic nature can guide you in making positive changes.",
+      "• Focus on living in the present while also planning for the future to enhance your romantic journey."
+    ],
+    "health": [
+      "• Take some time today to relax and make yourself comfortable. Prioritize your well-being.",
+      "• If something is bothering you, reach out to a friend and share your thoughts. Talking can be healing.",
+      "• Consider starting a home workout focused on cardio to boost your energy and improve your mood.",
+      "• Embrace your adventurous spirit while staying grounded in the present and planning for your future."
+    ],
+    "career": [
+      "• Your friendly and social nature will help you succeed in your career, so lean on your connections for support.",
+      "• Collaborating with others can lead to greater achievements than working alone, so value teamwork.",
+      "• Embrace your adventurous spirit but remember to focus on practical plans for your future.",
+      "• Explore your unique talents and motivations through your Birth Chart to unlock your career potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
