@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-31T10:29:23.567004",
+  "date_folder": "carousel_2026_03_31_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Love may feel slow right now, but be patient as both you and your partner have many responsibilities keeping you apart.",
+      "• Don't let insecurities take over; just because your friend is busy doesn't mean your relationship is in trouble.",
+      "• Focus on understanding your unique qualities and life path to gain clarity during this time.",
+      "• Embrace your adventurous and optimistic spirit, but remember to stay grounded and make practical plans for the future."
+    ],
+    "love": [
+      "• Inject some excitement into your relationship by trying new activities or exploring new places together.",
+      "• Don’t be afraid to meet new people; fresh connections can bring joy and spark to your love life.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future.",
+      "• Use your natural curiosity to deepen your understanding of love and relationships."
+    ],
+    "health": [
+      "• Your health journey starts now; reflect on what you truly want for your well-being.",
+      "• Choose to nurture your body and mind with preventative care rather than waiting for medical issues.",
+      "• Consider investing in resources like healthy cookbooks or holistic guides to support your health goals.",
+      "• Embrace your adventurous spirit, but stay grounded by making practical health plans for the future."
+    ],
+    "career": [
+      "• Strong communication with coworkers will lead to major progress in your work over the next two weeks.",
+      "• Use this productive time wisely to make significant strides toward your yearly goals.",
+      "• Embrace your adventurous and optimistic nature, but remember to stay grounded and make practical plans for the future.",
+      "• Explore your unique talents and motivations by understanding your Birth Chart for deeper insights into your career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
