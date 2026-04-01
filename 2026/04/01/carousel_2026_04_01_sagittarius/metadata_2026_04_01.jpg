@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-01T10:42:12.107648",
+  "date_folder": "carousel_2026_04_01_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today, you may face mental distractions that test your focus, but try to see them as opportunities for growth.",
+      "• Embrace the challenge of differing viewpoints; understanding others can lead to valuable insights about yourself.",
+      "• Combine your traditional beliefs with new ideas to find a balanced perspective on your current situation.",
+      "• Remember to stay present while planning for the future; your adventurous spirit is your strength!"
+    ],
+    "love": [
+      "• Embrace change if you're feeling stuck; support may come your way to help you move forward.",
+      "• Focus on your adventurous spirit and optimism to enhance your love life and relationships.",
+      "• Stay present and make practical plans for your future to keep your romantic connections strong.",
+      "• Explore your unique personality and life path to attract meaningful relationships."
+    ],
+    "health": [
+      "• If you feel unbalanced, recognize that it affects you more than others; try to maintain your exercise routine to stay centered.",
+      "• Use your sensitivity to motivate yourself; starting a new health practice can lead to an energizing boost.",
+      "• Take advantage of the momentum you gain from starting a new routine to build a consistent health regimen.",
+      "• Embrace your adventurous spirit by exploring new health practices while staying mindful of your present and future goals."
+    ],
+    "career": [
+      "• Socialize in a relaxed setting today to boost your mood and enjoy your time with others.",
+      "• Sharing laughs about work can help relieve stress and improve your outlook.",
+      "• Embrace your adventurous spirit, but remember to stay present and make practical plans for your future.",
+      "• Explore your unique talents and motivations through your Birth Chart for deeper career insights."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
