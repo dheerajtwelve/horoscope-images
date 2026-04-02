@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-02T10:11:32.113341",
+  "date_folder": "carousel_2026_04_02_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today, you may feel more self-aware and conscious of your words around others; try to relax and not overthink what you say.",
+      "• Avoid excessive self-analysis, as it could lead to unnecessary stress; focus on enjoying the moment instead.",
+      "• Embrace your adventurous spirit and optimism, but remember to balance it with practical planning for the future.",
+      "• Keep exploring your unique personality and life path; your natural curiosity can lead to exciting discoveries."
+    ],
+    "love": [
+      "• Your upcoming date has great potential for success, so relax and enjoy the moment.",
+      "• Even if you're nervous and struggle to find words, your charm will shine through.",
+      "• Embrace your adventurous spirit and be open to new connections and experiences.",
+      "• Remember to stay present and balance your optimism with practical planning for the future."
+    ],
+    "health": [
+      "• Stay focused on your daily wellness routine to maintain your health amidst distractions.",
+      "• Assess your physical abilities and work gently towards achieving your dreams.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning.",
+      "• Explore your unique path and personality to enhance your overall well-being."
+    ],
+    "career": [
+      "• Embrace your restlessness and use it as a motivation to start something new; it's a sign of bigger opportunities ahead.",
+      "• Take time to explore your unique life path by understanding your strengths and personality through your Birth Chart.",
+      "• Balance your adventurous spirit with practical planning to ensure your dreams become achievable goals.",
+      "• Stay optimistic and open to risks, but remember to focus on the present while working towards your future ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
