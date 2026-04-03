@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-03T10:24:26.480653",
+  "date_folder": "carousel_2026_04_03_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be prepared for a disagreement today; someone may have a perspective that clashes with yours.",
+      "• Clearly express your feelings, but make sure you have solid facts to support your viewpoint.",
+      "• Avoid adding to misunderstandings; focus on reality rather than fantasy.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future."
+    ],
+    "love": [
+      "• Open up and share your feelings with someone special; the current energy supports honest communication.",
+      "• Don’t let fears hold you back; now is the time to express what’s in your heart with confidence.",
+      "• Create a warm and inviting atmosphere to help ease any hesitation in your conversations.",
+      "• Embrace your adventurous spirit and remember to balance optimism with practical planning for the future."
+    ],
+    "health": [
+      "• Consider swimming as a great way to exercise your body and mind without breaking the bank.",
+      "• This low-impact sport can improve your lung capacity and tone your entire body.",
+      "• Enjoy the calming effects of swimming, which can feel like a form of meditation.",
+      "• Embrace outdoor activities when the weather is nice to enhance your overall well-being."
+    ],
+    "career": [
+      "• Share your exciting news openly instead of keeping it a secret; this will show your responsibility and build trust with others.",
+      "• Embrace your adventurous spirit and charismatic nature; they are key to your success in your career.",
+      "• Stay optimistic, but remember to balance your enthusiasm with practical plans for the future.",
+      "• Explore your unique talents and motivations to find the best path for your professional growth."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
