@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-04T10:00:21.334919",
+  "date_folder": "carousel_2026_04_04_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Enjoy a light-hearted day filled with energy; make the most of your positive vibe!",
+      "• Use your charm and influence to get what you want, especially at work.",
+      "• Today is a great day to ask your boss for a raise—go for it!",
+      "• Embrace your adventurous spirit while staying grounded in your plans for the future."
+    ],
+    "love": [
+      "• Joining a new group or course may lead you to meet someone with a different lifestyle that intrigues you.",
+      "• Be open to exploring this connection, as they might teach you something valuable about life.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for the future.",
+      "• Stay grounded in the present while continuing to satisfy your curiosity about the world around you."
+    ],
+    "health": [
+      "• Focus on self-care and take charge of your happiness; your well-being starts with you.",
+      "• Identify what you want to change about your body and take practical steps toward those goals.",
+      "• Embrace your adventurous spirit while also being mindful of living in the present moment.",
+      "• Stay optimistic, but remember to create realistic plans for your future health and wellness."
+    ],
+    "career": [
+      "• Expect some indecisiveness over the next two months, but being aware of it will help you manage it better.",
+      "• Use this time to explore your unique life path and personality to gain clarity in your career.",
+      "• Embrace your adventurous spirit and optimism, but remember to make practical plans for the future.",
+      "• Leverage your natural curiosity and philosophical nature to discover new opportunities and insights in your work life."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
