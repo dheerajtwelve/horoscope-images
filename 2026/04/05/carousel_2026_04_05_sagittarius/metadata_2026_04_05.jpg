@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-05T10:30:53.180743",
+  "date_folder": "carousel_2026_04_05_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Take time today to reflect on yourself; understanding your setbacks can lead to new adventures.",
+      "• Honesty with yourself is crucial for personal growth and discovering your true path.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for the future.",
+      "• Continue exploring life's mysteries and enjoy the journey of self-discovery; it will enrich your experiences."
+    ],
+    "love": [
+      "• Communicate your feelings clearly to someone special, even if it takes extra effort on your part.",
+      "• Remember that the person you like is currently focused on themselves, but they also share your feelings.",
+      "• Consider doing something bold to remind them of your presence and affection.",
+      "• Stay optimistic and adventurous, but also take time to plan for the future of your relationship."
+    ],
+    "health": [
+      "• Take small steps towards your health goals by exploring new activities that excite you, like visiting a sports store to look at running shoes.",
+      "• Focus on making yourself comfortable in areas you want to improve; every little effort counts.",
+      "• Remember to impress yourself with your progress, rather than comparing to others.",
+      "• Stay optimistic and adventurous, but also make practical plans for your health journey."
+    ],
+    "career": [
+      "• Be prepared for emotional challenges at work; address issues directly instead of avoiding them for lasting peace.",
+      "• Embrace your adventurous and optimistic spirit, but remember to balance it with practical planning for your future.",
+      "• Use your natural curiosity and philosophical mindset to explore new career opportunities and grow in your profession.",
+      "• Consider a personalized Birth Chart to gain deeper insights into your unique talents and career motivations."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
