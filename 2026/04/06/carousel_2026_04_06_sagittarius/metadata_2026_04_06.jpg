@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-06T10:41:02.457519",
+  "date_folder": "carousel_2026_04_06_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may feel restless due to a temporary separation from a partner, but remember this is just a phase.",
+      "• Try to engage in fascinating activities to distract yourself and lift your spirits.",
+      "• Spend time with friends to enjoy some fun and make the day pass more quickly.",
+      "• Stay optimistic and adventurous, but also focus on practical plans for your future."
+    ],
+    "love": [
+      "• Don't be afraid to stand out and make a bold move to catch the attention of someone special.",
+      "• If you're feeling deeply in love, consider taking a radical step to express your feelings.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future.",
+      "• Use your natural curiosity to explore the deeper connections in your love life."
+    ],
+    "health": [
+      "• Walking is an excellent way to exercise and helps you focus on yourself while clearing your mind.",
+      "• Take time to reflect on your thoughts and let go of any unnecessary anxieties.",
+      "• Consider incorporating longer runs if you're already an experienced runner for added benefits.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future."
+    ],
+    "career": [
+      "• Be prepared for someone to react strongly to your words or actions; it's important to address their reaction calmly and assertively.",
+      "• Remember that not everyone sees things as clearly as you do; help them regain perspective if necessary.",
+      "• Embrace your adventurous spirit while also focusing on practical steps for your future success.",
+      "• Explore your unique talents and motivations to unlock your full potential in your career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
