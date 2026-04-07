@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-07T10:28:33.528664",
+  "date_folder": "carousel_2026_04_07_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is a great day to express yourself through writing, whether it's a letter to a friend or a creative project like a novel or poem.",
+      "• Don't hesitate to explore your thoughts on philosophical or spiritual topics; questioning is part of the journey.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your future.",
+      "• As a Sagittarius, your natural curiosity can lead to new discoveries—keep exploring the mysteries of life!"
+    ],
+    "love": [
+      "• Take a step back and let your relationship relax; it’s a good time to simmer down instead of being overly heated.",
+      "• Embrace a peaceful mindset and enjoy this moment of calm together.",
+      "• Focus on the present and appreciate the stability in your love life.",
+      "• Remember to balance your adventurous spirit with practical plans for the future."
+    ],
+    "health": [
+      "• Stay aware of your habits, as you might fall into old patterns that aren't good for your health.",
+      "• Focus on nurturing your body with plenty of water, fresh fruits, and a balanced diet.",
+      "• Embrace your adventurous spirit but remember to live in the present and plan for the future.",
+      "• Explore your unique life path to enhance your well-being and personal growth."
+    ],
+    "career": [
+      "• Things are going well for you, so keep building on your success and don't take it for granted.",
+      "• Continue to work hard to reach the next level in your career journey.",
+      "• Embrace your adventurous and optimistic nature while making practical plans for the future.",
+      "• Explore your unique talents and motivations to better understand your career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
