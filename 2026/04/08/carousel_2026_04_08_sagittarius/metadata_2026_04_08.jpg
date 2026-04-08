@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-08T10:30:29.783711",
+  "date_folder": "carousel_2026_04_08_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Money concerns may feel bigger than they are; try to stay objective and calm.",
+      "• Consider making small adjustments to your spending to ease financial pressure.",
+      "• Your situation will likely improve within a week or two, so take a deep breath.",
+      "• Embrace your adventurous spirit while balancing it with practical planning for the future."
+    ],
+    "love": [
+      "• Be open to unexpected feelings; a powerful attraction may catch you off guard and lead to deep love.",
+      "• Embrace the excitement of your emotions, but remember to stay grounded and not let it overwhelm you.",
+      "• Use this passionate energy to explore your desires and take bold steps in your love life.",
+      "• Balance your adventurous spirit with practical planning to ensure a fulfilling future together."
+    ],
+    "health": [
+      "• Embrace physical relationships with openness, as this will enhance your sensual experiences and self-connection.",
+      "• Love and care for your body through regular exercise and a healthy diet to improve your overall well-being.",
+      "• Focus on nurturing intimate relationships with mindfulness to foster deeper connections.",
+      "• Stay optimistic and adventurous, but remember to live in the present and plan practically for your future."
+    ],
+    "career": [
+      "• You may feel some tension at work over the next few weeks; use this time to reflect on your career path and relationships with colleagues.",
+      "• Embrace the changes ahead as an opportunity for growth and self-discovery.",
+      "• Remember to balance your adventurous spirit with practical planning for your future success.",
+      "• Trust your natural curiosity and philosophical mindset to explore new career possibilities and expand your horizons."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
