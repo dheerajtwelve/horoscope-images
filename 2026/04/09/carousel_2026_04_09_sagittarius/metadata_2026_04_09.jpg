@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-09T10:27:55.958639",
+  "date_folder": "carousel_2026_04_09_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may not feel like going out with friends today, so it's okay to stay in and relax.",
+      "• Consider tightening your budget; it’s a good time to be mindful of your finances.",
+      "• Instead of spending the evening alone, invite a friend or partner over for a cozy movie night.",
+      "• Embrace your adventurous spirit, but remember to balance fun with practical planning for the future."
+    ],
+    "love": [
+      "• Open communication is essential right now; make an effort to talk and connect deeply with your partner.",
+      "• Don't wait for problems to resolve themselves; actively work on your relationship together.",
+      "• Embrace your adventurous spirit, but remember to balance fun with practical plans for the future.",
+      "• Use this time to explore and understand your unique personality and life path, which can strengthen your bond."
+    ],
+    "health": [
+      "• Take time for yourself and avoid over-giving to others; prioritize your own well-being.",
+      "• Be mindful of your diet; try reducing carbohydrates for a few days to regain focus and energy.",
+      "• Embrace your adventurous spirit, but remember to plan practically for the future.",
+      "• Use this time for self-discovery and reflection on your unique life path."
+    ],
+    "career": [
+      "• Take time to laugh each day, whether in meetings or with pets, as it helps relieve stress and tension.",
+      "• Embrace your adventurous and charismatic spirit, as it makes you a valued team member.",
+      "• Stay optimistic but remember to make practical plans for your future to achieve your goals.",
+      "• Explore your unique talents and motivations to find the best path for your career growth."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
