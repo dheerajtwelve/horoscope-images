@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-10T10:43:13.258661",
+  "date_folder": "carousel_2026_04_10_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Continue balancing your career, romance, and creative interests; this trend will persist for now.",
+      "• Consider exploring new opportunities in writing or speaking alongside your current job.",
+      "• Focus on improving your health by making positive changes to your diet and exercise routine.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future."
+    ],
+    "love": [
+      "• Embrace warmth and laughter in your love life today; humor can help attract new relationships.",
+      "• Share light-hearted jokes and interesting stories to connect with others; avoid anything rude.",
+      "• Engage in wise and meaningful conversations to deepen connections; your insights are valuable.",
+      "• Stay optimistic and adventurous, but also remember to focus on the present and plan for the future."
+    ],
+    "health": [
+      "• Stay active by getting regular exercise to boost your energy and focus during this busy time.",
+      "• Drink plenty of water to keep your body hydrated and your mind clear.",
+      "• Take time to connect with your inner self and stay in tune with the positive energies around you.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future."
+    ],
+    "career": [
+      "• Stay focused on the positive aspects of your work environment, and don’t let mixed signals confuse you.",
+      "• Concentrate on what is working well and let go of what isn’t to achieve success.",
+      "• Embrace your adventurous spirit and optimism, but remember to make practical plans for the future.",
+      "• Explore your unique talents and motivations to discover the key to your career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
