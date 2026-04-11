@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-11T10:03:44.675970",
+  "date_folder": "carousel_2026_04_11_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Love is in the air! Singles may soon meet someone special, while couples can deepen their emotional and spiritual connections.",
+      "• Keep communication open with your partner to strengthen your relationship and discover a dream-like love.",
+      "• Embrace your adventurous and charismatic nature, but remember to stay grounded and make practical plans for your future.",
+      "• Explore your unique life path with a Birth Chart to gain insights into your personality and potential."
+    ],
+    "love": [
+      "• A meaningful conversation could lead to resolving a significant issue in your love life; don’t hesitate to reach out.",
+      "• Pay attention to your surroundings, as something you overhear or read may inspire important changes.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for your relationship's future.",
+      "• Stay optimistic and open-minded, as your natural curiosity can deepen connections and enhance your love life."
+    ],
+    "health": [
+      "• Regular exercise, like yoga, can help you center yourself and enhance your ability to support others.",
+      "• Focus on your breathing and connecting with positive energy rather than just getting in shape.",
+      "• Embrace your adventurous spirit, but remember to stay present and make practical plans for your health.",
+      "• Explore your unique life path by understanding your personality through your birth chart."
+    ],
+    "career": [
+      "• Take your time with tasks; focusing on quality will earn you respect from your team and clients.",
+      "• Completing your work with care and attention will lead to praise and recognition.",
+      "• Embrace your adventurous and optimistic spirit, but remember to stay grounded in the present.",
+      "• Use your natural curiosity to explore new opportunities that align with your unique talents and ambitions."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
