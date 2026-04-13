@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-13T10:58:23.070269",
+  "date_folder": "carousel_2026_04_13_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• A friend or family member may seem distant today; reach out with kindness to encourage them to open up.",
+      "• Don’t take their mood personally; their issues likely have nothing to do with you.",
+      "• Tonight, cook a meal that everyone loves to lift spirits and create a sense of togetherness.",
+      "• Embrace your adventurous and optimistic nature, but remember to stay grounded and plan for the future."
+    ],
+    "love": [
+      "• A meeting today may help you trust others again and restore your faith in humanity.",
+      "• This person's kindness will bring you happiness and make you feel relaxed in their presence.",
+      "• Focus on regaining your inner strength and confidence through positive connections.",
+      "• Embrace your adventurous spirit while also planning for a practical and fulfilling future."
+    ],
+    "health": [
+      "• Focus on your unique health needs instead of just following the crowd; what works for others may not work for you.",
+      "• Take time to plan and prepare healthy meals at home this week for your well-being.",
+      "• Consider inviting friends to join your meal prep, but remember the importance of doing it for yourself.",
+      "• Stay optimistic and adventurous, but also make practical plans for your health and future."
+    ],
+    "career": [
+      "• Tackle your monthly goals with confidence, knowing you have support from those around you.",
+      "• Embrace the encouragement you receive, as it will help pave the way for your success.",
+      "• Stay optimistic and adventurous, but remember to focus on practical planning for your future.",
+      "• Explore your unique talents and motivations through your Birth Chart to find your true career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
