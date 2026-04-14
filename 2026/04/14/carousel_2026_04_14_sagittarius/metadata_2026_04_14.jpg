@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-14T10:40:56.608716",
+  "date_folder": "carousel_2026_04_14_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Expect a busy day ahead, possibly filled with unexpected tasks and crises at work.",
+      "• Be ready to adjust your plans, as helping a friend may take priority.",
+      "• Embrace the challenges, as you’ll feel fulfilled by the end of the day for being of service.",
+      "• Remember to balance your adventurous spirit with practical planning for the future."
+    ],
+    "love": [
+      "• Take some time to reflect on your relationship and why you became involved; understanding your motives can bring clarity.",
+      "• If you have doubts, consider having an open conversation with your partner about your feelings.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your love life.",
+      "• Your natural curiosity can be a strength; use it to explore not just the world, but also the depths of your relationships."
+    ],
+    "health": [
+      "• Pay close attention to your body and its health needs over the next few months.",
+      "• Stay hydrated by drinking plenty of water to support your overall well-being.",
+      "• Incorporate regular exercise into your routine to maximize your energy and health.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for your future."
+    ],
+    "career": [
+      "• Leverage your connections and resources now to create new opportunities for yourself.",
+      "• Use your charm and wit to influence those around you and enhance your career prospects.",
+      "• Stay positive and embrace your unique qualities; they will guide you on your life path.",
+      "• Balance your adventurous spirit with practical planning to ensure future success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
