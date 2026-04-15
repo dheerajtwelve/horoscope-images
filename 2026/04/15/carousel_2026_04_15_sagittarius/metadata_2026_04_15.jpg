@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-15T10:41:27.457878",
+  "date_folder": "carousel_2026_04_15_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Old feelings of anxiety may resurface today, reminding you to acknowledge and address them.",
+      "• Stay aware of how these emotions might affect your interactions with friends and coworkers.",
+      "• Embrace your adventurous spirit, but remember to focus on the present and plan for the future.",
+      "• Continue exploring your unique life path and trust in your natural ability to learn and grow."
+    ],
+    "love": [
+      "• Embrace your magnetism and consider stepping out of your comfort zone to connect with others.",
+      "• Weigh your options between admiration from afar and making a bold move; taking the initiative could pay off.",
+      "• Remember, you have nothing to lose by being more confident in your approach to love and relationships.",
+      "• Stay optimistic and adventurous, but also focus on creating practical plans for your romantic future."
+    ],
+    "health": [
+      "• You may feel light-headed lately; try grounding yourself with fresh meals made from seasonal vegetables for better physical health.",
+      "• Embrace your adventurous spirit, but balance it with practical plans to stay present and healthy.",
+      "• Explore your unique life path and personality through self-discovery and mindfulness.",
+      "• Use this time of spiritual energy to fuel your optimism, while also taking care of your physical needs."
+    ],
+    "career": [
+      "• Engage in lively discussions at work to gain new insights into your current situation.",
+      "• Don't shy away from tough topics; addressing them can lead to significant clarity.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for the future.",
+      "• Explore your unique talents and motivations through your Birth Chart to guide your career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
