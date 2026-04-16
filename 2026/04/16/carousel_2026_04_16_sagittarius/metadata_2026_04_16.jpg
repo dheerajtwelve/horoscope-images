@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-16T10:47:26.942943",
+  "date_folder": "carousel_2026_04_16_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Be prepared for some unexpected news today; it might be related to work or an old friend.",
+      "• Take a deep breath and don’t let this news spoil your day; stay calm and composed.",
+      "• Remember to focus on the positive aspects of your adventurous spirit and optimism.",
+      "• Use this time to reflect on your future and make practical plans while embracing life's mysteries."
+    ],
+    "love": [
+      "• Today, take the opportunity to share your true feelings with someone special; it will come naturally and strengthen your bond.",
+      "• Enjoy a cozy evening out together to enhance warmth and romance in your relationship.",
+      "• Embrace your adventurous and optimistic spirit, but remember to stay grounded in the present and think about future plans.",
+      "• Keep exploring the deeper connections in life, as your natural curiosity can lead to meaningful discoveries in love."
+    ],
+    "health": [
+      "• This week, people will seek your wisdom, so be mindful of your energy levels to avoid exhaustion.",
+      "• Set a consistent bedtime to ensure you get enough rest and recharge your energy.",
+      "• Limit your availability to others after dinner to give yourself time to relax and center before sleep.",
+      "• Embrace your adventurous spirit, but remember to stay present and make practical plans for your health and well-being."
+    ],
+    "career": [
+      "• Expect some tension with co-workers over the next two weeks; approach them with kindness to ease any conflicts.",
+      "• Focus on your unique strengths and how they can guide your career path during this transformative period.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for your future goals.",
+      "• Use your natural curiosity to explore new opportunities and expand your knowledge in your field."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
