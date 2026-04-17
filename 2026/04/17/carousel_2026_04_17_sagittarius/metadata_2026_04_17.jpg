@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-17T10:46:09.571919",
+  "date_folder": "carousel_2026_04_17_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Today is a great day for you, Sagittarius; you're feeling and looking fantastic!",
+      "• Expect kindness and cooperation from your family, as they may surprise you by helping out without being asked.",
+      "• Embrace the harmony in your home and enjoy the positive energy that surrounds you.",
+      "• Remember to balance your adventurous spirit with practical planning for the future."
+    ],
+    "love": [
+      "• Show more enthusiasm to attract the person you're interested in and take action to improve your love life.",
+      "• Get off the couch and engage in positive activities that can lead to new romantic opportunities.",
+      "• Make your feelings clear to avoid misunderstandings and demonstrate how much you care.",
+      "• Embrace your adventurous spirit while balancing optimism with practical planning for the future."
+    ],
+    "health": [
+      "• Take a moment to appreciate the beauty around you; it can boost your mood and health.",
+      "• Focus on what makes you feel healthy and incorporate those feelings into your diet and exercise routine.",
+      "• Embrace your optimistic nature and use it to set practical health goals for the future.",
+      "• Explore new ideas and philosophies about health; they can lead to exciting discoveries about your well-being."
+    ],
+    "career": [
+      "• Be honest and transparent in your interactions; trying to deceive others won't work.",
+      "• Share your true feelings to build stronger connections at work.",
+      "• Embrace your adventurous spirit, but remember to make practical plans for your future.",
+      "• Explore your unique talents and motivations to uncover your ideal career path."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
