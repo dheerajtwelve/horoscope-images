@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-18T10:26:02.772614",
+  "date_folder": "carousel_2026_04_18_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Your true talents are impressive, so don’t underestimate yourself; take pride in what you can do.",
+      "• A new project may come your way today that could significantly impact your career—embrace the challenge!",
+      "• Remember, you have the skills to excel, so push past any self-doubt and show the world what you can achieve.",
+      "• Stay optimistic and adventurous, but also focus on practical steps to ensure a bright future."
+    ],
+    "love": [
+      "• Reflect on how unrealistic expectations may be impacting your relationship and your happiness.",
+      "• Embrace your partner just as they are to build a more harmonious connection.",
+      "• Focus on living in the present and making practical plans for your future together.",
+      "• Celebrate your adventurous spirit while also taking time for self-acceptance and personal growth."
+    ],
+    "health": [
+      "• Embrace life's little detours as opportunities for growth rather than setbacks; they are part of your journey.",
+      "• Take time for self-care by enjoying soothing baths with lavender oil to support your sensitive nature.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and make practical plans for your future.",
+      "• Explore your unique life path and personality further by considering your premium Birth Chart for deeper insights."
+    ],
+    "career": [
+      "• A financial windfall may tempt you to spend, but take a moment to assess if it's truly affordable.",
+      "• Consider investing part of your earnings to secure future stability and growth.",
+      "• Embrace your adventurous and optimistic nature, but balance it with practical planning for your future.",
+      "• Use your natural curiosity and philosophical mindset to explore new career opportunities and paths."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
