@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-19T10:45:50.531177",
+  "date_folder": "carousel_2026_04_19_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Engage with others today; your conversations can lead to greater success and valuable insights.",
+      "• Use your impressive communication skills to connect with friends and enjoy their company.",
+      "• Focus on the joy of being with people rather than what you’re doing; relationships matter most.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and plan for the future."
+    ],
+    "love": [
+      "• Be prepared for unexpected changes in your relationship today; they might lead to positive outcomes.",
+      "• Giving each other more space can actually strengthen your bond and improve understanding.",
+      "• Embrace your adventurous spirit, but remember to stay grounded in the present while planning for the future.",
+      "• Keep exploring and seeking deeper connections; your natural curiosity can enhance your love life."
+    ],
+    "health": [
+      "• Stay grounded during challenging times by holding onto what makes you feel secure.",
+      "• If conflicts arise with loved ones or coworkers, consider taking some time for yourself.",
+      "• Trust your body and stick to a solid health routine to navigate through difficulties.",
+      "• Embrace your adventurous spirit while also focusing on practical plans for your future."
+    ],
+    "career": [
+      "• Be prepared to juggle multiple projects today; stay organized and focused to manage your tasks effectively.",
+      "• Double-check important documents to avoid overlooking crucial details in your work.",
+      "• Embrace your adventurous spirit, but balance it with practical planning for your future career goals.",
+      "• Use your natural curiosity and philosophical mindset to explore new opportunities that align with your talents."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
