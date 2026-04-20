@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-20T10:56:57.972227",
+  "date_folder": "carousel_2026_04_20_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may face issues with lighting or heating at home today, but it's a temporary situation.",
+      "• Use candles and flashlights to make the evening cozy and fun—think of it as a little adventure!",
+      "• Remember that minor inconveniences can be easily fixed, so stay positive and relaxed.",
+      "• Embrace your adventurous spirit and continue exploring life's mysteries while making practical plans for the future."
+    ],
+    "love": [
+      "• Take a moment to reflect on your relationship and consider what needs may not be met for both you and your partner.",
+      "• Avoid diving into serious discussions right now; it might be better to wait for a lighter moment.",
+      "• Embrace your natural optimism and adventurous spirit, but remember to stay grounded in the present.",
+      "• Use this time to explore your personal growth and discover what truly makes you happy in love."
+    ],
+    "health": [
+      "• Today's energy supports your emotional well-being and helps improve communication in your relationships.",
+      "• Focus on balancing your big dreams with daily life, as this can lead to personal growth.",
+      "• Incorporate citrus fruits into your diet for a boost of Vitamin C and overall health.",
+      "• Embrace your adventurous spirit while remembering to stay present and plan for the future."
+    ],
+    "career": [
+      "• You are gaining clarity on your current situation, allowing you to see things practically and stay focused on your work.",
+      "• Your productivity is at a high point, so take advantage of this momentum to achieve your goals.",
+      "• Embrace your adventurous spirit while also making thoughtful plans for the future to balance risk-taking with practicality.",
+      "• Explore your unique talents and motivations to better align your career path with your true self."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
