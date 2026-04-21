@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-21T10:44:41.129755",
+  "date_folder": "carousel_2026_04_21_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Communicate openly with friends and partners today to strengthen your connections and show support.",
+      "• Expect affection and compliments from your loved ones, which will boost your mood and confidence.",
+      "• If you're in a relationship but not yet committed, consider discussing your feelings and taking it to the next level.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for your future."
+    ],
+    "love": [
+      "• Focus on achieving balance in your relationships by recognizing each other's needs.",
+      "• Be aware of your tendency to compromise; it helps maintain harmony.",
+      "• Dig deeper into your desires and you'll find that you share similar goals.",
+      "• Embrace your adventurous spirit while making practical plans for the future."
+    ],
+    "health": [
+      "• Use today's positive energy to boost your motivation and achieve your health goals.",
+      "• Stay hydrated, exercise daily, and eat nutritious foods that suit your body.",
+      "• Avoid junk food and excess sugar to keep your energy levels stable.",
+      "• Focus on living in the present while making practical plans for a healthier future."
+    ],
+    "career": [
+      "• You are entering a lucky phase for the next three weeks; embrace opportunities that come your way.",
+      "• Trust your instincts and follow your heart to achieve success in your career.",
+      "• Stay grounded by making practical plans while enjoying the adventure of your career journey.",
+      "• Explore your unique talents and ambitions to unlock your full potential in the workplace."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
