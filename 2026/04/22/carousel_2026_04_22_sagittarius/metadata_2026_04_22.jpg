@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-22T10:43:06.859581",
+  "date_folder": "carousel_2026_04_22_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Focus on love and romance today, as you are radiating beauty and attracting attention from others.",
+      "• Treat yourself to something new, like clothes or cologne, to enhance your confidence.",
+      "• Plan an intimate evening with a partner, but be patient if schedules don't align right away.",
+      "• Embrace your adventurous spirit and remember to balance fun with practical planning for the future."
+    ],
+    "love": [
+      "• Love may not feel traditional right now; focus on understanding your partner's perspective instead of material gestures.",
+      "• Expect some disagreements with your love interest; patience will help you navigate these differences.",
+      "• Embrace your adventurous spirit, but remember to balance optimism with practical planning for your relationship's future.",
+      "• Use this time to explore your unique personality and life path, as self-discovery can enhance your love life."
+    ],
+    "health": [
+      "• Be careful with communication today; double-check your plans and confirm meetings to avoid misunderstandings.",
+      "• Assume that things might go wrong, so take extra care in your interactions and make your needs clear.",
+      "• Watch your step and stay aware of your surroundings to prevent tripping or accidents.",
+      "• Embrace your adventurous spirit while staying grounded; focus on practical plans for a healthy future."
+    ],
+    "career": [
+      "• Your thoughts are clear right now, making it a great time to communicate with your boss or colleagues.",
+      "• Take advantage of this flow to express your ideas and proposals effectively.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for your career.",
+      "• Explore your unique talents and motivations to unlock new opportunities in your professional life."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
