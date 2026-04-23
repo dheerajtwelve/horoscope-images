@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-23T10:46:09.624961",
+  "date_folder": "carousel_2026_04_23_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Love is in the air today, so enjoy the moment with a loved one or explore your passions in other ways.",
+      "• If single, consider diving into a good book or inviting a friend for a movie to keep the positive vibes going.",
+      "• Embrace your adventurous and optimistic nature while staying grounded in the present and planning for the future.",
+      "• Remember to explore life's mysteries, as your natural curiosity can lead to exciting discoveries."
+    ],
+    "love": [
+      "• Focus on understanding the deeper aspects of your relationship today, rather than just the physical connection.",
+      "• Engage in meaningful discussions to uncover the finer points of love and romance.",
+      "• Embrace your adventurous spirit, but remember to stay grounded and make practical plans for the future.",
+      "• Use this time to explore your unique personality and how it shapes your love life."
+    ],
+    "health": [
+      "• Take time for yourself today; pamper yourself and prioritize self-care.",
+      "• Focus on good food and spending time with positive company.",
+      "• Make sure to exercise to release your energy and keep your mind clear.",
+      "• Start a phase of physical purification; remember, you will be in this body for life!"
+    ],
+    "career": [
+      "• Use your creativity today to explore new ideas and opportunities at work.",
+      "• Don't be afraid to think outside the box; this is your chance to expand your career.",
+      "• Embrace your adventurous spirit and take calculated risks for growth.",
+      "• Stay grounded in the present while making practical plans for your future success."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
