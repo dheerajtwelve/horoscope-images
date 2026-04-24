@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-24T10:51:54.670615",
+  "date_folder": "carousel_2026_04_24_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Embrace the changes coming your way; they could lead to a significant transformation in your life.",
+      "• Enjoy the newfound freedom to pursue your passions, but choose your path wisely as it may be irreversible.",
+      "• A financial boost may be the reason for these changes, so use it to invest in your future.",
+      "• Stay optimistic and adventurous, but remember to plan practically for what lies ahead."
+    ],
+    "love": [
+      "• Today may feel confusing in your close relationship; it's okay to not have all the answers right now.",
+      "• Instead of trying to solve everything, focus on trusting the process as this phase will soon pass.",
+      "• Embrace your adventurous spirit and remain optimistic, but also remember to make practical plans for the future.",
+      "• Use this time for self-discovery; explore what truly matters to you and your unique life path."
+    ],
+    "health": [
+      "• You’ll feel rejuvenated this month, almost like you’re ten years younger—embrace this energy!",
+      "• Use this boost to enhance your workouts, especially in weight-lifting and cardio activities that you find challenging.",
+      "• Avoid caffeine to maintain your high energy levels and increase your water intake for better hydration.",
+      "• Stay positive and adventurous, but remember to make practical plans for your health and future well-being."
+    ],
+    "career": [
+      "• Start your workday with a smile to uplift your mood and create a positive environment.",
+      "• Don’t let a rough morning affect your day; shift your mindset to embrace positivity.",
+      "• Embrace your adventurous spirit but remember to focus on practical plans for your career.",
+      "• Utilize your natural curiosity and philosophical nature to explore new opportunities in your work."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
