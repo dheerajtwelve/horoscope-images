@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-25T10:30:12.330215",
+  "date_folder": "carousel_2026_04_25_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Take a moment to relax and enjoy the positive energy surrounding you today.",
+      "• Use this clarity to prepare for any challenges you've been anxious about.",
+      "• Embrace your renewed self-confidence and open your heart to loved ones.",
+      "• Remember to balance your adventurous spirit with practical plans for the future."
+    ],
+    "love": [
+      "• Embrace change by trying a different look to surprise those who think they know you well.",
+      "• Keep your love life exciting by entertaining your partner in new and original ways.",
+      "• Explore your adventurous spirit; you might discover new joys in the process.",
+      "• Stay optimistic but remember to balance your dreams with practical plans for the future."
+    ],
+    "health": [
+      "• Spend your free time enjoying outdoor activities to boost your mood and embrace your playful side.",
+      "• Engage in fun activities like watching uplifting movies or playing games with children and adults alike.",
+      "• Prioritize aerobic exercise, as it’s a great way to lift your spirits and improve your overall well-being.",
+      "• Stay optimistic and adventurous while making practical plans for your health and future."
+    ],
+    "career": [
+      "• Your charm will be especially strong today, making it a great time to connect with others and influence them positively.",
+      "• Use your unique abilities wisely to guide your career path and foster meaningful relationships.",
+      "• Embrace your adventurous spirit, but remember to balance risk-taking with practical planning for your future.",
+      "• Explore your talents and motivations more deeply to unlock new opportunities in your career journey."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
