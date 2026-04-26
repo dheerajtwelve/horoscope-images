@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-26T10:55:43.234882",
+  "date_folder": "carousel_2026_04_26_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• You may feel inspired to redecorate your home today, so embrace that creative energy!",
+      "• Keep your projects small and manageable to avoid overwhelming yourself.",
+      "• Consider adding some flowering plants and new accessories to refresh your space.",
+      "• Remember to stay present and make practical plans for your future adventures."
+    ],
+    "love": [
+      "• Embrace fun and laughter today; let your sense of humor shine in your relationships.",
+      "• Consider light-hearted jokes with your partner to rekindle joy and remind them of your playful side.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and plan for the future.",
+      "• Explore the deeper aspects of your personality to enhance your connections and understanding in love."
+    ],
+    "health": [
+      "• You may feel lighter and more connected to others today, making it a great time to engage with friends and family.",
+      "• Remember to prioritize your own health while supporting those around you; self-care is essential.",
+      "• Pay attention to your diet, as what you eat can greatly influence your mood; try to replicate healthy meals when you're feeling down.",
+      "• Embrace your adventurous spirit, but also focus on making practical plans for your well-being and future."
+    ],
+    "career": [
+      "• People are inspired by your leadership, so share your honest insights and advice confidently.",
+      "• Ensure that your guidance is grounded and reliable to maintain their trust.",
+      "• Embrace your adventurous spirit but remember to balance risks with practical planning for the future.",
+      "• Explore your unique talents and ambitions to unlock your true career potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
