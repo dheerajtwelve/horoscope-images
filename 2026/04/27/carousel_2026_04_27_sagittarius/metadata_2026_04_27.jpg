@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-27T11:09:19.829832",
+  "date_folder": "carousel_2026_04_27_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• A household member may need your support, but be careful not to drain your own energy while helping them.",
+      "• Be honest and direct with them; sometimes tough love is necessary for growth.",
+      "• Embrace your adventurous spirit, but remember to focus on practical plans for both today and tomorrow.",
+      "• Continue exploring life's mysteries, but stay grounded in the present to make the most of your journey."
+    ],
+    "love": [
+      "• Embrace the opportunity for a fresh start in your love life; it could lead to positive changes you’ve been wanting.",
+      "• Trust your instincts about what you truly desire; deep down, you know what will make you happy.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and make practical plans for your future.",
+      "• Use your natural curiosity to explore new connections and experiences in love; it’s a great time to broaden your horizons."
+    ],
+    "health": [
+      "• Acknowledge and face your emotions; it's okay to feel vulnerable and seek help from friends.",
+      "• If you're not feeling troubled, indulge in self-care with a nice dinner, a hot bath, and a good night's sleep.",
+      "• Embrace your optimistic and adventurous spirit, but remember to stay grounded and make practical plans for the future.",
+      "• Explore your unique personality and life path through self-reflection and personal growth."
+    ],
+    "career": [
+      "• You might feel isolated at work, but remember that you have universal support guiding you.",
+      "• Embrace your adventurous spirit and use it to connect with others around you.",
+      "• Stay optimistic, but also focus on making practical plans for your career future.",
+      "• Explore your unique talents and motivations to unlock your true potential."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
