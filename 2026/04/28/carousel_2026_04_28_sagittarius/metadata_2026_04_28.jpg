@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-28T11:15:00.288973",
+  "date_folder": "carousel_2026_04_28_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Attend a local event today that focuses on a social, ecological, or political issue; it could be exciting and enlightening.",
+      "• Consider bringing a romantic partner or friends along for a fun and engaging experience.",
+      "• Bring a notebook to record your thoughts and insights, as some information may be surprising.",
+      "• Embrace your adventurous spirit while also making sure to plan for the future and stay grounded."
+    ],
+    "love": [
+      "• Don't hesitate to start a conversation with that special person; it's important for making a connection.",
+      "• Overcome your fear of rejection by taking a bold approach in your interactions.",
+      "• Embrace your adventurous and optimistic nature to engage in meaningful dialogue.",
+      "• Stay grounded by balancing your love for exploration with practical plans for the future."
+    ],
+    "health": [
+      "• Embrace challenges as they can motivate you to pursue your goals with more enthusiasm and energy.",
+      "• Stay focused on your exercise routine to avoid potential injuries; prioritize your physical well-being.",
+      "• Pay extra attention to your legs and feet, as they may need special care during this time.",
+      "• Remember to stay grounded in the present while planning for the future; balance adventure with practicality."
+    ],
+    "career": [
+      "• You are experiencing a strong sense of direction, giving you the confidence to make important changes in your career.",
+      "• Embrace your intellectual and spiritual growth, as it will lead to new opportunities in your work.",
+      "• This is a great time to advance in your career, so be open to taking on new challenges.",
+      "• Balance your adventurous spirit with practical planning to ensure a successful future."
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
