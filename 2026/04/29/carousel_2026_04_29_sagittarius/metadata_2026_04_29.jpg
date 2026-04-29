@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-29T11:10:33.236673",
+  "date_folder": "carousel_2026_04_29_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Take your time to carefully read any contracts related to your home today, as they may contain complicated details.",
+      "• Don't hesitate to ask someone knowledgeable for help if you find the wording confusing.",
+      "• Understanding all aspects of the agreement will give you peace of mind before you sign anything.",
+      "• Remember to balance your adventurous spirit with practical planning for a secure future."
+    ],
+    "love": [
+      "• Engage in meaningful conversations today; your determination can lead to positive changes.",
+      "• Be honest about your needs; clear communication will help you progress in your relationships.",
+      "• Embrace your adventurous spirit and optimism, but remember to stay grounded in the present.",
+      "• Explore your unique personality through your Birth Chart to better understand your love journey."
+    ],
+    "health": [
+      "• Embrace your strong emotions today; they will empower you and enhance your communication with others.",
+      "• Share your feelings with friends and enjoy the lighthearted moments that come from vulnerability.",
+      "• Incorporate exercise into your routine to help channel your vibrant energy effectively.",
+      "• Stay optimistic and adventurous, but remember to focus on the present and make practical plans for your future health."
+    ],
+    "career": [
+      "• You have a hidden strength within you; use this power wisely to strategize your next career moves.",
+      "• Take advantage of others' lack of awareness to advance your goals and clarify your unique life path.",
+      "• Embrace your adventurous spirit, but remember to balance it with practical planning for your future.",
+      "• Your natural curiosity and philosophical mindset can lead to exciting opportunities; keep exploring!"
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
