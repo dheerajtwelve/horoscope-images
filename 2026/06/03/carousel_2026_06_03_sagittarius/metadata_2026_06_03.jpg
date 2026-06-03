@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-06-03T12:54:21.542410",
+  "date_folder": "carousel_2026_06_03_sagittarius",
+  "zodiac_sign": "sagittarius",
+  "horoscope_types": [
+    "daily",
+    "love",
+    "health",
+    "career"
+  ],
+  "total_images": 6,
+  "image_order": [
+    "1-date",
+    "2-daily",
+    "3-love",
+    "4-health",
+    "5-career",
+    "6-end"
+  ],
+  "bullet_points": {
+    "daily": [
+      "• Daily brings positive energy for Sagittarius today",
+      "• Focus on your goals and stay optimistic",
+      "• Trust your instincts and embrace new opportunities",
+      "• Good vibes and positive changes are coming your way"
+    ],
+    "love": [
+      "• Love brings positive energy for Sagittarius today",
+      "• Focus on your goals and stay optimistic",
+      "• Trust your instincts and embrace new opportunities",
+      "• Good vibes and positive changes are coming your way"
+    ],
+    "health": [
+      "• Health brings positive energy for Sagittarius today",
+      "• Focus on your goals and stay optimistic",
+      "• Trust your instincts and embrace new opportunities",
+      "• Good vibes and positive changes are coming your way"
+    ],
+    "career": [
+      "• Career brings positive energy for Sagittarius today",
+      "• Focus on your goals and stay optimistic",
+      "• Trust your instincts and embrace new opportunities",
+      "• Good vibes and positive changes are coming your way"
+    ]
+  },
+  "workflow_type": "carousel_complete"
+}
